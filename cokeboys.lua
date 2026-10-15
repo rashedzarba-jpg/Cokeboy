@@ -339,10 +339,10 @@ end
 local cokeboysLanguageOptions = {
 { code = "Auto", name = "Auto Detect" },
 { code = "English", name = "English" },
-{ code = "Spanish", name = "EspaÃ±ol" },
-{ code = "Portuguese", name = "PortuguÃªs (Brasil)" },
-{ code = "French", name = "FranÃ§ais" },
-{ code = "Vietnamese", name = "Tiáº¿ng Viá»t" },
+{ code = "Spanish", name = "Español" },
+{ code = "Portuguese", name = "Português (Brasil)" },
+{ code = "French", name = "Français" },
+{ code = "Vietnamese", name = "Tiếng Việt" },
 { code = "Indonesian", name = "Bahasa Indonesia" },
 { code = "Filipino", name = "Filipino" },
 }
@@ -357,24 +357,24 @@ Spanish = {
 ["Enter your access key to continue to Cokeboys."] = "Introduce tu clave de acceso para continuar a Cokeboys.",
 ["Access key"] = "Clave de acceso",
 ["Get Key"] = "Obtener clave",
-["Click Here to Get a Key"] = "Haz clic aquÃ­ para obtener una clave",
-["Join Discord"] = "Ãnete a Discord",
+["Click Here to Get a Key"] = "Haz clic aquí para obtener una clave",
+["Join Discord"] = "Únete a Discord",
 Language = "Idioma",
 Close = "Cerrar",
 ["Key accepted"] = "Clave aceptada",
-["Connection unavailable. Try again."] = "ConexiÃ³n no disponible. IntÃ©ntalo de nuevo.",
-["Unable to verify key. Try again."] = "No se pudo verificar la clave. IntÃ©ntalo de nuevo.",
+["Connection unavailable. Try again."] = "Conexión no disponible. Inténtalo de nuevo.",
+["Unable to verify key. Try again."] = "No se pudo verificar la clave. Inténtalo de nuevo.",
 ["Preparing Cokeboys..."] = "Preparando Cokeboys...",
 ["Clipboard unavailable"] = "Portapapeles no disponible",
-["<b>NEED ACCESS?</b>\nClick the key button to generate your own access key."] = "<b>Â¿NECESITAS ACCESO?</b>\nPulsa el botÃ³n de clave para generar tu propia clave.",
+["<b>NEED ACCESS?</b>\nClick the key button to generate your own access key."] = "<b>¿NECESITAS ACCESO?</b>\nPulsa el botón de clave para generar tu propia clave.",
 ["ACCESS KEY"] = "CLAVE DE ACCESO",
 ["Validate Key"] = "Validar clave",
-["Get-key link copied!"] = "Â¡Enlace de clave copiado!",
-["Discord invite copied!"] = "Â¡InvitaciÃ³n de Discord copiada!",
+["Get-key link copied!"] = "¡Enlace de clave copiado!",
+["Discord invite copied!"] = "¡Invitación de Discord copiada!",
 ["Please enter a key"] = "Introduce una clave",
-["Beta key retired - use Get a Key below"] = "La clave beta fue retirada; obtÃ©n una nueva abajo",
+["Beta key retired - use Get a Key below"] = "La clave beta fue retirada; obtén una nueva abajo",
 ["Checking..."] = "Comprobando...",
-["Invalid key"] = "Clave no vÃ¡lida",
+["Invalid key"] = "Clave no válida",
 Home = "Inicio",
 Movement = "Movimiento",
 Glitches = "Glitches",
@@ -385,7 +385,7 @@ Blacklist = "Lista negra",
 Exclude = "Excluir",
 Misc = "Varios",
 Macro = "Macro",
-Mobile = "MÃ³vil",
+Mobile = "Móvil",
 ["Skin Changer"] = "Cambiador de aspectos",
 Shop = "Tienda",
 Client = "Cliente",
@@ -402,14 +402,14 @@ RESET = "RESTABLECER",
 ["RGB Cycle"] = "Ciclo RGB",
 ["Preset Color"] = "Color predefinido",
 ["Indicator Color"] = "Color del indicador",
-["Button Color"] = "Color del botÃ³n",
+["Button Color"] = "Color del botón",
 Save = "Guardar",
 Cancel = "Cancelar",
 ["Pick a Color"] = "Elegir un color",
 ["Selected: "] = "Seleccionado: ",
 },
 Portuguese = {
-["Select the experience you want to use."] = "Selecione a experiÃªncia que deseja usar.",
+["Select the experience you want to use."] = "Selecione a experiência que deseja usar.",
 ["Enter your access key to continue"] = "Insira sua chave de acesso para continuar",
 ["Enter your access key to continue to Cokeboys."] = "Digite sua chave de acesso para continuar no Cokeboys.",
 ["Access key"] = "Chave de acesso",
@@ -419,11 +419,11 @@ Portuguese = {
 Language = "Idioma",
 Close = "Fechar",
 ["Key accepted"] = "Chave aceita",
-["Connection unavailable. Try again."] = "ConexÃ£o indisponÃ­vel. Tente novamente.",
-["Unable to verify key. Try again."] = "NÃ£o foi possÃ­vel verificar a chave. Tente novamente.",
+["Connection unavailable. Try again."] = "Conexão indisponível. Tente novamente.",
+["Unable to verify key. Try again."] = "Não foi possível verificar a chave. Tente novamente.",
 ["Preparing Cokeboys..."] = "Preparando Cokeboys...",
-["Clipboard unavailable"] = "Ãrea de transferÃªncia indisponÃ­vel",
-["<b>NEED ACCESS?</b>\nClick the key button to generate your own access key."] = "<b>PRECISA DE ACESSO?</b>\nClique no botÃ£o de chave para gerar sua prÃ³pria chave.",
+["Clipboard unavailable"] = "Área de transferência indisponível",
+["<b>NEED ACCESS?</b>\nClick the key button to generate your own access key."] = "<b>PRECISA DE ACESSO?</b>\nClique no botão de chave para gerar sua própria chave.",
 ["ACCESS KEY"] = "CHAVE DE ACESSO",
 ["Validate Key"] = "Validar chave",
 ["Get-key link copied!"] = "Link da chave copiado!",
@@ -431,8 +431,8 @@ Close = "Fechar",
 ["Please enter a key"] = "Insira uma chave",
 ["Beta key retired - use Get a Key below"] = "A chave beta foi removida; obtenha uma nova abaixo",
 ["Checking..."] = "Verificando...",
-["Invalid key"] = "Chave invÃ¡lida",
-Home = "InÃ­cio",
+["Invalid key"] = "Chave inválida",
+Home = "Início",
 Movement = "Movimento",
 Glitches = "Glitches",
 Aim = "Mira",
@@ -447,11 +447,11 @@ Mobile = "Celular",
 Shop = "Loja",
 Client = "Cliente",
 Key = "Chave",
-Appearance = "AparÃªncia",
-Settings = "ConfiguraÃ§Ãµes",
+Appearance = "Aparência",
+Settings = "Configurações",
 Keybinds = "Teclas",
 CONTROLS = "CONTROLES",
-ACTIONS = "AÃÃES",
+ACTIONS = "AÇÕES",
 VISIBILITY = "VISIBILIDADE",
 MODE = "MODO",
 RESET = "REDEFINIR",
@@ -459,40 +459,40 @@ RESET = "REDEFINIR",
 ["RGB Cycle"] = "Ciclo RGB",
 ["Preset Color"] = "Cor predefinida",
 ["Indicator Color"] = "Cor do indicador",
-["Button Color"] = "Cor do botÃ£o",
+["Button Color"] = "Cor do botão",
 Save = "Salvar",
 Cancel = "Cancelar",
 ["Pick a Color"] = "Escolha uma cor",
 ["Selected: "] = "Selecionado: ",
 },
 French = {
-["Select the experience you want to use."] = "SÃ©lectionnez lâexpÃ©rience que vous souhaitez utiliser.",
-["Enter your access key to continue"] = "Entrez votre clÃ© dâaccÃ¨s pour continuer",
-["Enter your access key to continue to Cokeboys."] = "Entrez votre clÃ© dâaccÃ¨s pour continuer vers Cokeboys.",
-["Access key"] = "ClÃ© dâaccÃ¨s",
-["Get Key"] = "Obtenir une clÃ©",
-["Click Here to Get a Key"] = "Cliquez ici pour obtenir une clÃ©",
+["Select the experience you want to use."] = "Sélectionnez l’expérience que vous souhaitez utiliser.",
+["Enter your access key to continue"] = "Entrez votre clé d’accès pour continuer",
+["Enter your access key to continue to Cokeboys."] = "Entrez votre clé d’accès pour continuer vers Cokeboys.",
+["Access key"] = "Clé d’accès",
+["Get Key"] = "Obtenir une clé",
+["Click Here to Get a Key"] = "Cliquez ici pour obtenir une clé",
 ["Join Discord"] = "Rejoindre Discord",
 Language = "Langue",
 Close = "Fermer",
-["Key accepted"] = "ClÃ© acceptÃ©e",
-["Connection unavailable. Try again."] = "Connexion indisponible. RÃ©essayez.",
-["Unable to verify key. Try again."] = "Impossible de vÃ©rifier la clÃ©. RÃ©essayez.",
-["Preparing Cokeboys..."] = "PrÃ©paration de Cokeboys...",
+["Key accepted"] = "Clé acceptée",
+["Connection unavailable. Try again."] = "Connexion indisponible. Réessayez.",
+["Unable to verify key. Try again."] = "Impossible de vérifier la clé. Réessayez.",
+["Preparing Cokeboys..."] = "Préparation de Cokeboys...",
 ["Clipboard unavailable"] = "Presse-papiers indisponible",
-["<b>NEED ACCESS?</b>\nClick the key button to generate your own access key."] = "<b>BESOIN D'ACCÃS ?</b>\nCliquez sur le bouton de clÃ© pour gÃ©nÃ©rer votre clÃ©.",
-["ACCESS KEY"] = "CLÃ D'ACCÃS",
-["Validate Key"] = "Valider la clÃ©",
-["Get-key link copied!"] = "Lien de clÃ© copiÃ© !",
-["Discord invite copied!"] = "Invitation Discord copiÃ©e !",
-["Please enter a key"] = "Veuillez entrer une clÃ©",
-["Beta key retired - use Get a Key below"] = "La clÃ© bÃªta a Ã©tÃ© retirÃ©e ; obtenez-en une nouvelle ci-dessous",
-["Checking..."] = "VÃ©rification...",
-["Invalid key"] = "ClÃ© invalide",
+["<b>NEED ACCESS?</b>\nClick the key button to generate your own access key."] = "<b>BESOIN D'ACCÈS ?</b>\nCliquez sur le bouton de clé pour générer votre clé.",
+["ACCESS KEY"] = "CLÉ D'ACCÈS",
+["Validate Key"] = "Valider la clé",
+["Get-key link copied!"] = "Lien de clé copié !",
+["Discord invite copied!"] = "Invitation Discord copiée !",
+["Please enter a key"] = "Veuillez entrer une clé",
+["Beta key retired - use Get a Key below"] = "La clé bêta a été retirée ; obtenez-en une nouvelle ci-dessous",
+["Checking..."] = "Vérification...",
+["Invalid key"] = "Clé invalide",
 Home = "Accueil",
 Movement = "Mouvement",
 Glitches = "Glitches",
-Aim = "VisÃ©e",
+Aim = "Visée",
 Visuals = "Visuels",
 Combat = "Combat",
 Blacklist = "Liste noire",
@@ -503,81 +503,81 @@ Mobile = "Mobile",
 ["Skin Changer"] = "Changeur d'effets",
 Shop = "Boutique",
 Client = "Client",
-Key = "ClÃ©",
+Key = "Clé",
 Appearance = "Apparence",
-Settings = "ParamÃ¨tres",
+Settings = "Paramètres",
 Keybinds = "Raccourcis",
 CONTROLS = "COMMANDES",
 ACTIONS = "ACTIONS",
-VISIBILITY = "VISIBILITÃ",
+VISIBILITY = "VISIBILITÉ",
 MODE = "MODE",
-RESET = "RÃINITIALISER",
+RESET = "RÉINITIALISER",
 ["Enable Skin Changer"] = "Activer le changeur d'effets",
 ["RGB Cycle"] = "Cycle RGB",
-["Preset Color"] = "Couleur prÃ©dÃ©finie",
+["Preset Color"] = "Couleur prédéfinie",
 ["Indicator Color"] = "Couleur de l'indicateur",
 ["Button Color"] = "Couleur du bouton",
 Save = "Enregistrer",
 Cancel = "Annuler",
 ["Pick a Color"] = "Choisir une couleur",
-["Selected: "] = "SÃ©lectionnÃ© : ",
+["Selected: "] = "Sélectionné : ",
 },
 Vietnamese = {
-["Select the experience you want to use."] = "Chá»n tráº£i nghiá»m báº¡n muá»n sá»­ dá»¥ng.",
-["Enter your access key to continue"] = "Nháº­p key truy cáº­p Äá» tiáº¿p tá»¥c",
-["Enter your access key to continue to Cokeboys."] = "Nháº­p mÃ£ truy cáº­p Äá» tiáº¿p tá»¥c Äáº¿n Cokeboys.",
-["Access key"] = "Key truy cáº­p",
-["Get Key"] = "Láº¥y key",
-["Click Here to Get a Key"] = "Nháº¥n vÃ o ÄÃ¢y Äá» láº¥y key",
+["Select the experience you want to use."] = "Chọn trải nghiệm bạn muốn sử dụng.",
+["Enter your access key to continue"] = "Nhập key truy cập để tiếp tục",
+["Enter your access key to continue to Cokeboys."] = "Nhập mã truy cập để tiếp tục đến Cokeboys.",
+["Access key"] = "Key truy cập",
+["Get Key"] = "Lấy key",
+["Click Here to Get a Key"] = "Nhấn vào đây để lấy key",
 ["Join Discord"] = "Tham gia Discord",
-Language = "NgÃ´n ngá»¯",
-Close = "ÄÃ³ng",
-["Key accepted"] = "Key ÄÆ°á»£c cháº¥p nháº­n",
-["Connection unavailable. Try again."] = "KhÃ´ng thá» káº¿t ná»i. HÃ£y thá»­ láº¡i.",
-["Unable to verify key. Try again."] = "KhÃ´ng thá» xÃ¡c minh key. HÃ£y thá»­ láº¡i.",
-["Preparing Cokeboys..."] = "Äang chuáº©n bá» Cokeboys...",
-["Clipboard unavailable"] = "KhÃ´ng cÃ³ bá» nhá» táº¡m",
-["<b>NEED ACCESS?</b>\nClick the key button to generate your own access key."] = "<b>Cáº¦N QUYá»N TRUY Cáº¬P?</b>\nNháº¥n nÃºt key Äá» táº¡o key truy cáº­p cá»§a báº¡n.",
-["ACCESS KEY"] = "KEY TRUY Cáº¬P",
-["Validate Key"] = "XÃ¡c thá»±c key",
-["Get-key link copied!"] = "ÄÃ£ sao chÃ©p liÃªn káº¿t láº¥y key!",
-["Discord invite copied!"] = "ÄÃ£ sao chÃ©p lá»i má»i Discord!",
-["Please enter a key"] = "Vui lÃ²ng nháº­p key",
-["Beta key retired - use Get a Key below"] = "Key beta ÄÃ£ bá» gá»¡; hÃ£y láº¥y key má»i bÃªn dÆ°á»i",
-["Checking..."] = "Äang kiá»m tra...",
-["Invalid key"] = "Key khÃ´ng há»£p lá»",
-Home = "Trang chá»§",
-Movement = "Di chuyá»n",
-Glitches = "Ká»¹ thuáº­t",
-Aim = "Ngáº¯m",
-Visuals = "Hiá»n thá»",
-Combat = "Chiáº¿n Äáº¥u",
-Blacklist = "Danh sÃ¡ch Äen",
-Exclude = "Loáº¡i trá»«",
-Misc = "KhÃ¡c",
+Language = "Ngôn ngữ",
+Close = "Đóng",
+["Key accepted"] = "Key được chấp nhận",
+["Connection unavailable. Try again."] = "Không thể kết nối. Hãy thử lại.",
+["Unable to verify key. Try again."] = "Không thể xác minh key. Hãy thử lại.",
+["Preparing Cokeboys..."] = "Đang chuẩn bị Cokeboys...",
+["Clipboard unavailable"] = "Không có bộ nhớ tạm",
+["<b>NEED ACCESS?</b>\nClick the key button to generate your own access key."] = "<b>CẦN QUYỀN TRUY CẬP?</b>\nNhấn nút key để tạo key truy cập của bạn.",
+["ACCESS KEY"] = "KEY TRUY CẬP",
+["Validate Key"] = "Xác thực key",
+["Get-key link copied!"] = "Đã sao chép liên kết lấy key!",
+["Discord invite copied!"] = "Đã sao chép lời mời Discord!",
+["Please enter a key"] = "Vui lòng nhập key",
+["Beta key retired - use Get a Key below"] = "Key beta đã bị gỡ; hãy lấy key mới bên dưới",
+["Checking..."] = "Đang kiểm tra...",
+["Invalid key"] = "Key không hợp lệ",
+Home = "Trang chủ",
+Movement = "Di chuyển",
+Glitches = "Kỹ thuật",
+Aim = "Ngắm",
+Visuals = "Hiển thị",
+Combat = "Chiến đấu",
+Blacklist = "Danh sách đen",
+Exclude = "Loại trừ",
+Misc = "Khác",
 Macro = "Macro",
-Mobile = "Di Äá»ng",
-["Skin Changer"] = "Äá»i hiá»u á»©ng",
-Shop = "Cá»­a hÃ ng",
-Client = "MÃ¡y khÃ¡ch",
+Mobile = "Di động",
+["Skin Changer"] = "Đổi hiệu ứng",
+Shop = "Cửa hàng",
+Client = "Máy khách",
 Key = "Key",
-Appearance = "Giao diá»n",
-Settings = "CÃ i Äáº·t",
-Keybinds = "PhÃ­m táº¯t",
-CONTROLS = "ÄIá»U KHIá»N",
-ACTIONS = "THAO TÃC",
-VISIBILITY = "HIá»N THá»",
-MODE = "CHáº¾ Äá»",
-RESET = "Äáº¶T Láº I",
-["Enable Skin Changer"] = "Báº­t Äá»i hiá»u á»©ng",
-["RGB Cycle"] = "Chu ká»³ RGB",
-["Preset Color"] = "MÃ u cÃ³ sáºµn",
-["Indicator Color"] = "MÃ u chá» bÃ¡o",
-["Button Color"] = "MÃ u nÃºt",
-Save = "LÆ°u",
-Cancel = "Há»§y",
-["Pick a Color"] = "Chá»n mÃ u",
-["Selected: "] = "ÄÃ£ chá»n: ",
+Appearance = "Giao diện",
+Settings = "Cài đặt",
+Keybinds = "Phím tắt",
+CONTROLS = "ĐIỀU KHIỂN",
+ACTIONS = "THAO TÁC",
+VISIBILITY = "HIỂN THỊ",
+MODE = "CHẾ ĐỘ",
+RESET = "ĐẶT LẠI",
+["Enable Skin Changer"] = "Bật đổi hiệu ứng",
+["RGB Cycle"] = "Chu kỳ RGB",
+["Preset Color"] = "Màu có sẵn",
+["Indicator Color"] = "Màu chỉ báo",
+["Button Color"] = "Màu nút",
+Save = "Lưu",
+Cancel = "Hủy",
+["Pick a Color"] = "Chọn màu",
+["Selected: "] = "Đã chọn: ",
 },
 Indonesian = {
 ["Select the experience you want to use."] = "Pilih pengalaman yang ingin Anda gunakan.",
@@ -702,28 +702,28 @@ Spanish = {
 ["Core Experience"] = "Experiencia Esencial",
 ["The complete Cokeboys experience."] = "La experiencia completa de Cokeboys.",
 ["A simple, focused Cokeboys experience."] = "Una experiencia Cokeboys sencilla y enfocada.",
-["Classic Experience"] = "Experiencia clÃ¡sica",
+["Classic Experience"] = "Experiencia clásica",
 ["Essential Features"] = "Funciones esenciales",
 ["Streamlined Interface"] = "Interfaz optimizada",
-["Faster Setup"] = "ConfiguraciÃ³n mÃ¡s rÃ¡pida",
+["Faster Setup"] = "Configuración más rápida",
 ["Launch Full"] = "Iniciar Full",
 ["Launch Core"] = "Iniciar Core",
 ["Choose Your Experience"] = "Elige tu experiencia",
-["You can change this again later."] = "PodrÃ¡s cambiar esto mÃ¡s adelante.",
+["You can change this again later."] = "Podrás cambiar esto más adelante.",
 Lite = "Lite",
 Full = "Full",
 Recommended = "Recomendado",
 ["Core Features"] = "Funciones principales",
-["Simpler Interface"] = "Interfaz mÃ¡s sencilla",
-["Easier to Use"] = "MÃ¡s fÃ¡cil de usar",
+["Simpler Interface"] = "Interfaz más sencilla",
+["Easier to Use"] = "Más fácil de usar",
 ["All Features"] = "Todas las funciones",
 ["Advanced Controls"] = "Controles avanzados",
-["Full Customization"] = "PersonalizaciÃ³n completa",
+["Full Customization"] = "Personalización completa",
 ["Load Lite"] = "Cargar Lite",
 ["Load Full"] = "Cargar Full",
-["Remember and skip this screen next time"] = "Recordar y omitir esta pantalla la prÃ³xima vez",
-["Choose how you want Cokeboys to run. You can change this later in Settings."] = "Elige cÃ³mo quieres usar Cokeboys. Puedes cambiarlo mÃ¡s tarde en Ajustes.",
-["Existing / Classic Experience"] = "Experiencia existente / clÃ¡sica",
+["Remember and skip this screen next time"] = "Recordar y omitir esta pantalla la próxima vez",
+["Choose how you want Cokeboys to run. You can change this later in Settings."] = "Elige cómo quieres usar Cokeboys. Puedes cambiarlo más tarde en Ajustes.",
+["Existing / Classic Experience"] = "Experiencia existente / clásica",
 ["Preparing Lite..."] = "Preparando Lite...",
 ["Preparing Full..."] = "Preparando Full...",
 ["Preference could not be saved"] = "No se pudo guardar la preferencia",
@@ -732,112 +732,112 @@ Recommended = "Recomendado",
 ["Cleanup could not be verified. Re-execute Cokeboys to continue."] = "No se pudo verificar la limpieza. Vuelve a ejecutar Cokeboys para continuar.",
 },
 Portuguese = {
-["Choose Your Cokeboys Experience"] = "Escolha sua experiÃªncia Cokeboys",
-["Select the experience that fits how you play."] = "Selecione a experiÃªncia que combina com seu jeito de jogar.",
-["Full Experience"] = "ExperiÃªncia Completa",
-["Core Experience"] = "ExperiÃªncia Essencial",
-["The complete Cokeboys experience."] = "A experiÃªncia Cokeboys completa.",
-["A simple, focused Cokeboys experience."] = "Uma experiÃªncia Cokeboys simples e focada.",
-["Classic Experience"] = "ExperiÃªncia clÃ¡ssica",
+["Choose Your Cokeboys Experience"] = "Escolha sua experiência Cokeboys",
+["Select the experience that fits how you play."] = "Selecione a experiência que combina com seu jeito de jogar.",
+["Full Experience"] = "Experiência Completa",
+["Core Experience"] = "Experiência Essencial",
+["The complete Cokeboys experience."] = "A experiência Cokeboys completa.",
+["A simple, focused Cokeboys experience."] = "Uma experiência Cokeboys simples e focada.",
+["Classic Experience"] = "Experiência clássica",
 ["Essential Features"] = "Recursos essenciais",
 ["Streamlined Interface"] = "Interface otimizada",
-["Faster Setup"] = "ConfiguraÃ§Ã£o mais rÃ¡pida",
+["Faster Setup"] = "Configuração mais rápida",
 ["Launch Full"] = "Iniciar Full",
 ["Launch Core"] = "Iniciar Core",
-["Choose Your Experience"] = "Escolha sua experiÃªncia",
-["You can change this again later."] = "VocÃª poderÃ¡ alterar isso mais tarde.",
+["Choose Your Experience"] = "Escolha sua experiência",
+["You can change this again later."] = "Você poderá alterar isso mais tarde.",
 Lite = "Lite",
 Full = "Full",
 Recommended = "Recomendado",
 ["Core Features"] = "Recursos principais",
 ["Simpler Interface"] = "Interface mais simples",
-["Easier to Use"] = "Mais fÃ¡cil de usar",
+["Easier to Use"] = "Mais fácil de usar",
 ["All Features"] = "Todos os recursos",
-["Advanced Controls"] = "Controles avanÃ§ados",
-["Full Customization"] = "PersonalizaÃ§Ã£o completa",
+["Advanced Controls"] = "Controles avançados",
+["Full Customization"] = "Personalização completa",
 ["Load Lite"] = "Carregar Lite",
 ["Load Full"] = "Carregar Full",
-["Remember and skip this screen next time"] = "Lembrar e pular esta tela na prÃ³xima vez",
-["Choose how you want Cokeboys to run. You can change this later in Settings."] = "Escolha como deseja usar o Cokeboys. VocÃª pode alterar isso depois em ConfiguraÃ§Ãµes.",
-["Existing / Classic Experience"] = "ExperiÃªncia existente / clÃ¡ssica",
+["Remember and skip this screen next time"] = "Lembrar e pular esta tela na próxima vez",
+["Choose how you want Cokeboys to run. You can change this later in Settings."] = "Escolha como deseja usar o Cokeboys. Você pode alterar isso depois em Configurações.",
+["Existing / Classic Experience"] = "Experiência existente / clássica",
 ["Preparing Lite..."] = "Preparando Lite...",
 ["Preparing Full..."] = "Preparando Full...",
-["Preference could not be saved"] = "NÃ£o foi possÃ­vel salvar a preferÃªncia",
+["Preference could not be saved"] = "Não foi possível salvar a preferência",
 ["Verifying key..."] = "Verificando a chave...",
 ["Starting %s..."] = "Iniciando %s...",
-["Cleanup could not be verified. Re-execute Cokeboys to continue."] = "NÃ£o foi possÃ­vel verificar a limpeza. Execute o Cokeboys novamente para continuar.",
+["Cleanup could not be verified. Re-execute Cokeboys to continue."] = "Não foi possível verificar a limpeza. Execute o Cokeboys novamente para continuar.",
 },
 French = {
-["Choose Your Cokeboys Experience"] = "Choisissez votre expÃ©rience Cokeboys",
-["Select the experience that fits how you play."] = "SÃ©lectionnez lâexpÃ©rience adaptÃ©e Ã  votre faÃ§on de jouer.",
-["Full Experience"] = "ExpÃ©rience ComplÃ¨te",
-["Core Experience"] = "ExpÃ©rience Essentielle",
-["The complete Cokeboys experience."] = "LâexpÃ©rience Cokeboys complÃ¨te.",
-["A simple, focused Cokeboys experience."] = "Une expÃ©rience Cokeboys simple et ciblÃ©e.",
-["Classic Experience"] = "ExpÃ©rience classique",
+["Choose Your Cokeboys Experience"] = "Choisissez votre expérience Cokeboys",
+["Select the experience that fits how you play."] = "Sélectionnez l’expérience adaptée à votre façon de jouer.",
+["Full Experience"] = "Expérience Complète",
+["Core Experience"] = "Expérience Essentielle",
+["The complete Cokeboys experience."] = "L’expérience Cokeboys complète.",
+["A simple, focused Cokeboys experience."] = "Une expérience Cokeboys simple et ciblée.",
+["Classic Experience"] = "Expérience classique",
 ["Essential Features"] = "Fonctions essentielles",
-["Streamlined Interface"] = "Interface optimisÃ©e",
+["Streamlined Interface"] = "Interface optimisée",
 ["Faster Setup"] = "Configuration plus rapide",
 ["Launch Full"] = "Lancer Full",
 ["Launch Core"] = "Lancer Core",
-["Choose Your Experience"] = "Choisissez votre expÃ©rience",
+["Choose Your Experience"] = "Choisissez votre expérience",
 ["You can change this again later."] = "Vous pourrez modifier ce choix plus tard.",
 Lite = "Lite",
 Full = "Full",
-Recommended = "RecommandÃ©",
+Recommended = "Recommandé",
 ["Core Features"] = "Fonctions essentielles",
-["Simpler Interface"] = "Interface simplifiÃ©e",
-["Easier to Use"] = "Plus facile Ã  utiliser",
+["Simpler Interface"] = "Interface simplifiée",
+["Easier to Use"] = "Plus facile à utiliser",
 ["All Features"] = "Toutes les fonctions",
-["Advanced Controls"] = "ContrÃ´les avancÃ©s",
-["Full Customization"] = "Personnalisation complÃ¨te",
+["Advanced Controls"] = "Contrôles avancés",
+["Full Customization"] = "Personnalisation complète",
 ["Load Lite"] = "Charger Lite",
 ["Load Full"] = "Charger Full",
-["Remember and skip this screen next time"] = "MÃ©moriser et ignorer cet Ã©cran la prochaine fois",
-["Choose how you want Cokeboys to run. You can change this later in Settings."] = "Choisissez comment utiliser Cokeboys. Vous pourrez modifier ce choix plus tard dans les paramÃ¨tres.",
-["Existing / Classic Experience"] = "ExpÃ©rience existante / classique",
-["Preparing Lite..."] = "PrÃ©paration de Lite...",
-["Preparing Full..."] = "PrÃ©paration de Full...",
-["Preference could not be saved"] = "La prÃ©fÃ©rence n'a pas pu Ãªtre enregistrÃ©e",
-["Verifying key..."] = "VÃ©rification de la clÃ©...",
-["Starting %s..."] = "DÃ©marrage de %s...",
-["Cleanup could not be verified. Re-execute Cokeboys to continue."] = "Le nettoyage n'a pas pu Ãªtre vÃ©rifiÃ©. Relancez Cokeboys pour continuer.",
+["Remember and skip this screen next time"] = "Mémoriser et ignorer cet écran la prochaine fois",
+["Choose how you want Cokeboys to run. You can change this later in Settings."] = "Choisissez comment utiliser Cokeboys. Vous pourrez modifier ce choix plus tard dans les paramètres.",
+["Existing / Classic Experience"] = "Expérience existante / classique",
+["Preparing Lite..."] = "Préparation de Lite...",
+["Preparing Full..."] = "Préparation de Full...",
+["Preference could not be saved"] = "La préférence n'a pas pu être enregistrée",
+["Verifying key..."] = "Vérification de la clé...",
+["Starting %s..."] = "Démarrage de %s...",
+["Cleanup could not be verified. Re-execute Cokeboys to continue."] = "Le nettoyage n'a pas pu être vérifié. Relancez Cokeboys pour continuer.",
 },
 Vietnamese = {
-["Choose Your Cokeboys Experience"] = "Chá»n tráº£i nghiá»m Cokeboys cá»§a báº¡n",
-["Select the experience that fits how you play."] = "Chá»n tráº£i nghiá»m phÃ¹ há»£p vá»i cÃ¡ch chÆ¡i cá»§a báº¡n.",
-["Full Experience"] = "Tráº£i Nghiá»m Äáº§y Äá»§",
-["Core Experience"] = "Tráº£i Nghiá»m Cá»t LÃµi",
-["The complete Cokeboys experience."] = "Tráº£i nghiá»m Cokeboys hoÃ n chá»nh.",
-["A simple, focused Cokeboys experience."] = "Tráº£i nghiá»m Cokeboys ÄÆ¡n giáº£n vÃ  táº­p trung.",
-["Classic Experience"] = "Tráº£i nghiá»m cá» Äiá»n",
-["Essential Features"] = "TÃ­nh nÄng thiáº¿t yáº¿u",
-["Streamlined Interface"] = "Giao diá»n tinh gá»n",
-["Faster Setup"] = "Thiáº¿t láº­p nhanh hÆ¡n",
-["Launch Full"] = "Khá»i cháº¡y Full",
-["Launch Core"] = "Khá»i cháº¡y Core",
-["Choose Your Experience"] = "Chá»n tráº£i nghiá»m cá»§a báº¡n",
-["You can change this again later."] = "Báº¡n cÃ³ thá» Äá»i lá»±a chá»n nÃ y sau.",
+["Choose Your Cokeboys Experience"] = "Chọn trải nghiệm Cokeboys của bạn",
+["Select the experience that fits how you play."] = "Chọn trải nghiệm phù hợp với cách chơi của bạn.",
+["Full Experience"] = "Trải Nghiệm Đầy Đủ",
+["Core Experience"] = "Trải Nghiệm Cốt Lõi",
+["The complete Cokeboys experience."] = "Trải nghiệm Cokeboys hoàn chỉnh.",
+["A simple, focused Cokeboys experience."] = "Trải nghiệm Cokeboys đơn giản và tập trung.",
+["Classic Experience"] = "Trải nghiệm cổ điển",
+["Essential Features"] = "Tính năng thiết yếu",
+["Streamlined Interface"] = "Giao diện tinh gọn",
+["Faster Setup"] = "Thiết lập nhanh hơn",
+["Launch Full"] = "Khởi chạy Full",
+["Launch Core"] = "Khởi chạy Core",
+["Choose Your Experience"] = "Chọn trải nghiệm của bạn",
+["You can change this again later."] = "Bạn có thể đổi lựa chọn này sau.",
 Lite = "Lite",
 Full = "Full",
-Recommended = "Äá» xuáº¥t",
-["Core Features"] = "TÃ­nh nÄng cá»t lÃµi",
-["Simpler Interface"] = "Giao diá»n ÄÆ¡n giáº£n hÆ¡n",
-["Easier to Use"] = "Dá» sá»­ dá»¥ng hÆ¡n",
-["All Features"] = "Táº¥t cáº£ tÃ­nh nÄng",
-["Advanced Controls"] = "Äiá»u khiá»n nÃ¢ng cao",
-["Full Customization"] = "TÃ¹y chá»nh Äáº§y Äá»§",
-["Load Lite"] = "Táº£i Lite",
-["Load Full"] = "Táº£i Full",
-["Remember and skip this screen next time"] = "Ghi nhá» vÃ  bá» qua mÃ n hÃ¬nh nÃ y láº§n sau",
-["Choose how you want Cokeboys to run. You can change this later in Settings."] = "Chá»n cÃ¡ch báº¡n muá»n Cokeboys hoáº¡t Äá»ng. Báº¡n cÃ³ thá» thay Äá»i sau trong CÃ i Äáº·t.",
-["Existing / Classic Experience"] = "Tráº£i nghiá»m hiá»n cÃ³ / cá» Äiá»n",
-["Preparing Lite..."] = "Äang chuáº©n bá» Lite...",
-["Preparing Full..."] = "Äang chuáº©n bá» Full...",
-["Preference could not be saved"] = "KhÃ´ng thá» lÆ°u tÃ¹y chá»n",
-["Verifying key..."] = "Äang xÃ¡c minh khÃ³a...",
-["Starting %s..."] = "Äang khá»i Äá»ng %s...",
-["Cleanup could not be verified. Re-execute Cokeboys to continue."] = "KhÃ´ng thá» xÃ¡c minh viá»c dá»n dáº¹p. HÃ£y cháº¡y láº¡i Cokeboys Äá» tiáº¿p tá»¥c.",
+Recommended = "Đề xuất",
+["Core Features"] = "Tính năng cốt lõi",
+["Simpler Interface"] = "Giao diện đơn giản hơn",
+["Easier to Use"] = "Dễ sử dụng hơn",
+["All Features"] = "Tất cả tính năng",
+["Advanced Controls"] = "Điều khiển nâng cao",
+["Full Customization"] = "Tùy chỉnh đầy đủ",
+["Load Lite"] = "Tải Lite",
+["Load Full"] = "Tải Full",
+["Remember and skip this screen next time"] = "Ghi nhớ và bỏ qua màn hình này lần sau",
+["Choose how you want Cokeboys to run. You can change this later in Settings."] = "Chọn cách bạn muốn Cokeboys hoạt động. Bạn có thể thay đổi sau trong Cài đặt.",
+["Existing / Classic Experience"] = "Trải nghiệm hiện có / cổ điển",
+["Preparing Lite..."] = "Đang chuẩn bị Lite...",
+["Preparing Full..."] = "Đang chuẩn bị Full...",
+["Preference could not be saved"] = "Không thể lưu tùy chọn",
+["Verifying key..."] = "Đang xác minh khóa...",
+["Starting %s..."] = "Đang khởi động %s...",
+["Cleanup could not be verified. Re-execute Cokeboys to continue."] = "Không thể xác minh việc dọn dẹp. Hãy chạy lại Cokeboys để tiếp tục.",
 },
 Indonesian = {
 ["Choose Your Cokeboys Experience"] = "Pilih pengalaman Cokeboys Anda",
@@ -937,41 +937,41 @@ Midnight = "Medianoche",
 ["Top Left"] = "Arriba izquierda",
 ["Bottom Right"] = "Abajo derecha",
 ["Bottom Left"] = "Abajo izquierda",
-Line = "LÃ­nea",
+Line = "Línea",
 None = "Ninguno",
 Tap = "Tocar",
 Hold = "Mantener",
 On = "Activado",
 Off = "Desactivado",
-["Jumps After Skill"] = "Saltos despuÃ©s de la habilidad",
+["Jumps After Skill"] = "Saltos después de la habilidad",
 Jump = "Salto",
 Jumps = "Saltos",
 ["Skill Aimbot"] = "Aimbot de habilidades",
 ["Soru Aimbot"] = "Aimbot de Soru",
-["Auto Prediction"] = "PredicciÃ³n automÃ¡tica",
+["Auto Prediction"] = "Predicción automática",
 ["Safe Zone Filter"] = "Filtro de zona segura",
 ["Target Mode"] = "Modo de objetivo",
 ["Target Priority"] = "Prioridad de objetivo",
 ["Target Switch Delay"] = "Retraso de cambio de objetivo",
-["360Â° Targeting"] = "Objetivo 360Â°",
+["360° Targeting"] = "Objetivo 360°",
 ["Skill CamLock"] = "CamLock de habilidades",
-["Ability Range Check"] = "ComprobaciÃ³n de alcance",
-["Show FOV Circle"] = "Mostrar cÃ­rculo FOV",
+["Ability Range Check"] = "Comprobación de alcance",
+["Show FOV Circle"] = "Mostrar círculo FOV",
 ["ESP Enabled"] = "Activar ESP",
 ["Speed Boost"] = "Aumento de velocidad",
 ["Dash Boost"] = "Aumento de dash",
 ["Jump Boost"] = "Aumento de salto",
 ["Walk on Water"] = "Caminar sobre agua",
 ["Walk on Lava"] = "Caminar sobre lava",
-["Auto V3"] = "V3 automÃ¡tico",
+["Auto V3"] = "V3 automático",
 ["Smart V3"] = "V3 inteligente",
-["Auto V4"] = "V4 automÃ¡tico",
+["Auto V4"] = "V4 automático",
 ["Smart V4"] = "V4 inteligente",
 ["Normal Safe Mode"] = "Modo seguro normal",
 ["Disable Notifications"] = "Desactivar notificaciones",
 ["Streamer Mode"] = "Modo streamer",
 ["Hide Control Fruit Effects"] = "Ocultar efectos de la fruta Control",
-["Locally hides Control's room visuals and pauses its heavy bubble animation"] = "Oculta localmente los efectos de la sala de Control y pausa la pesada animaciÃ³n de la burbuja",
+["Locally hides Control's room visuals and pauses its heavy bubble animation"] = "Oculta localmente los efectos de la sala de Control y pausa la pesada animación de la burbuja",
 },
 Portuguese = {
 LANGUAGE = "IDIOMA",
@@ -998,35 +998,35 @@ Tap = "Toque",
 Hold = "Segurar",
 On = "Ligado",
 Off = "Desligado",
-["Jumps After Skill"] = "Saltos apÃ³s a habilidade",
+["Jumps After Skill"] = "Saltos após a habilidade",
 Jump = "Salto",
 Jumps = "Saltos",
 ["Skill Aimbot"] = "Aimbot de habilidades",
 ["Soru Aimbot"] = "Aimbot de Soru",
-["Auto Prediction"] = "PrediÃ§Ã£o automÃ¡tica",
+["Auto Prediction"] = "Predição automática",
 ["Safe Zone Filter"] = "Filtro de zona segura",
 ["Target Mode"] = "Modo de alvo",
 ["Target Priority"] = "Prioridade do alvo",
 ["Target Switch Delay"] = "Atraso para trocar alvo",
-["360Â° Targeting"] = "Alvo 360Â°",
+["360° Targeting"] = "Alvo 360°",
 ["Skill CamLock"] = "CamLock de habilidades",
-["Ability Range Check"] = "VerificaÃ§Ã£o de alcance",
-["Show FOV Circle"] = "Mostrar cÃ­rculo FOV",
+["Ability Range Check"] = "Verificação de alcance",
+["Show FOV Circle"] = "Mostrar círculo FOV",
 ["ESP Enabled"] = "Ativar ESP",
 ["Speed Boost"] = "Aumento de velocidade",
 ["Dash Boost"] = "Aumento de dash",
 ["Jump Boost"] = "Aumento de pulo",
-["Walk on Water"] = "Andar na Ã¡gua",
+["Walk on Water"] = "Andar na água",
 ["Walk on Lava"] = "Andar na lava",
-["Auto V3"] = "V3 automÃ¡tico",
+["Auto V3"] = "V3 automático",
 ["Smart V3"] = "V3 inteligente",
-["Auto V4"] = "V4 automÃ¡tico",
+["Auto V4"] = "V4 automático",
 ["Smart V4"] = "V4 inteligente",
 ["Normal Safe Mode"] = "Modo seguro normal",
-["Disable Notifications"] = "Desativar notificaÃ§Ãµes",
+["Disable Notifications"] = "Desativar notificações",
 ["Streamer Mode"] = "Modo streamer",
 ["Hide Control Fruit Effects"] = "Ocultar efeitos da fruta Control",
-["Locally hides Control's room visuals and pauses its heavy bubble animation"] = "Oculta localmente os efeitos da sala do Control e pausa a animaÃ§Ã£o pesada da bolha",
+["Locally hides Control's room visuals and pauses its heavy bubble animation"] = "Oculta localmente os efeitos da sala do Control e pausa a animação pesada da bolha",
 },
 French = {
 LANGUAGE = "LANGUE",
@@ -1042,30 +1042,30 @@ Purple = "Violet",
 Blue = "Bleu",
 Black = "Noir",
 Midnight = "Minuit",
-["Custom RGB"] = "RGB personnalisÃ©",
-["Top Right"] = "En haut Ã  droite",
-["Top Left"] = "En haut Ã  gauche",
-["Bottom Right"] = "En bas Ã  droite",
-["Bottom Left"] = "En bas Ã  gauche",
+["Custom RGB"] = "RGB personnalisé",
+["Top Right"] = "En haut à droite",
+["Top Left"] = "En haut à gauche",
+["Bottom Right"] = "En bas à droite",
+["Bottom Left"] = "En bas à gauche",
 Line = "Ligne",
 None = "Aucun",
 Tap = "Appui",
 Hold = "Maintenir",
-On = "ActivÃ©",
-Off = "DÃ©sactivÃ©",
-["Jumps After Skill"] = "Sauts aprÃ¨s la compÃ©tence",
+On = "Activé",
+Off = "Désactivé",
+["Jumps After Skill"] = "Sauts après la compétence",
 Jump = "Saut",
 Jumps = "Sauts",
-["Skill Aimbot"] = "Aimbot de compÃ©tences",
+["Skill Aimbot"] = "Aimbot de compétences",
 ["Soru Aimbot"] = "Aimbot de Soru",
-["Auto Prediction"] = "PrÃ©diction automatique",
-["Safe Zone Filter"] = "Filtre de zone sÃ»re",
+["Auto Prediction"] = "Prédiction automatique",
+["Safe Zone Filter"] = "Filtre de zone sûre",
 ["Target Mode"] = "Mode de ciblage",
-["Target Priority"] = "PrioritÃ© de cible",
-["Target Switch Delay"] = "DÃ©lai de changement de cible",
-["360Â° Targeting"] = "Ciblage Ã  360Â°",
-["Skill CamLock"] = "CamLock des compÃ©tences",
-["Ability Range Check"] = "VÃ©rification de portÃ©e",
+["Target Priority"] = "Priorité de cible",
+["Target Switch Delay"] = "Délai de changement de cible",
+["360° Targeting"] = "Ciblage à 360°",
+["Skill CamLock"] = "CamLock des compétences",
+["Ability Range Check"] = "Vérification de portée",
 ["Show FOV Circle"] = "Afficher le cercle FOV",
 ["ESP Enabled"] = "Activer l'ESP",
 ["Speed Boost"] = "Boost de vitesse",
@@ -1077,66 +1077,66 @@ Jumps = "Sauts",
 ["Smart V3"] = "V3 intelligent",
 ["Auto V4"] = "V4 automatique",
 ["Smart V4"] = "V4 intelligent",
-["Normal Safe Mode"] = "Mode sÃ©curisÃ© normal",
-["Disable Notifications"] = "DÃ©sactiver les notifications",
+["Normal Safe Mode"] = "Mode sécurisé normal",
+["Disable Notifications"] = "Désactiver les notifications",
 ["Streamer Mode"] = "Mode streamer",
 ["Hide Control Fruit Effects"] = "Masquer les effets du fruit Control",
 ["Locally hides Control's room visuals and pauses its heavy bubble animation"] = "Masque localement les effets de la salle de Control et met en pause la lourde animation de la bulle",
 },
 Vietnamese = {
-LANGUAGE = "NGÃN NGá»®",
-["Select Language"] = "Chá»n ngÃ´n ngá»¯",
-Gold = "VÃ ng",
-Red = "Äá»",
-Green = "Xanh lÃ¡",
-Cyan = "Xanh ngá»c",
-White = "Tráº¯ng",
-Magenta = "Há»ng tÃ­m",
-Pink = "Há»ng",
-Purple = "TÃ­m",
-Blue = "Xanh dÆ°Æ¡ng",
-Black = "Äen",
-Midnight = "ÄÃªm",
-["Custom RGB"] = "RGB tÃ¹y chá»nh",
-["Top Right"] = "TrÃªn pháº£i",
-["Top Left"] = "TrÃªn trÃ¡i",
-["Bottom Right"] = "DÆ°á»i pháº£i",
-["Bottom Left"] = "DÆ°á»i trÃ¡i",
-Line = "ÄÆ°á»ng",
-None = "KhÃ´ng",
-Tap = "Cháº¡m",
-Hold = "Giá»¯",
-On = "Báº­t",
-Off = "Táº¯t",
-["Jumps After Skill"] = "Nháº£y sau ká»¹ nÄng",
-Jump = "Láº§n nháº£y",
-Jumps = "Láº§n nháº£y",
-["Skill Aimbot"] = "Aimbot ká»¹ nÄng",
+LANGUAGE = "NGÔN NGỮ",
+["Select Language"] = "Chọn ngôn ngữ",
+Gold = "Vàng",
+Red = "Đỏ",
+Green = "Xanh lá",
+Cyan = "Xanh ngọc",
+White = "Trắng",
+Magenta = "Hồng tím",
+Pink = "Hồng",
+Purple = "Tím",
+Blue = "Xanh dương",
+Black = "Đen",
+Midnight = "Đêm",
+["Custom RGB"] = "RGB tùy chỉnh",
+["Top Right"] = "Trên phải",
+["Top Left"] = "Trên trái",
+["Bottom Right"] = "Dưới phải",
+["Bottom Left"] = "Dưới trái",
+Line = "Đường",
+None = "Không",
+Tap = "Chạm",
+Hold = "Giữ",
+On = "Bật",
+Off = "Tắt",
+["Jumps After Skill"] = "Nhảy sau kỹ năng",
+Jump = "Lần nhảy",
+Jumps = "Lần nhảy",
+["Skill Aimbot"] = "Aimbot kỹ năng",
 ["Soru Aimbot"] = "Aimbot Soru",
-["Auto Prediction"] = "Dá»± ÄoÃ¡n tá»± Äá»ng",
-["Safe Zone Filter"] = "Lá»c vÃ¹ng an toÃ n",
-["Target Mode"] = "Cháº¿ Äá» má»¥c tiÃªu",
-["Target Priority"] = "Æ¯u tiÃªn má»¥c tiÃªu",
-["Target Switch Delay"] = "Äá» trá» Äá»i má»¥c tiÃªu",
-["360Â° Targeting"] = "Nháº¯m má»¥c tiÃªu 360Â°",
-["Skill CamLock"] = "CamLock ká»¹ nÄng",
-["Ability Range Check"] = "Kiá»m tra táº§m ká»¹ nÄng",
-["Show FOV Circle"] = "Hiá»n vÃ²ng FOV",
-["ESP Enabled"] = "Báº­t ESP",
-["Speed Boost"] = "TÄng tá»c",
-["Dash Boost"] = "TÄng dash",
-["Jump Boost"] = "TÄng nháº£y",
-["Walk on Water"] = "Äi trÃªn nÆ°á»c",
-["Walk on Lava"] = "Äi trÃªn dung nham",
-["Auto V3"] = "V3 tá»± Äá»ng",
-["Smart V3"] = "V3 thÃ´ng minh",
-["Auto V4"] = "V4 tá»± Äá»ng",
-["Smart V4"] = "V4 thÃ´ng minh",
-["Normal Safe Mode"] = "Cháº¿ Äá» an toÃ n thÆ°á»ng",
-["Disable Notifications"] = "Táº¯t thÃ´ng bÃ¡o",
-["Streamer Mode"] = "Cháº¿ Äá» streamer",
-["Hide Control Fruit Effects"] = "áº¨n hiá»u á»©ng trÃ¡i Control",
-["Locally hides Control's room visuals and pauses its heavy bubble animation"] = "áº¨n cá»¥c bá» hiá»u á»©ng phÃ²ng Control vÃ  táº¡m dá»«ng hoáº¡t áº£nh bong bÃ³ng náº·ng",
+["Auto Prediction"] = "Dự đoán tự động",
+["Safe Zone Filter"] = "Lọc vùng an toàn",
+["Target Mode"] = "Chế độ mục tiêu",
+["Target Priority"] = "Ưu tiên mục tiêu",
+["Target Switch Delay"] = "Độ trễ đổi mục tiêu",
+["360° Targeting"] = "Nhắm mục tiêu 360°",
+["Skill CamLock"] = "CamLock kỹ năng",
+["Ability Range Check"] = "Kiểm tra tầm kỹ năng",
+["Show FOV Circle"] = "Hiện vòng FOV",
+["ESP Enabled"] = "Bật ESP",
+["Speed Boost"] = "Tăng tốc",
+["Dash Boost"] = "Tăng dash",
+["Jump Boost"] = "Tăng nhảy",
+["Walk on Water"] = "Đi trên nước",
+["Walk on Lava"] = "Đi trên dung nham",
+["Auto V3"] = "V3 tự động",
+["Smart V3"] = "V3 thông minh",
+["Auto V4"] = "V4 tự động",
+["Smart V4"] = "V4 thông minh",
+["Normal Safe Mode"] = "Chế độ an toàn thường",
+["Disable Notifications"] = "Tắt thông báo",
+["Streamer Mode"] = "Chế độ streamer",
+["Hide Control Fruit Effects"] = "Ẩn hiệu ứng trái Control",
+["Locally hides Control's room visuals and pauses its heavy bubble animation"] = "Ẩn cục bộ hiệu ứng phòng Control và tạm dừng hoạt ảnh bong bóng nặng",
 },
 Indonesian = {
 LANGUAGE = "BAHASA",
@@ -1173,7 +1173,7 @@ Jumps = "Lompatan",
 ["Target Mode"] = "Mode target",
 ["Target Priority"] = "Prioritas target",
 ["Target Switch Delay"] = "Jeda pergantian target",
-["360Â° Targeting"] = "Penargetan 360Â°",
+["360° Targeting"] = "Penargetan 360°",
 ["Skill CamLock"] = "CamLock skill",
 ["Ability Range Check"] = "Pemeriksaan jangkauan",
 ["Show FOV Circle"] = "Tampilkan lingkaran FOV",
@@ -1228,7 +1228,7 @@ Jumps = "Mga talon",
 ["Target Mode"] = "Target Mode",
 ["Target Priority"] = "Prayoridad ng Target",
 ["Target Switch Delay"] = "Delay sa Pagpalit ng Target",
-["360Â° Targeting"] = "360Â° Targeting",
+["360° Targeting"] = "360° Targeting",
 ["Skill CamLock"] = "Skill CamLock",
 ["Ability Range Check"] = "Pagsuri ng Abot ng Ability",
 ["Show FOV Circle"] = "Ipakita ang FOV Circle",
@@ -1268,7 +1268,7 @@ Sword = "Espada",
 Gun = "Arma",
 Weapon = "Arma",
 ["Skill Key"] = "Tecla de habilidad",
-Placement = "PosiciÃ³n",
+Placement = "Posición",
 Count = "Cantidad",
 Attack = "Ataque",
 Attacks = "Ataques",
@@ -1280,7 +1280,7 @@ STOPPED = "DETENIDO",
 IDLE = "INACTIVO",
 EXCLUDED = "EXCLUIDO",
 Clear = "Borrar",
-Add = "AÃ±adir",
+Add = "Añadir",
 },
 Portuguese = {
 ON = "LIGADO",
@@ -1295,33 +1295,33 @@ Sword = "Espada",
 Gun = "Arma",
 Weapon = "Arma",
 ["Skill Key"] = "Tecla da habilidade",
-Placement = "PosiÃ§Ã£o",
+Placement = "Posição",
 Count = "Quantidade",
 Attack = "Ataque",
 Attacks = "Ataques",
 BLOCK = "BLOCO",
 BLOCKS = "BLOCOS",
-SLOTS = "ESPAÃOS",
-Slot = "EspaÃ§o",
+SLOTS = "ESPAÇOS",
+Slot = "Espaço",
 STOPPED = "PARADO",
 IDLE = "INATIVO",
-EXCLUDED = "EXCLUÃDO",
+EXCLUDED = "EXCLUÍDO",
 Clear = "Limpar",
 Add = "Adicionar",
 },
 French = {
-ON = "ACTIVÃ",
-OFF = "DÃSACTIVÃ",
+ON = "ACTIVÉ",
+OFF = "DÉSACTIVÉ",
 TAP = "APPUYER",
 HOLD = "MAINTENIR",
-Enabled = "ActivÃ©",
-Disabled = "DÃ©sactivÃ©",
-Melee = "MÃªlÃ©e",
+Enabled = "Activé",
+Disabled = "Désactivé",
+Melee = "Mêlée",
 Fruit = "Fruit",
-Sword = "ÃpÃ©e",
+Sword = "Épée",
 Gun = "Arme",
 Weapon = "Arme",
-["Skill Key"] = "Touche de compÃ©tence",
+["Skill Key"] = "Touche de compétence",
 Placement = "Position",
 Count = "Nombre",
 Attack = "Attaque",
@@ -1330,38 +1330,38 @@ BLOCK = "BLOC",
 BLOCKS = "BLOCS",
 SLOTS = "EMPLACEMENTS",
 Slot = "Emplacement",
-STOPPED = "ARRÃTÃ",
+STOPPED = "ARRÊTÉ",
 IDLE = "INACTIF",
 EXCLUDED = "EXCLU",
 Clear = "Effacer",
 Add = "Ajouter",
 },
 Vietnamese = {
-ON = "Báº¬T",
-OFF = "Táº®T",
-TAP = "CHáº M",
-HOLD = "GIá»®",
-Enabled = "ÄÃ£ báº­t",
-Disabled = "ÄÃ£ táº¯t",
-Melee = "Cáº­n chiáº¿n",
-Fruit = "TrÃ¡i Ã¡c quá»·",
-Sword = "Kiáº¿m",
-Gun = "SÃºng",
-Weapon = "VÅ© khÃ­",
-["Skill Key"] = "PhÃ­m ká»¹ nÄng",
-Placement = "Vá» trÃ­",
-Count = "Sá» láº§n",
-Attack = "ÄÃ²n ÄÃ¡nh",
-Attacks = "ÄÃ²n ÄÃ¡nh",
-BLOCK = "KHá»I",
-BLOCKS = "CÃC KHá»I",
-SLOTS = "Ã",
-Slot = "Ã",
-STOPPED = "ÄÃ Dá»ªNG",
-IDLE = "CHá»",
-EXCLUDED = "ÄÃ LOáº I TRá»ª",
-Clear = "XÃ³a",
-Add = "ThÃªm",
+ON = "BẬT",
+OFF = "TẮT",
+TAP = "CHẠM",
+HOLD = "GIỮ",
+Enabled = "Đã bật",
+Disabled = "Đã tắt",
+Melee = "Cận chiến",
+Fruit = "Trái ác quỷ",
+Sword = "Kiếm",
+Gun = "Súng",
+Weapon = "Vũ khí",
+["Skill Key"] = "Phím kỹ năng",
+Placement = "Vị trí",
+Count = "Số lần",
+Attack = "Đòn đánh",
+Attacks = "Đòn đánh",
+BLOCK = "KHỐI",
+BLOCKS = "CÁC KHỐI",
+SLOTS = "Ô",
+Slot = "Ô",
+STOPPED = "ĐÃ DỪNG",
+IDLE = "CHỜ",
+EXCLUDED = "ĐÃ LOẠI TRỪ",
+Clear = "Xóa",
+Add = "Thêm",
 },
 Indonesian = {
 ON = "AKTIF",
@@ -1516,189 +1516,189 @@ end
 _G.__CokeboysRegisterTranslationRows({
 { "FPS", "FPS", "FPS", "FPS", "FPS", "FPS" },
 { "Ping", "Latencia", "Ping", "Latence", "Ping", "Ping" },
-{ "SERVER", "SERVIDOR", "SERVIDOR", "SERVEUR", "MÃY CHá»¦", "SERVER" },
-{ "SESSION", "SESIÃN", "SESSÃO", "SESSION", "PHIÃN", "SESI" },
-{ "PLAYERS", "JUGADORES", "JOGADORES", "JOUEURS", "NGÆ¯á»I CHÆ I", "PEMAIN" },
-{ "BOUNTY", "RECOMPENSA", "RECOMPENSA", "PRIME", "TRUY NÃ", "BOUNTY" },
-{ "HONOR", "HONOR", "HONRA", "HONNEUR", "DANH Dá»°", "KEHORMATAN" },
+{ "SERVER", "SERVIDOR", "SERVIDOR", "SERVEUR", "MÁY CHỦ", "SERVER" },
+{ "SESSION", "SESIÓN", "SESSÃO", "SESSION", "PHIÊN", "SESI" },
+{ "PLAYERS", "JUGADORES", "JOGADORES", "JOUEURS", "NGƯỜI CHƠI", "PEMAIN" },
+{ "BOUNTY", "RECOMPENSA", "RECOMPENSA", "PRIME", "TRUY NÃ", "BOUNTY" },
+{ "HONOR", "HONOR", "HONRA", "HONNEUR", "DANH DỰ", "KEHORMATAN" },
 {
 "SYNCING",
 "SINCRONIZANDO",
 "SINCRONIZANDO",
 "SYNCHRONISATION",
-"ÄANG Äá»NG Bá»",
+"ĐANG ĐỒNG BỘ",
 "MENYINKRONKAN",
 },
-{ "Keybind", "tecla", "atalho", "raccourci", "phÃ­m táº¯t", "tombol pintas" },
-{ "Press", "Pulsa", "Pressione", "Appuyez", "Nháº¥n", "Tekan" },
+{ "Keybind", "tecla", "atalho", "raccourci", "phím tắt", "tombol pintas" },
+{ "Press", "Pulsa", "Pressione", "Appuyez", "Nhấn", "Tekan" },
 {
 "to switch to the next eligible target",
-"para cambiar al siguiente objetivo vÃ¡lido",
-"para mudar para o prÃ³ximo alvo vÃ¡lido",
-"pour passer Ã  la prochaine cible valide",
-"Äá» chuyá»n sang má»¥c tiÃªu há»£p lá» tiáº¿p theo",
+"para cambiar al siguiente objetivo válido",
+"para mudar para o próximo alvo válido",
+"pour passer à la prochaine cible valide",
+"để chuyển sang mục tiêu hợp lệ tiếp theo",
 "untuk beralih ke target valid berikutnya",
 },
 {
 "Restock in",
-"ReposiciÃ³n en",
+"Reposición en",
 "Reabastece em",
-"RÃ©approvisionnement dans",
-"CÃ³ láº¡i sau",
+"Réapprovisionnement dans",
+"Có lại sau",
 "Stok ulang dalam",
 },
-{ "more", "mÃ¡s", "mais", "de plus", "ná»¯a", "lagi" },
-{ "PRIMARY", "PRINCIPAL", "PRINCIPAL", "PRINCIPAL", "CHÃNH", "UTAMA" },
-{ "MARINE", "MARINE", "MARINE", "MARINE", "Háº¢I QUÃN", "MARINE" },
-{ "PIRATE", "PIRATA", "PIRATA", "PIRATE", "Háº¢I Táº¶C", "BAJAK LAUT" },
+{ "more", "más", "mais", "de plus", "nữa", "lagi" },
+{ "PRIMARY", "PRINCIPAL", "PRINCIPAL", "PRINCIPAL", "CHÍNH", "UTAMA" },
+{ "MARINE", "MARINE", "MARINE", "MARINE", "HẢI QUÂN", "MARINE" },
+{ "PIRATE", "PIRATA", "PIRATA", "PIRATE", "HẢI TẶC", "BAJAK LAUT" },
 {
 "SELECTING TEAM",
 "ELIGIENDO EQUIPO",
 "ESCOLHENDO EQUIPE",
-"CHOIX DE L'ÃQUIPE",
-"ÄANG CHá»N Äá»I",
+"CHOIX DE L'ÉQUIPE",
+"ĐANG CHỌN ĐỘI",
 "MEMILIH TIM",
 },
-{ "INCLUDE", "INCLUIR", "INCLUIR", "INCLURE", "BAO Gá»M", "SERTAKAN" },
-{ "EXCLUDE", "EXCLUIR", "EXCLUIR", "EXCLURE", "LOáº I TRá»ª", "KECUALIKAN" },
-{ "Player", "Jugador", "Jogador", "Joueur", "NgÆ°á»i chÆ¡i", "Pemain" },
+{ "INCLUDE", "INCLUIR", "INCLUIR", "INCLURE", "BAO GỒM", "SERTAKAN" },
+{ "EXCLUDE", "EXCLUIR", "EXCLUIR", "EXCLURE", "LOẠI TRỪ", "KECUALIKAN" },
+{ "Player", "Jugador", "Jogador", "Joueur", "Người chơi", "Pemain" },
 {
 "Identity hidden",
 "Identidad oculta",
 "Identidade oculta",
-"IdentitÃ© masquÃ©e",
-"ÄÃ£ áº©n danh tÃ­nh",
+"Identité masquée",
+"Đã ẩn danh tính",
 "Identitas disembunyikan",
 },
-{ "AUTO", "AUTO", "AUTO", "AUTO", "Tá»° Äá»NG", "OTOMATIS" },
-{ "MANUAL", "MANUAL", "MANUAL", "MANUEL", "THá»¦ CÃNG", "MANUAL" },
+{ "AUTO", "AUTO", "AUTO", "AUTO", "TỰ ĐỘNG", "OTOMATIS" },
+{ "MANUAL", "MANUAL", "MANUAL", "MANUEL", "THỦ CÔNG", "MANUAL" },
 {
 "Show Less",
 "Mostrar menos",
 "Mostrar menos",
 "Afficher moins",
-"Hiá»n Ã­t hÆ¡n",
+"Hiện ít hơn",
 "Tampilkan lebih sedikit",
 },
 {
 "Show All Checks",
 "Mostrar todas las comprobaciones",
-"Mostrar todas as verificaÃ§Ãµes",
-"Afficher toutes les vÃ©rifications",
-"Hiá»n táº¥t cáº£ kiá»m tra",
+"Mostrar todas as verificações",
+"Afficher toutes les vérifications",
+"Hiện tất cả kiểm tra",
 "Tampilkan semua pemeriksaan",
 },
 {
 "Show All Skills",
 "Mostrar todas las habilidades",
 "Mostrar todas as habilidades",
-"Afficher toutes les compÃ©tences",
-"Hiá»n táº¥t cáº£ ká»¹ nÄng",
+"Afficher toutes les compétences",
+"Hiện tất cả kỹ năng",
 "Tampilkan semua kemampuan",
 },
-{ "IN", "DENTRO", "DENTRO", "Ã PORTÃE", "TRONG Táº¦M", "DALAM JANGKAUAN" },
-{ "OUT", "FUERA", "FORA", "HORS PORTÃE", "NGOÃI Táº¦M", "DI LUAR JANGKAUAN" },
-{ "READY", "LISTO", "PRONTO", "PRÃT", "Sáº´N SÃNG", "SIAP" },
-{ "Ken Off", "Ken desactivado", "Ken desligado", "Ken dÃ©sactivÃ©", "Ken táº¯t", "Ken mati" },
-{ "PvP Off", "PvP desactivado", "PvP desligado", "PvP dÃ©sactivÃ©", "PvP táº¯t", "PvP mati" },
-{ "In Combat", "En combate", "Em combate", "En combat", "Äang giao tranh", "Dalam pertarungan" },
-{ "Safe Zone", "Zona segura", "Zona segura", "Zone sÃ»re", "Khu an toÃ n", "Zona aman" },
-{ "PvP On", "PvP activado", "PvP ligado", "PvP activÃ©", "PvP báº­t", "PvP aktif" },
+{ "IN", "DENTRO", "DENTRO", "À PORTÉE", "TRONG TẦM", "DALAM JANGKAUAN" },
+{ "OUT", "FUERA", "FORA", "HORS PORTÉE", "NGOÀI TẦM", "DI LUAR JANGKAUAN" },
+{ "READY", "LISTO", "PRONTO", "PRÊT", "SẴN SÀNG", "SIAP" },
+{ "Ken Off", "Ken desactivado", "Ken desligado", "Ken désactivé", "Ken tắt", "Ken mati" },
+{ "PvP Off", "PvP desactivado", "PvP desligado", "PvP désactivé", "PvP tắt", "PvP mati" },
+{ "In Combat", "En combate", "Em combate", "En combat", "Đang giao tranh", "Dalam pertarungan" },
+{ "Safe Zone", "Zona segura", "Zona segura", "Zone sûre", "Khu an toàn", "Zona aman" },
+{ "PvP On", "PvP activado", "PvP ligado", "PvP activé", "PvP bật", "PvP aktif" },
 {
 "Exclude All",
 "Excluir a todos",
 "Excluir todos",
 "Tout exclure",
-"Loáº¡i trá»« táº¥t cáº£",
+"Loại trừ tất cả",
 "Kecualikan semua",
 },
-{ "Clear All", "Borrar todo", "Limpar tudo", "Tout effacer", "XÃ³a táº¥t cáº£", "Bersihkan semua" },
-{ "WAIT", "ESPERA", "AGUARDE", "ATTENTE", "CHá»", "TUNGGU" },
-{ "STOP", "PARAR", "PARAR", "ARRÃT", "Dá»ªNG", "BERHENTI" },
+{ "Clear All", "Borrar todo", "Limpar tudo", "Tout effacer", "Xóa tất cả", "Bersihkan semua" },
+{ "WAIT", "ESPERA", "AGUARDE", "ATTENTE", "CHỜ", "TUNGGU" },
+{ "STOP", "PARAR", "PARAR", "ARRÊT", "DỪNG", "BERHENTI" },
 { "MACRO", "MACRO", "MACRO", "MACRO", "MACRO", "MAKRO" },
-{ "TAGGED", "EN COMBATE", "EM COMBATE", "EN COMBAT", "ÄANG GIAO TRANH", "DALAM PERTARUNGAN" },
-{ "COPY", "COPIAR", "COPIAR", "COPIER", "SAO CHÃP", "SALIN" },
-{ "PC ONLY", "SOLO PC", "SOMENTE PC", "PC UNIQUEMENT", "CHá» PC", "KHUSUS PC" },
+{ "TAGGED", "EN COMBATE", "EM COMBATE", "EN COMBAT", "ĐANG GIAO TRANH", "DALAM PERTARUNGAN" },
+{ "COPY", "COPIAR", "COPIAR", "COPIER", "SAO CHÉP", "SALIN" },
+{ "PC ONLY", "SOLO PC", "SOMENTE PC", "PC UNIQUEMENT", "CHỈ PC", "KHUSUS PC" },
 {
 "Press a key",
 "Pulsa una tecla",
 "Pressione uma tecla",
 "Appuyez sur une touche",
-"Nháº¥n má»t phÃ­m",
+"Nhấn một phím",
 "Tekan sebuah tombol",
 },
 {
 "Esc to cancel",
 "Esc para cancelar",
 "Esc para cancelar",
-"Ãchap pour annuler",
-"Esc Äá» há»§y",
+"Échap pour annuler",
+"Esc để hủy",
 "Esc untuk batal",
 },
 {
 "Backspace to clear",
 "Retroceso para borrar",
 "Backspace para limpar",
-"Retour arriÃ¨re pour effacer",
-"Backspace Äá» xÃ³a",
+"Retour arrière pour effacer",
+"Backspace để xóa",
 "Backspace untuk menghapus",
 },
 {
 "Shared with:",
 "Compartida con:",
 "Compartilhada com:",
-"PartagÃ©e avec :",
-"DÃ¹ng chung vá»i:",
+"Partagée avec :",
+"Dùng chung với:",
 "Digunakan bersama:",
 },
-{ "LANGUAGE", "IDIOMA", "IDIOMA", "LANGUE", "NGÃN NGá»®", "BAHASA" },
-{ "Language", "Idioma", "Idioma", "Langue", "NgÃ´n ngá»¯", "Bahasa" },
+{ "LANGUAGE", "IDIOMA", "IDIOMA", "LANGUE", "NGÔN NGỮ", "BAHASA" },
+{ "Language", "Idioma", "Idioma", "Langue", "Ngôn ngữ", "Bahasa" },
 {
 "Auto Detect",
-"DetecciÃ³n automÃ¡tica",
-"DetecÃ§Ã£o automÃ¡tica",
-"DÃ©tection automatique",
-"Tá»± Äá»ng phÃ¡t hiá»n",
+"Detección automática",
+"Detecção automática",
+"Détection automatique",
+"Tự động phát hiện",
 "Deteksi otomatis",
 },
 {
 "Changes every script label immediately and saves for future sessions.",
-"Cambia inmediatamente todos los textos del script y guarda la selecciÃ³n para futuras sesiones.",
-"Altera imediatamente todos os textos do script e salva a seleÃ§Ã£o para sessÃµes futuras.",
-"Modifie immÃ©diatement tous les textes du script et enregistre le choix pour les prochaines sessions.",
-"Thay Äá»i ngay toÃ n bá» vÄn báº£n cá»§a script vÃ  lÆ°u lá»±a chá»n cho nhá»¯ng láº§n sau.",
+"Cambia inmediatamente todos los textos del script y guarda la selección para futuras sesiones.",
+"Altera imediatamente todos os textos do script e salva a seleção para sessões futuras.",
+"Modifie immédiatement tous les textes du script et enregistre le choix pour les prochaines sessions.",
+"Thay đổi ngay toàn bộ văn bản của script và lưu lựa chọn cho những lần sau.",
 "Langsung mengubah semua teks script dan menyimpan pilihan untuk sesi berikutnya.",
 },
 {
 "Language Changed",
 "Idioma cambiado",
 "Idioma alterado",
-"Langue modifiÃ©e",
-"ÄÃ£ Äá»i ngÃ´n ngá»¯",
+"Langue modifiée",
+"Đã đổi ngôn ngữ",
 "Bahasa diubah",
 },
 {
 "The interface is now using your selected language.",
 "La interfaz ahora usa el idioma seleccionado.",
 "A interface agora usa o idioma selecionado.",
-"L'interface utilise maintenant la langue sÃ©lectionnÃ©e.",
-"Giao diá»n hiá»n Äang dÃ¹ng ngÃ´n ngá»¯ báº¡n ÄÃ£ chá»n.",
+"L'interface utilise maintenant la langue sélectionnée.",
+"Giao diện hiện đang dùng ngôn ngữ bạn đã chọn.",
 "Antarmuka sekarang menggunakan bahasa pilihan Anda.",
 },
 {
 "ON-SCREEN BUTTONS",
 "BOTONES EN PANTALLA",
-"BOTÃES NA TELA",
-"BOUTONS Ã L'ÃCRAN",
-"NÃT TRÃN MÃN HÃNH",
+"BOTÕES NA TELA",
+"BOUTONS À L'ÉCRAN",
+"NÚT TRÊN MÀN HÌNH",
 "TOMBOL DI LAYAR",
 },
 {
 "Choose which shortcuts appear over the game. These switches only show or hide buttons.",
-"Elige quÃ© atajos aparecen sobre el juego. Estos interruptores solo muestran u ocultan botones.",
-"Escolha quais atalhos aparecem durante o jogo. Essas opÃ§Ãµes apenas mostram ou ocultam botÃµes.",
+"Elige qué atajos aparecen sobre el juego. Estos interruptores solo muestran u ocultan botones.",
+"Escolha quais atalhos aparecem durante o jogo. Essas opções apenas mostram ou ocultam botões.",
 "Choisissez les raccourcis qui apparaissent dans le jeu. Ces options affichent ou masquent uniquement les boutons.",
-"Chá»n cÃ¡c phÃ­m táº¯t xuáº¥t hiá»n trong trÃ² chÆ¡i. CÃ¡c cÃ´ng táº¯c nÃ y chá» hiá»n thá» hoáº·c áº©n nÃºt.",
+"Chọn các phím tắt xuất hiện trong trò chơi. Các công tắc này chỉ hiển thị hoặc ẩn nút.",
 "Pilih pintasan yang muncul di game. Pengaturan ini hanya menampilkan atau menyembunyikan tombol.",
 },
 {
@@ -1706,7 +1706,7 @@ _G.__CokeboysRegisterTranslationRows({
 "Mostrar Aimbot",
 "Mostrar Aimbot",
 "Afficher l'Aimbot",
-"Hiá»n Aimbot",
+"Hiện Aimbot",
 "Tampilkan Aimbot",
 },
 {
@@ -1714,7 +1714,7 @@ _G.__CokeboysRegisterTranslationRows({
 "Mostrar Macro",
 "Mostrar Macro",
 "Afficher la Macro",
-"Hiá»n Macro",
+"Hiện Macro",
 "Tampilkan Makro",
 },
 {
@@ -1722,15 +1722,15 @@ _G.__CokeboysRegisterTranslationRows({
 "Mostrar bloqueo de objetivo",
 "Mostrar bloqueio de alvo",
 "Afficher le verrouillage de cible",
-"Hiá»n KhÃ³a má»¥c tiÃªu",
+"Hiện Khóa mục tiêu",
 "Tampilkan Kunci Target",
 },
 {
 "Show Fast Attack",
-"Mostrar ataque rÃ¡pido",
-"Mostrar ataque rÃ¡pido",
+"Mostrar ataque rápido",
+"Mostrar ataque rápido",
 "Afficher l'attaque rapide",
-"Hiá»n Táº¥n cÃ´ng nhanh",
+"Hiện Tấn công nhanh",
 "Tampilkan Serangan Cepat",
 },
 {
@@ -1738,15 +1738,15 @@ _G.__CokeboysRegisterTranslationRows({
 "Mostrar Soru Aim",
 "Mostrar Mira Soru",
 "Afficher Soru Aim",
-"Hiá»n Soru Aim",
+"Hiện Soru Aim",
 "Tampilkan Soru Aim",
 },
 {
 "Show Reset Character",
 "Mostrar reinicio de personaje",
-"Mostrar reinÃ­cio de personagem",
-"Afficher la rÃ©initialisation du personnage",
-"Hiá»n Äáº·t láº¡i nhÃ¢n váº­t",
+"Mostrar reinício de personagem",
+"Afficher la réinitialisation du personnage",
+"Hiện Đặt lại nhân vật",
 "Tampilkan Reset Karakter",
 },
 {
@@ -1754,7 +1754,7 @@ _G.__CokeboysRegisterTranslationRows({
 "Mostrar Sang Z",
 "Mostrar Sang Z",
 "Afficher Sang Z",
-"Hiá»n Sang Z",
+"Hiện Sang Z",
 "Tampilkan Sang Z",
 },
 {
@@ -1762,7 +1762,7 @@ _G.__CokeboysRegisterTranslationRows({
 "Mostrar Ragdoll",
 "Mostrar Ragdoll",
 "Afficher Ragdoll",
-"Hiá»n Ragdoll",
+"Hiện Ragdoll",
 "Tampilkan Ragdoll",
 },
 {
@@ -1770,55 +1770,55 @@ _G.__CokeboysRegisterTranslationRows({
 "Mostrar Diamond Boost",
 "Mostrar Diamond Boost",
 "Afficher Diamond Boost",
-"Hiá»n Diamond Boost",
+"Hiện Diamond Boost",
 "Tampilkan Diamond Boost",
 },
 {
 "Shows a shortcut for turning Skill Aimbot on or off.",
 "Muestra un atajo para activar o desactivar Skill Aimbot.",
 "Mostra um atalho para ativar ou desativar o Skill Aimbot.",
-"Affiche un raccourci pour activer ou dÃ©sactiver Skill Aimbot.",
-"Hiá»n thá» phÃ­m táº¯t Äá» báº­t hoáº·c táº¯t Skill Aimbot.",
+"Affiche un raccourci pour activer ou désactiver Skill Aimbot.",
+"Hiển thị phím tắt để bật hoặc tắt Skill Aimbot.",
 "Menampilkan pintasan untuk mengaktifkan atau menonaktifkan Skill Aimbot.",
 },
 {
 "Shows a shortcut for starting or stopping Smart Macro.",
 "Muestra un atajo para iniciar o detener Smart Macro.",
 "Mostra um atalho para iniciar ou parar o Smart Macro.",
-"Affiche un raccourci pour dÃ©marrer ou arrÃªter Smart Macro.",
-"Hiá»n thá» phÃ­m táº¯t Äá» báº¯t Äáº§u hoáº·c dá»«ng Smart Macro.",
+"Affiche un raccourci pour démarrer ou arrêter Smart Macro.",
+"Hiển thị phím tắt để bắt đầu hoặc dừng Smart Macro.",
 "Menampilkan pintasan untuk memulai atau menghentikan Smart Macro.",
 },
 {
 "Shows a shortcut for locking or releasing your current target.",
 "Muestra un atajo para bloquear o liberar tu objetivo actual.",
 "Mostra um atalho para bloquear ou liberar seu alvo atual.",
-"Affiche un raccourci pour verrouiller ou libÃ©rer votre cible actuelle.",
-"Hiá»n thá» phÃ­m táº¯t Äá» khÃ³a hoáº·c tháº£ má»¥c tiÃªu hiá»n táº¡i.",
+"Affiche un raccourci pour verrouiller ou libérer votre cible actuelle.",
+"Hiển thị phím tắt để khóa hoặc thả mục tiêu hiện tại.",
 "Menampilkan pintasan untuk mengunci atau melepaskan target saat ini.",
 },
 {
 "Shows a shortcut for turning Fast Attack on or off.",
 "Muestra un atajo para activar o desactivar Fast Attack.",
 "Mostra um atalho para ativar ou desativar o Fast Attack.",
-"Affiche un raccourci pour activer ou dÃ©sactiver Fast Attack.",
-"Hiá»n thá» phÃ­m táº¯t Äá» báº­t hoáº·c táº¯t Fast Attack.",
+"Affiche un raccourci pour activer ou désactiver Fast Attack.",
+"Hiển thị phím tắt để bật hoặc tắt Fast Attack.",
 "Menampilkan pintasan untuk mengaktifkan atau menonaktifkan Fast Attack.",
 },
 {
 "Shows a one-tap aimed Soru shortcut.",
 "Muestra un atajo de Soru dirigido con un solo toque.",
 "Mostra um atalho de Soru direcionado com um toque.",
-"Affiche un raccourci Soru ciblÃ© en un seul appui.",
-"Hiá»n thá» phÃ­m táº¯t Soru nháº¯m má»¥c tiÃªu báº±ng má»t láº§n cháº¡m.",
+"Affiche un raccourci Soru ciblé en un seul appui.",
+"Hiển thị phím tắt Soru nhắm mục tiêu bằng một lần chạm.",
 "Menampilkan pintasan Soru terarah dengan satu ketukan.",
 },
 {
 "Shows a reset shortcut that only works outside combat.",
 "Muestra un atajo de reinicio que solo funciona fuera del combate.",
-"Mostra um atalho de reinÃ­cio que funciona apenas fora do combate.",
-"Affiche un raccourci de rÃ©initialisation utilisable uniquement hors combat.",
-"Hiá»n thá» phÃ­m táº¯t Äáº·t láº¡i chá» hoáº¡t Äá»ng ngoÃ i chiáº¿n Äáº¥u.",
+"Mostra um atalho de reinício que funciona apenas fora do combate.",
+"Affiche un raccourci de réinitialisation utilisable uniquement hors combat.",
+"Hiển thị phím tắt đặt lại chỉ hoạt động ngoài chiến đấu.",
 "Menampilkan pintasan reset yang hanya berfungsi di luar pertarungan.",
 },
 {
@@ -1826,15 +1826,15 @@ _G.__CokeboysRegisterTranslationRows({
 "Muestra un atajo para el impulso Sanguine Z.",
 "Mostra um atalho para o impulso Sanguine Z.",
 "Affiche un raccourci pour le boost Sanguine Z.",
-"Hiá»n thá» phÃ­m táº¯t cho tÄng cÆ°á»ng Sanguine Z.",
+"Hiển thị phím tắt cho tăng cường Sanguine Z.",
 "Menampilkan pintasan untuk peningkatan Sanguine Z.",
 },
 {
 "Shows a shortcut for the ragdoll-after-skill feature.",
-"Muestra un atajo para la funciÃ³n de ragdoll despuÃ©s de una habilidad.",
-"Mostra um atalho para o recurso de ragdoll apÃ³s uma habilidade.",
-"Affiche un raccourci pour la fonction de ragdoll aprÃ¨s une compÃ©tence.",
-"Hiá»n thá» phÃ­m táº¯t cho tÃ­nh nÄng ragdoll sau ká»¹ nÄng.",
+"Muestra un atajo para la función de ragdoll después de una habilidad.",
+"Mostra um atalho para o recurso de ragdoll após uma habilidade.",
+"Affiche un raccourci pour la fonction de ragdoll après une compétence.",
+"Hiển thị phím tắt cho tính năng ragdoll sau kỹ năng.",
 "Menampilkan pintasan untuk fitur ragdoll setelah skill.",
 },
 {
@@ -1842,24 +1842,24 @@ _G.__CokeboysRegisterTranslationRows({
 "Muestra un atajo para el impulso Diamond M1.",
 "Mostra um atalho para o impulso Diamond M1.",
 "Affiche un raccourci pour le boost Diamond M1.",
-"Hiá»n thá» phÃ­m táº¯t cho tÄng cÆ°á»ng Diamond M1.",
+"Hiển thị phím tắt cho tăng cường Diamond M1.",
 "Menampilkan pintasan untuk peningkatan Diamond M1.",
 },
 {
 "SMART MACRO VIDEO GUIDE",
-"GUÃA EN VIDEO DE SMART MACRO",
-"GUIA EM VÃDEO DO SMART MACRO",
-"GUIDE VIDÃO DE SMART MACRO",
-"VIDEO HÆ¯á»NG DáºªN SMART MACRO",
+"GUÍA EN VIDEO DE SMART MACRO",
+"GUIA EM VÍDEO DO SMART MACRO",
+"GUIDE VIDÉO DE SMART MACRO",
+"VIDEO HƯỚNG DẪN SMART MACRO",
 "PANDUAN VIDEO SMART MACRO",
 "SMART MACRO VIDEO GUIDE",
 },
 {
 "Video guide link copied!",
-"Â¡Enlace de la guÃ­a en video copiado!",
-"Link do guia em vÃ­deo copiado!",
-"Lien du guide vidÃ©o copiÃ© !",
-"ÄÃ£ sao chÃ©p liÃªn káº¿t video hÆ°á»ng dáº«n!",
+"¡Enlace de la guía en video copiado!",
+"Link do guia em vídeo copiado!",
+"Lien du guide vidéo copié !",
+"Đã sao chép liên kết video hướng dẫn!",
 "Tautan panduan video disalin!",
 "Nakopya ang link ng video guide!",
 },
@@ -1926,14 +1926,14 @@ local v5 = v[arg] or tbl6[arg]
 if v5 then
 return v5
 end
-local match, v6, v7 = arg:match("^(MELEE|FRUIT|SWORD|GUN) M1%s+â¢%s+(%d+) (ATTACKS?)$")
+local match, v6, v7 = arg:match("^(MELEE|FRUIT|SWORD|GUN) M1%s+•%s+(%d+) (ATTACKS?)$")
 match = match or arg:match("^(MELEE|FRUIT|SWORD|GUN) M1$")
 if match then
 local str5 = match:sub(1, 1) .. match:sub(2):lower()
 local v8 = v[str5] or str5
 if v6 then
 local str6 = v7 == "ATTACK" and "Attack" or "Attacks"
-return v8:upper() .. " M1  â¢  " .. v6 .. " " .. (v[str6] or str6):upper()
+return v8:upper() .. " M1  •  " .. v6 .. " " .. (v[str6] or str6):upper()
 end
 return v8:upper() .. " M1"
 end
@@ -4217,7 +4217,7 @@ end);
 end);
 end
 -- ============================================================================
--- DevAurora Code â key system bypass (replaces the fn28 authenticated launch)
+-- DevAurora Code — key system bypass (replaces the fn28 authenticated launch)
 -- Replicates the loader's own commit path (W) with a local, always-valid
 -- state: VALIDATING -> INITIALIZING with the launch table resolved, so the
 -- runtime's auth checks and __CokeboysMarkRuntimeReady work unchanged.
@@ -43869,3 +43869,3180 @@ function _G.__CokeboysSyncConfigUI()
 d[9].FastAttackDelay = math.clamp(tonumber(d[9].FastAttackDelay) or 0.1, 0.02, 10);
 d[9].MobileVisibility = d[9].MobileVisibility or {};
 d[9].MobileVisibility.CAMLOCK = d[9].PermanentCamLockMode == true;
+if d[9].PermanentCamLockMode == true then
+d[9].SkillCamLock = false;
+if Ug then
+Ug();
+end;
+elseif CB_PERMANENT_CAMLOCK and CB_PERMANENT_CAMLOCK.enabled and _G.__CokeboysSetPermanentCamLock then
+_G.__CokeboysSetPermanentCamLock(false);
+end;
+if f then
+pcall(L, false);
+end;
+local g, T = {["Ignore Low Level Players"] = d[9].IgnoreLowLevelPlayers == true, ["Safe Zone Filter"] = d[9].AimAssist.InCombatOnly,
+["360\194\176 Targeting"] = d[9].AimAssist.Full360 == true, ["FOV Follows Cursor"] = d[9].AimAssist.UseFOVAim,
+["Auto Prediction"] = d[9].AutoPrediction == true, ["Soru Aimbot"] = d[9].SoruAimbot, ["Aim Normal Soru"] = d[9].NormalSoruAimbot,
+["Show FOV Circle"] = d[9].AimAssist.ShowFOV, ["Indicator Outline"] = d[9].TargetIndicatorOutline == true,
+["Ability Range Check"] = d[9].AbilityReachCheck == true, ["ESP Enabled"] = d[9].ESP.Enabled, ["Extended Info Panel"] = d[9].ESP.ShowPlayerInfo,
+["Show Name"] = d[9].ESP.ShowName ~= false, ["Show Level"] = d[9].ESP.ShowLevel ~= false, ["Show Bounty"] = d[9].ESP.ShowBounty ~= false,
+["Bounty Name Colors"] = d[9].ESP.UseBountyColors ~= false, ["Health Bar"] = d[9].ESP.ShowHealthBar ~= false,
+["Show Race"] = d[9].ESP.ShowRace ~= false, ["Show Observation"] = d[9].ESP.ShowKen ~= false, ["Show Distance"] = d[9].ESP.ShowDistance ~= false,
+["Show PvP State"] = d[9].ESP.ShowCombatState ~= false, ["Limit ESP Distance"] = d[9].ESP.LimitDistance,
+["Anti Stun"] = d[9].AntiStun, ["Portal X Escape"] = d[9].AntiCombo, ["Skull Guitar X Escape"] = d[9].AntiComboSkull,
+["Soru Escape"] = not f and d[9].AntiComboSoru, ["Fast Attack"] = d[9].FastAttack, ["Auto Skull Guitar"] = d[9].AutoSkullGuitar,
+["Only When Skull Guitar Is Equipped"] = d[9].AutoSkullGuitarOnlyEquipped, ["Ignore Fruit [M1]"] = qg("Fruit", "M1"),
+["Ignore Gun [M1]"] = qg("Gun", "M1"), ["100% Buddy Sword Accuracy"] = d[9].BuddySwordAccuracy, ["100% Spider C Accuracy"] = d[9].SpiderCAccuracy,
+["Hitbox Expander"] = d[9].HitboxExpander, ["Show Hitboxes"] = d[9].HitboxVisual, ["Infinite Soru"] = d[9].InfiniteSoru,
+["Soru Skill Macro"] = d[9].SoruSkillMacro, ["Dash Boost"] = d[9].DashBoost, ["Skull Guitar Momentum Boost"] = d[9].SoulGuitarMomentumBoost == true,
+["Diamond M1 Boost"] = d[9].DiamondM1Boost == true, ["Jump Boost"] = d[9].JumpBoost, ["Infinite Air Jump"] = d[9].InfiniteAirJump,
+["Hold Space Air Jump"] = d[9].HoldInfiniteAirJump, ["Super Jump Button"] = d[9].AirJumpButton, ["Lock Mobile Buttons"] = d[9].LockMobileButtons == true,
+["Custom Button Colors"] = d[9].MobileButtonCustomColors == true, ["Sanguine Z Boost"] = d[9].SangZBoost,
+["No Ragdoll After Boost"] = d[9].SangZNoRagdoll == true, ["Ragdoll After Skill"] = d[9].YamaZBoost,
+["Auto Buso"] = d[9].AutoBuso, ["Auto Observation"] = d[9].AutoObservation, ["Auto V3"] = d[9].AutoV3,
+["Smart V3"] = d[9].SmartV3, ["Auto V4"] = d[9].AutoV4, ["Smart V4"] = d[9].SmartV4, ["Hide V4 Effects"] = d[9].HideV4Effects == true,
+["FPS Booster"] = d[9].FPSBooster == true, ["Hide Control Fruit Effects"] = d[9].HideControlEffects == true,
+["Walk on Water"] = d[9].WalkOnWater, ["Walk on Lava"] = d[9].WalkOnLava, ["Speed Boost"] = d[9].SpeedBoost,
+["Show Macro Status"] = d[9].Combo.ShowStatus, ["Anti AFK"] = d[9].AntiAFK, ["Auto Fast Mode"] = d[9].AutoFastMode == true,
+["Auto Roll Fruits"] = d[9].AutoRollFruits == true, ["\226\157\164\239\184\143 Safe Mode"] = d[9].NormalSafeMode == true,
+["Remember Hidden UI"] = d[9].RememberGuiHidden, ["No Camera Shake"] = d[9].NoCameraShake, ["No Background Music"] = d[9].NoBackgroundMusic,
+["Disable Notifications"] = d[9].DisableNotifications == true, ["Show FPS / Ping"] = d[9].ShowFPSPing,
+["Show Session Info"] = d[9].ShowSessionInfo == true, ["Show Bounty / Honor"] = d[9].ShowBountyHonor == true,
+["Status Overlay"] = d[9].StatusOverlayEnabled == true, ["Active Feature List"] = d[9].ActiveModulesEnabled == true,
+["Show Current Values"] = d[9].ActiveModulesShowValues == true, ["Rainbow Colors"] = d[9].ActiveModulesRainbow == true,
+["Streamer Mode"] = d[9].StreamerMode, ["Hide Menu Button"] = d[9].HideMenuButton, ["Fake Korblox"] = d[9].FakeKorblox == true,
+["Fake Headless"] = d[9].FakeHeadless == true, ["Custom Game Font"] = d[9].CustomGameFont == true,
+["Wide View"] = d[9].WideView == true, ["Stretched Resolution"] = d[9].StretchedResolution == true,
+["No Fog"] = d[9].NoFog == true, ["Sky Changer"] = d[9].SkyChangerEnabled == true, ["Enable Skin Changer"] = d[9].SkinChangerEnabled == true,
+["Rainbow Colors"] = d[9].SkinChangerRGB == true, ["One Color for Everything"] = d[9].SkinChangerScopes and d[9].SkinChangerScopes.All == true,
+["Use Fruit Color"] = d[9].SkinChangerScopes and d[9].SkinChangerScopes.Fruit == true, ["Use Melee Color"] = d[9].SkinChangerScopes and d[9].SkinChangerScopes.Melee == true,
+["Use Sword Color"] = d[9].SkinChangerScopes and d[9].SkinChangerScopes.Sword == true, ["Use Gun Color"] = d[9].SkinChangerScopes and d[9].SkinChangerScopes.Gun == true}, {Macro = "MACRO",
+Aimbot = "AIM", ["Fast Attack"] = "FAST", ["Auto V4"] = "V4", ["Soru Aim"] = "SORUAIM", ["Super Jump"] = "AIRJUMP",
+["Sanguine Z"] = "SANGZ", Ragdoll = "RAGDOLL", ["Reset Character"] = "RESET", ["Diamond Boost"] = "DIAMOND",
+["Target Lock"] = "TARGETLOCK"};
+for k, a in pairs(T) do
+g["Show " .. k] = hg(a);
+end;
+g["Show On-Screen Macro Button"] = hg("MACRO");
+T = {Aimbot = "Aimbot", ["Auto Ken"] = "AutoObs", ["Fast Attack"] = "FastAtk", ["Auto Buso"] = "AutoBuso",
+["Auto V4"] = "V4", ["Smart V4"] = "SmartV4", ["Sanguine Z Boost"] = "SangZ", ["Ragdoll After Skill"] = "Ragdoll"};
+for k, a in pairs(T) do
+g[k .. " status"] = d[9].StatusOverlay[a] ~= false;
+end;
+for T, T in ipairs(_G.__CokeboysToggleSetters or {}) do
+if T.set and g[T.label] ~= nil then
+T.set(g[T.label]);
+end;
+end;
+g = {["CamLock Mode"] = d[9].PermanentCamLockMode == true and "Permanent" or(d[9].SkillCamLock == true and "Skill Specific" or "Off"),
+["Target Priority"] = d[9].TargetPriority, ["Target Mode"] = d[9].SkillAimbotMode, ["Indicator Style"] = d[9].TargetIndicator == "Box" and "Line" or d[9].TargetIndicator,
+["Indicator Color"] = d[9].TargetIndicatorColor, ["Aim Distance (studs)"] = d[9].SkillAimbotDistance,
+["Aim Prediction"] = d[9].Prediction, ["FOV Radius"] = d[9].AimAssist.FOV, ["Line Thickness"] = d[9].TargetIndicatorThickness,
+["Indicator Opacity"] = math.floor((d[9].TargetIndicatorTransparency or 1) * 100 + 0.5), ["Text Size"] = d[9].ESPTextSize,
+["Height Offset"] = d[9].ESP.OffsetY, ["Max Distance"] = d[9].ESP.MaxDistance, ["Attack Delay"] = math.clamp(tonumber(d[9].FastAttackDelay) or 0.1, 0.02, 10),
+["Hitbox Size"] = d[9].HitboxSize, ["Dash Length"] = d[9].DashLength, ["Momentum Intensity"] = d[9].SoulGuitarMomentumIntensity,
+["Diamond Boost Intensity"] = d[9].DiamondM1BoostIntensity, ["Jump Power"] = d[9].JumpValue, ["Super Jump Power"] = d[9].SuperJumpPower,
+["Sang Z Distance"] = d[9].SangZDistance, ["Sang Z Fling Time"] = d[9].SangZFrames, ["Speed Multiplier"] = d[9].SpeedValue,
+["List Color"] = d[9].ActiveModulesColor, ["List Position"] = d[9].ActiveModulesPosition, ["List Text Size"] = d[9].ActiveModulesTextSize,
+["Server Info Position"] = d[9].SessionInfoPosition or "Top Right", ["Server Info Text Size"] = d[9].SessionInfoTextSize,
+["Menu Size"] = math.floor((d[9].GuiWindowScale or 1.15) * 100 + 0.5), ["Background Visibility"] = d[9].UIBackgroundVisibility or 78,
+["Font Style"] = d[9].GameFont or "Code", ["Wide View FOV"] = d[9].WideViewFOV or 90, ["Vertical Scale"] = math.floor((d[9].StretchResolutionScale or 0.65) * 100 + 0.5),
+["Sky Style"] = d[9].SkyChangerPreset or "Galaxy", ["Color Look"] = d[9].SkinChangerStyle == "Preserve Shading" and "Keep Original Shading" or "Solid Color",
+["Color Strength"] = d[9].SkinChangerStrength or 100, ["Preserve Effect Details"] = d[9].SkinChangerPreserveDetails ~= false,
+["Color to Edit"] = d[9].SkinChangerEditCategory == "All" and "Everything" or(d[9].SkinChangerEditCategory or "Everything"),
+["Preset Color"] = d[9].SkinChangerCategoryPresets and d[9].SkinChangerCategoryPresets[d[9].SkinChangerEditCategory or "All"] or "Purple"};
+if J then
+J.Text = tostring(d[9].SafeModeHealth or 5000);
+end;
+for J, J in ipairs(_G.__CokeboysSliderSetters or {}) do
+if J.set and g[J.label] ~= nil then
+J.set(g[J.label]);
+end;
+end;
+for J, J in ipairs(_G.__CokeboysDropdownSetters or {}) do
+if J.set and g[J.label] ~= nil then
+J.set(g[J.label]);
+end;
+end;
+for J, J in ipairs(_G.__CokeboysColorPickerSetters or {}) do
+if J.set and g[J.label] ~= nil then
+J.set(g[J.label]);
+end;
+end;
+if CB_SESSION_INFO.applyTextSize then
+pcall(CB_SESSION_INFO.applyTextSize);
+end;
+g = {"Macro", "Aimbot", "FastAtk", "V4", "SoruAim", "AirJump", "SangZ", "Ragdoll", "Reset", "Diamond",
+"TargetLock", "PermanentCamLock"};
+for J, J in ipairs(g) do
+pcall(function()
+if mobileButtons and mobileButtons.refresh then
+mobileButtons.refresh(J);
+end;
+end);
+end;
+if _G.__CokeboysRefreshMobileButtonColorEditor then
+pcall(_G.__CokeboysRefreshMobileButtonColorEditor);
+end;
+if Jg then
+pcall(Jg);
+end;
+if ng then
+pcall(ng);
+end;
+if _G.__CokeboysRefreshAbilityReachCards then
+pcall(_G.__CokeboysRefreshAbilityReachCards);
+end;
+if _G.__CokeboysRefreshSkinChangerUI then
+pcall(_G.__CokeboysRefreshSkinChangerUI);
+end;
+if _G.__CokeboysRefreshCustomBackgroundUI then
+pcall(_G.__CokeboysRefreshCustomBackgroundUI);
+end;
+if _G.__CokeboysRefreshHomePlayersUI then
+pcall(_G.__CokeboysRefreshHomePlayersUI);
+end;
+F = d[9].MenuKey == "None" and nil or Enum.KeyCode[d[9].MenuKey or(d[4] and "LeftControl" or "RightControl")];
+M = d[9].AimbotKey == "None" and nil or Enum.KeyCode[d[9].AimbotKey or "G"];
+O = d[9].FastAttackKey == "None" and nil or Enum.KeyCode[d[9].FastAttackKey or "H"];
+d[3] = d[9].ComboBound == "None" and nil or Enum.KeyCode[d[9].ComboBound or "F6"];
+if _G.__CokeboysRefreshSharedKeyHint then
+pcall(_G.__CokeboysRefreshSharedKeyHint);
+end;
+if _G.__CokeboysRefreshMacroAccessControls then
+pcall(_G.__CokeboysRefreshMacroAccessControls);
+end;
+if _G.__CokeboysRefreshSoruAimbotKeybindControl then
+pcall(_G.__CokeboysRefreshSoruAimbotKeybindControl);
+end;
+if _G.__CokeboysRefreshTargetLockControls then
+pcall(_G.__CokeboysRefreshTargetLockControls);
+end;
+if _G.__CokeboysRefreshSpeedBoostWorker then
+pcall(_G.__CokeboysRefreshSpeedBoostWorker);
+end;
+if _G.__CokeboysRefreshSangZCooldownWorker then
+pcall(_G.__CokeboysRefreshSangZCooldownWorker);
+end;
+if d[9].Inventory and _G.__CokeboysSetControlById then
+for J = 1, 4, 1 do
+pcall(_G.__CokeboysSetControlById, "InventoryHotbarSlot" .. J, d[9].Inventory.Hotbar["Slot" .. J]);
+end;
+end;
+end;
+if type(_G.__CokeboysOnLanguageChanged) == "function" then
+_G.__CokeboysOnLanguageChanged(function(J, J, J)
+task.defer(function()
+for g, g in ipairs(_G.__CokeboysLanguageOptions or {}) do
+if g.code == J and _G.__CokeboysSetControlById then
+pcall(_G.__CokeboysSetControlById, "InterfaceLanguage", g.name);
+break;
+end;
+end;
+pcall(I);
+if CB_SESSION_INFO and CB_SESSION_INFO.refreshText then
+pcall(CB_SESSION_INFO.refreshText);
+end;
+if CB_SESSION_INFO and CB_SESSION_INFO.refreshBountyText then
+pcall(CB_SESSION_INFO.refreshBountyText);
+end;
+if _G.__CokeboysRefreshExcludeUI then
+pcall(_G.__CokeboysRefreshExcludeUI);
+end;
+if _G.__CokeboysRefreshGachaStatusUI then
+pcall(_G.__CokeboysRefreshGachaStatusUI);
+end;
+if _G.__CokeboysRefreshFruitStockUI then
+pcall(_G.__CokeboysRefreshFruitStockUI);
+end;
+end);
+end);
+end;
+function _G.__CokeboysResetRuntimeState()
+if d[11].stopRun and not d[11].stopRun("runtime reset") then
+error("Macro input cleanup pending");
+end;
+pcall(function()
+if V then
+V(false);
+end;
+end);
+pcall(function()
+if CB_FAST_MODE and CB_FAST_MODE.requested then
+CB_FAST_MODE.apply(false);
+end;
+end);
+pcall(function()
+local V = getgenv().__CokeboysFPSBooster;
+if V then
+V:setEnabled(false);
+end;
+end);
+pcall(function()
+if d[13] then
+d[13]();
+end;
+end);
+pcall(function()
+if _G.__CokeboysClearManualTargetLock then
+_G.__CokeboysClearManualTargetLock();
+end;
+end);
+pcall(function()
+if _G.__CokeboysClearCastAim then
+_G.__CokeboysClearCastAim();
+end;
+end);
+pcall(function()
+if _G.__CokeboysClearSoruAim then
+_G.__CokeboysClearSoruAim();
+end;
+end);
+pcall(function()
+if q then
+q();
+end;
+end);
+pcall(function()
+if CB_SANG_Z and CB_SANG_Z.stop then
+CB_SANG_Z.stop();
+end;
+end);
+pcall(function()
+if CB_LAVA_WALK and CB_LAVA_WALK.clear then
+CB_LAVA_WALK.clear();
+end;
+end);
+pcall(function()
+if _G.__CokeboysApplyClientCustomization then
+_G.__CokeboysApplyClientCustomization();
+end;
+end);
+pcall(function()
+if _G.__CokeboysSetV4EffectsHidden then
+_G.__CokeboysSetV4EffectsHidden(d[9].HideV4Effects == true);
+end;
+end);
+pcall(function()
+if _G.__CokeboysSetControlEffectsHidden then
+_G.__CokeboysSetControlEffectsHidden(d[9].HideControlEffects == true);
+end;
+end);
+pcall(function()
+local V = getgenv().__CokeboysSkinChanger;
+if V then
+V:restore();
+end;
+end);
+pcall(function()
+if setfpscap then
+setfpscap(d[9].FPSCap);
+end;
+end);
+pcall(function()
+if S then
+S.Enabled = false;
+end;
+if u then
+u.Visible = false;
+end;
+end);
+local V = {["Show Name"] = true, ["Show Level"] = true, ["Show Bounty"] = true, ["Bounty Name Colors"] = true,
+["Health Bar"] = true, ["Show Race"] = true, ["Show Observation"] = true, ["Show Distance"] = true,
+["Show PvP State"] = true, ["Ability Range Check"] = true, ["No Ragdoll After Boost"] = false};
+for J, J in ipairs(_G.__CokeboysToggleSetters or {}) do
+if J.set then
+J.set(V[J.label] == true);
+end;
+end;
+V = {["CamLock Mode"] = d[9].PermanentCamLockMode == true and "Permanent" or(d[9].SkillCamLock == true and "Skill Specific" or "Off"),
+["Target Priority"] = d[9].TargetPriority, ["Target Mode"] = d[9].SkillAimbotMode, ["Indicator Style"] = d[9].TargetIndicator == "Box" and "Line" or d[9].TargetIndicator,
+["Indicator Color"] = d[9].TargetIndicatorColor, ["Aim Distance (studs)"] = d[9].SkillAimbotDistance,
+["Aim Prediction"] = d[9].Prediction, ["FOV Radius"] = d[9].AimAssist.FOV, ["Line Thickness"] = d[9].TargetIndicatorThickness,
+["Indicator Opacity"] = math.floor((d[9].TargetIndicatorTransparency or 1) * 100 + 0.5), ["Text Size"] = d[9].ESPTextSize,
+["Height Offset"] = d[9].ESP.OffsetY, ["Max Distance"] = d[9].ESP.MaxDistance, ["Attack Delay"] = math.clamp(tonumber(d[9].FastAttackDelay) or 0.1, 0.02, 10),
+["Hitbox Size"] = d[9].HitboxSize, ["Dash Length"] = d[9].DashLength, ["Momentum Intensity"] = d[9].SoulGuitarMomentumIntensity,
+["Diamond Boost Intensity"] = d[9].DiamondM1BoostIntensity, ["Jump Power"] = d[9].JumpValue, ["Super Jump Power"] = d[9].SuperJumpPower,
+["Sang Z Distance"] = d[9].SangZDistance, ["Sang Z Fling Time"] = d[9].SangZFrames, ["Speed Multiplier"] = d[9].SpeedValue,
+["List Color"] = d[9].ActiveModulesColor, ["List Position"] = d[9].ActiveModulesPosition, ["List Text Size"] = d[9].ActiveModulesTextSize,
+["Server Info Position"] = d[9].SessionInfoPosition or "Top Right", ["Server Info Text Size"] = d[9].SessionInfoTextSize,
+["Menu Size"] = math.floor((d[9].GuiWindowScale or 1.15) * 100 + 0.5), ["Background Visibility"] = d[9].UIBackgroundVisibility or 78,
+["Font Style"] = d[9].GameFont or "Code", ["Wide View FOV"] = d[9].WideViewFOV or 90, ["Vertical Scale"] = math.floor((d[9].StretchResolutionScale or 0.65) * 100 + 0.5)};
+for J, J in ipairs(_G.__CokeboysSliderSetters or {}) do
+if J.set and V[J.label] ~= nil then
+J.set(V[J.label]);
+end;
+end;
+for J, J in ipairs(_G.__CokeboysDropdownSetters or {}) do
+if J.set and V[J.label] ~= nil then
+J.set(V[J.label]);
+end;
+end;
+for J, J in ipairs(_G.__CokeboysColorPickerSetters or {}) do
+if J.set and V[J.label] ~= nil then
+J.set(V[J.label]);
+end;
+end;
+if CB_SESSION_INFO.applyTextSize then
+pcall(CB_SESSION_INFO.applyTextSize);
+end;
+V = {"Macro", "Aimbot", "FastAtk", "V4", "SoruAim", "AirJump", "SangZ", "Ragdoll", "TargetLock", "PermanentCamLock"};
+for J, J in ipairs(V) do
+pcall(function()
+if mobileButtons and mobileButtons.refresh then
+mobileButtons.refresh(J);
+end;
+end);
+end;
+pcall(function()
+if _G.__CokeboysSyncConfigUI then
+_G.__CokeboysSyncConfigUI();
+end;
+if _G.__CokeboysRefreshSkinChangerUI then
+_G.__CokeboysRefreshSkinChangerUI();
+end;
+end);
+end;
+sg(S7, "RESET CONFIG");
+createTextButton(S7, "Reset Current Config", function()
+if GUI:FindFirstChild("ConfigResetConfirm") then
+return;
+end;
+local V, J, g = getgenv().__CokeboysConfigProfiles;
+if V then
+J, g = V.active();
+end;
+local function T()
+if V and V.active() ~= J then
+notify("Config Changed", "Select the config again before resetting it.", 3);
+return;
+end;
+if Q then
+local V = getgenv().__CokeboysConfigIO;
+if not(V and(V.resetLiteEditable(d[9]))) then
+notify("Config Reset", "Core settings could not be reset.", 4);
+return;
+end;
+d[9].MainWindowPos = nil;
+d[9].MainWindowSize = nil;
+d[9].MenuButtonPos = nil;
+I();
+d[14](d[9], true);
+notify("Config Reset", "Core settings were reset. Full-only settings were preserved.", 4);
+return;
+end;
+d[12](d[9], d[7]);
+_G.__CokeboysResetRuntimeState();
+d[9].MainWindowPos = nil;
+d[9].MenuButtonPos = nil;
+I();
+pcall(function()
+if type(delfile) == "function" then
+delfile(d[5] .. ".json");
+end;
+end);
+d[14](d[9]);
+notify("Config Reset", "Defaults applied and active effects stopped.", 4);
+end;
+local V = Instance.new("Frame");
+V.Name = "ConfigResetConfirm";
+V.Size = UDim2.new(1, 0, 1, 0);
+V.BackgroundColor3 = Color3.new(0, 0, 0);
+V.BackgroundTransparency = 0.35;
+V.Active = true;
+V.ZIndex = 200;
+V.Parent = GUI;
+local J = Instance.new("Frame");
+J.Size = UDim2.new(0, 330, 0, 150);
+J.AnchorPoint = Vector2.new(0.5, 0.5);
+J.Position = UDim2.new(0.5, 0, 0.5, 0);
+J.BackgroundColor3 = C.PANEL;
+J.BorderSizePixel = 0;
+J.ZIndex = 201;
+J.Parent = V;
+p(10, J);
+j(1, Color3.fromRGB(220, 53, 69), J);
+D(14, 14, 14, 14, J);
+local I = Eg(J, "Reset Current Config?", 16, Color3.fromRGB(255, 110, 110), C.FONT_BOLD);
+I.Size = UDim2.new(1, 0, 0, 22);
+I.ZIndex = 202;
+I = Eg(J, "Restore '" .. tostring(g and g.name or "Current Config") .. "' to defaults and stop active effects? Other saved configs are kept.", 11, C.SUBTEXT, C.FONT);
+I.Size = UDim2.new(1, 0, 0, 38);
+I.Position = UDim2.new(0, 0, 0, 34);
+I.TextWrapped = true;
+I.ZIndex = 202;
+g = Instance.new("TextButton");
+g.Size = UDim2.new(0.5, - 6, 0, 34);
+g.Position = UDim2.new(0, 0, 1, - 34);
+g.BackgroundColor3 = C.ROW2;
+g.BorderSizePixel = 0;
+g.Text = "Cancel";
+g.TextColor3 = C.TEXT;
+g.TextSize = 12;
+g.Font = C.FONT_BOLD;
+g.ZIndex = 202;
+g.Parent = J;
+p(7, g);
+I = Instance.new("TextButton");
+I.Size = UDim2.new(0.5, - 6, 0, 34);
+I.Position = UDim2.new(0.5, 6, 1, - 34);
+I.BackgroundColor3 = Color3.fromRGB(220, 53, 69);
+I.BorderSizePixel = 0;
+I.Text = "Reset";
+I.TextColor3 = Color3.new(1, 1, 1);
+I.TextSize = 12;
+I.Font = C.FONT_BOLD;
+I.ZIndex = 202;
+I.Parent = J;
+p(7, I);
+og(g, function()
+V:Destroy();
+end);
+og(I, function()
+V:Destroy();
+T();
+end);
+end, Color3.fromRGB(225, 75, 75), Color3.fromRGB(245, 105, 105));
+end)();
+fn40(CB_UI_TOP_TABS.settings.scrolls.interface, {"LANGUAGE", "INTERFACE & MENU", "ACCESS & RUNTIME"});
+fn40(CB_UI_TOP_TABS.settings.scrolls.performance, {"ON-SCREEN OVERLAYS", "PERFORMANCE", "PRIVACY"});
+fn40(CB_UI_TOP_TABS.settings.scrolls.config, {"CONFIGURATION", "SHARING", "RESET CONFIG", "COMMUNITY"});
+end;
+tbl9[17] = function()
+(function()
+local V = {{id = "menu", name = "Menu Toggle", setting = "MenuKey", default = d[4] and "LeftControl" or "RightControl"},
+{id = "aim", name = "Aimbot Toggle", setting = "AimbotKey", default = "G"}, {id = "targetLock", name = "Target Lock Toggle",
+setting = "TargetLockKey", default = "L"}, {id = "camCycle", name = "CamLock Target Cycle", setting = "CamLockSwitchKey",
+default = "K"}, {id = "permanentCam", name = "Permanent CamLock Toggle", setting = "PermanentCamLockKey",
+default = "N"}, {id = "fast", name = "Fast Attack Toggle", setting = "FastAttackKey", default = "H"},
+{id = "soru", name = "Soru Aim", setting = "SoruAimbotKey", default = "P"}, {id = "ragdoll", name = "Ragdoll Toggle",
+setting = "YamaZBoostKey", default = "B"}, {id = "sang", name = "Sang Z Boost Toggle", setting = "SangZBoostKey",
+default = "J"}, {id = "macroPlay", name = "Selected Macro", default = "F6"}};
+for J = 1, 5, 1 do
+if not Q then
+V[#V + 1] = {id = "macroSlot" .. J, name = "Slot " .. J .. " Shortcut", setting = "MacroSlot" .. J .. "Key",
+default = "None", slotIndex = J};
+end;
+end;
+if Q then
+local Q = {};
+for J, J in ipairs(V) do
+if J.id ~= "targetLock" and J.id ~= "ragdoll" then
+Q[#Q + 1] = J;
+end;
+end;
+V = Q;
+end;
+local Q, J, g = {Q = true, Z = true, X = true, C = true, V = true, F = true, R = true, T = true, W = true,
+A = true, S = true, D = true, Space = true, One = true, Two = true, Three = true, Four = true, Five = true,
+Six = true, Seven = true, Eight = true, Nine = true, Zero = true, LeftShift = true, RightShift = true,
+LeftControl = true, RightControl = true}, {};
+local I, T, k, a, Z = game:GetService("ContextActionService"), "CokeboysKeybindCaptureCancel", " " .. utf8.char(8226) .. " ";
+local function x(L)
+local e = Instance.new("Frame");
+e.Name = "UnifiedKeybindGrid";
+e.Size = UDim2.new(1, - 12, 0, 64);
+e.BackgroundTransparency = 1;
+e.BorderSizePixel = 0;
+e.Parent = L;
+local Y = {};
+local function s()
+local rg = L.AbsoluteWindowSize.X;
+local Xg = (if rg <= 0 then
+L.AbsoluteSize.X
+else
+rg) / math.max(0.05, H.Scale) >= 620 and 2 or 1;
+for Vg, Ng in ipairs(Y) do
+local dg, Qg = (Vg - 1) % Xg, math.floor((Vg - 1) / Xg);
+Ng.Size = Xg == 2 and(UDim2.new(0.5, - 3.5, 0, 64)) or(UDim2.new(1, 0, 0, 64));
+Ng.Position = UDim2.new(Xg == 2 and dg * 0.5 or 0, dg == 1 and 3.5 or 0, 0, Qg * 71);
+end;
+rg = math.max(1, math.ceil(#Y / Xg));
+e.Size = UDim2.new(1, - 12, 0, rg * 64 + math.max(0, rg - 1) * 7);
+end;
+L:GetPropertyChangedSignal("AbsoluteWindowSize"):Connect(s);
+L:GetPropertyChangedSignal("AbsoluteSize"):Connect(s);
+H:GetPropertyChangedSignal("Scale"):Connect(s);
+return {body = e, reflow = s, add = function(L)
+Y[#Y + 1] = L;
+s();
+task.defer(s);
+end};
+end;
+function _G.__CokeboysSyncMobileVisibility()
+for L, L in ipairs(_G.__CokeboysMobileVisibilitySyncers or {}) do
+pcall(L);
+end;
+end;
+local function L(e)
+if e.id == "macroPlay" then
+return tostring(d[9].ComboBound or d[3] and d[3].Name or e.default);
+end;
+return tostring(d[9][e.setting] or e.default);
+end;
+function _G.__CokeboysGetSharedKeyUsers(e, Y)
+local s = {};
+if e == "None" then
+return s;
+end;
+for rg, rg in ipairs(V) do
+if rg.name ~= Y and L(rg) == e then
+s[#s + 1] = rg.name;
+end;
+end;
+return s;
+end;
+local function e()
+pcall(function()
+I:UnbindAction(T);
+end);
+end;
+local function Y(s)
+_G.__CokeboysCapturingKeybind = false;
+_G.__CokeboysActiveKeybindCaptureId = nil;
+if s then
+_G.__CokeboysCapturedKeySuppress = s;
+_G.__CokeboysCapturedKeySuppressUntil = tick() + 0.35;
+_G.__CokeboysSuppressMacroHotkeyKey = s;
+_G.__CokeboysSuppressMacroHotkeyUntil = tick() + 0.35;
+end;
+end;
+_G.__CokeboysFinishKeybindCapture = Y;
+local function s()
+if g and g.connection then
+pcall(function()
+g.connection:Disconnect();
+end);
+end;
+if g and g.menuConnection then
+pcall(function()
+g.menuConnection:Disconnect();
+end);
+end;
+g = nil;
+Y();
+e();
+if a then
+a();
+end;
+end;
+local rg = _G.__CokeboysKeybindCaptureCleanup;
+function _G.__CokeboysKeybindCaptureCleanup()
+s();
+if rg then
+pcall(rg);
+end;
+end;
+local function rg(Xg, Vg)
+if Xg.id == "macroPlay" then
+d[9].ComboBound = Vg;
+d[3] = Vg == "None" and nil or Enum.KeyCode[Vg];
+else
+d[9][Xg.setting] = Vg;
+local Ng = Xg.id;
+if Ng == "menu" then
+F = Vg == "None" and nil or Enum.KeyCode[Vg];
+end;
+Ng = Xg.id;
+if Ng == "aim" then
+M = Vg == "None" and nil or Enum.KeyCode[Vg];
+end;
+Ng = Xg.id;
+if Ng == "fast" then
+O = Vg == "None" and nil or Enum.KeyCode[Vg];
+end;
+if Xg.id == "camCycle" and ng then
+ng();
+end;
+end;
+end;
+local function M(O, F, Xg)
+F = tostring(F or "None");
+F = if F == "" then
+"None"
+else
+F;
+local Vg = {};
+if F ~= "None" then
+for Ng, Ng in ipairs(V) do
+if Ng ~= O and L(Ng) == F then
+rg(Ng, "None");
+Vg[#Vg + 1] = Ng.name;
+end;
+end;
+end;
+rg(O, F);
+if not Xg then
+d[14](d[9]);
+end;
+if a then
+a();
+end;
+if #Vg > 0 and not Xg then
+notify("Keybind Updated", F .. " was removed from " .. table.concat(Vg, ", ") .. ".", 2.5);
+end;
+end;
+local function O(F, rg, Xg)
+local Vg = Instance.new("Frame");
+Vg.Name = Mg(F.name) .. "KeybindCard";
+Vg.Size = UDim2.new(1, 0, 0, 64);
+Vg.BackgroundColor3 = C.ROW2;
+Vg.BackgroundTransparency = 0.2;
+Vg.BorderSizePixel = 0;
+Vg:SetAttribute("CBGlassRole", "ROW");
+Vg.Parent = Xg;
+p(7, Vg);
+j(1, C.BORDER, Vg).Transparency = 0.38;
+Og(rg, F.name, Vg, "Keybind");
+Xg = Instance.new("Frame");
+Xg.Size = UDim2.new(0, 2, 0, 14);
+Xg.Position = UDim2.new(0, 7, 0, 6);
+Xg.BackgroundColor3 = C.ACCENT;
+Xg.BackgroundTransparency = 0.18;
+Xg.BorderSizePixel = 0;
+Xg:SetAttribute("CBGlassExclude", true);
+Xg.Parent = Vg;
+p(2, Xg);
+Xg = Eg(Vg, F.name, 12, C.TEXT, C.FONT_BOLD);
+Xg.Size = UDim2.new(1, - 25, 0, 16);
+Xg.Position = UDim2.new(0, 14, 0, 5);
+Xg.TextTruncate = Enum.TextTruncate.AtEnd;
+rg = Instance.new("TextButton");
+rg.Size = UDim2.new(1, - 80, 0, 28);
+rg.Position = UDim2.new(0, 8, 1, - 34);
+rg.BackgroundColor3 = C.ACCENT;
+rg.BorderSizePixel = 0;
+rg.TextColor3 = C.BG;
+rg.TextSize = 10;
+rg.Font = C.FONT_BOLD;
+rg.AutoButtonColor = false;
+rg:SetAttribute("CBGlassExclude", true);
+rg.Parent = Vg;
+p(6, rg);
+local Ng = Eg(Vg, "", 9, C.SUBTEXT, C.FONT);
+Ng.Size = UDim2.new(1, - 24, 0, 10);
+Ng.Position = UDim2.new(0, 14, 0, 20);
+Ng.TextTruncate = Enum.TextTruncate.AtEnd;
+local function dg(Qg, hg, Jg, ng, Wg, fg)
+local Cg = Instance.new("TextButton");
+Cg.Size = UDim2.new(0, 57, 0, 28);
+Cg.Position = UDim2.new(1, - 65, 1, - 34);
+Cg.BackgroundColor3 = hg;
+Cg.BackgroundTransparency = fg or 0;
+Cg:SetAttribute("CBGlassExclude", true);
+Cg.BorderSizePixel = 0;
+Cg.Text = Qg;
+Cg.TextColor3 = Jg;
+Cg.TextSize = 9;
+Cg.Font = C.FONT_BOLD;
+Cg.AutoButtonColor = false;
+Cg.Parent = Vg;
+p(6, Cg);
+if Wg then
+j(1, Wg, Cg);
+end;
+og(Cg, ng);
+return Cg;
+end;
+local function Qg()
+if not Hg() or g then
+return false;
+end;
+g = {id = F.id};
+_G.__CokeboysCapturingKeybind = true;
+_G.__CokeboysActiveKeybindCaptureId = F.id;
+a();
+e();
+I:BindActionAtPriority(T, function(I, I)
+if I == Enum.UserInputState.Begin and g then
+s();
+gg();
+end;
+return Enum.ContextActionResult.Sink;
+end, false, 100000, Enum.KeyCode.Escape);
+g.menuConnection = ig(function()
+return g ~= nil;
+end, s);
+local I;
+I = n.InputBegan:Connect(function(T)
+if T.UserInputType ~= Enum.UserInputType.Keyboard or T.KeyCode == Enum.KeyCode.Unknown then
+return;
+end;
+if T.KeyCode == Enum.KeyCode.Escape then
+return;
+end;
+I:Disconnect();
+local hg = T.KeyCode.Name;
+if g and g.menuConnection then
+pcall(function()
+g.menuConnection:Disconnect();
+end);
+end;
+g = nil;
+e();
+Y(hg);
+if hg == "Backspace" then
+M(F, "None");
+else
+M(F, hg);
+end;
+end);
+g.connection = I;
+return true;
+end;
+og(rg, Qg);
+local I = dg("Clear", Color3.fromRGB(176, 54, 60), Color3.new(1, 1, 1), function()
+if g and g.id == F.id then
+s();
+elseif not g then
+M(F, "None");
+end;
+end);
+J[F.id] = {container = Vg, key = rg, warning = Ng, title = Xg, clear = I, startCapture = Qg};
+end;
+local F = x(all);
+for I, I in ipairs(V) do
+O(I, all, F.body);
+F.add(J[I.id].container);
+end;
+function _G.__CokeboysBeginMacroPlayKeybindCapture()
+local O = J.macroPlay;
+return O and O.startCapture and O.startCapture() == true or false;
+end;
+function _G.__CokeboysBeginMacroSlotKeybindCapture(O)
+local I = O == d[11].activeSlot and J.macroPlay or J["macroSlot" .. tostring(O)];
+return I and I.startCapture and I.startCapture() == true or false;
+end;
+function _G.__CokeboysBeginSoruAimbotKeybindCapture()
+local O = J.soru;
+return O and O.startCapture and O.startCapture() == true or false;
+end;
+function _G.__CokeboysBeginTargetLockKeybindCapture()
+local O = J.targetLock;
+return O and O.startCapture and O.startCapture() == true or false;
+end;
+a = function()
+if d[11].refreshQuickAccess then
+d[11].refreshQuickAccess();
+end;
+local O = Hg();
+for I, T in ipairs(V) do
+I = J[T.id];
+if I then
+local J = L(T);
+local x, L = _G.__CokeboysDisplayKeyName and(_G.__CokeboysDisplayKeyName(J)) or J, T.slotIndex ~= nil and T.slotIndex == d[11].activeSlot;
+I.title.Text = L and Sg(T.name) .. "  \194\183  " .. Sg("SELECTED") or(Sg(T.name));
+I.title.TextColor3 = L and C.ACCENT or(J == "None" and C.SUBTEXT or C.TEXT);
+I.key.BackgroundColor3 = C.ACCENT;
+I.key.TextColor3 = C.BG;
+I.key.Text = J == "None" and(Sg("NOT ASSIGNED")) or x;
+I.key.Active = O and not L;
+I.key.Size = O and not L and(UDim2.new(1, - 80, 0, 28)) or(UDim2.new(1, - 16, 0, 28));
+if I.clear then
+I.clear.Visible = O and not L;
+I.clear.Text = Sg("Clear");
+I.clear.BackgroundColor3 = Color3.fromRGB(176, 54, 60);
+I.clear.TextColor3 = Color3.new(1, 1, 1);
+end;
+if I.reset then
+I.reset.Visible = O and not L;
+I.reset.BackgroundColor3 = C.ROW2;
+I.reset.TextColor3 = C.ACCENT;
+end;
+if L then
+local L = tostring(d[9].ComboBound or d[3] and d[3].Name or "F6");
+local e = _G.__CokeboysDisplayKeyName and(_G.__CokeboysDisplayKeyName(L)) or L;
+I.key.Text = Sg("MAIN") .. "  \194\183  " .. e;
+I.key.BackgroundColor3 = C.ROW2;
+I.key.TextColor3 = C.ACCENT;
+I.warning.Text = "";
+elseif g and g.id == T.id then
+I.key.Text = Sg("PRESS A KEY...");
+I.key.BackgroundColor3 = Color3.fromRGB(255, 205, 55);
+I.warning.Text = Sg("Press a key") .. k .. Sg("Esc to cancel") .. k .. Sg("Backspace to clear");
+I.warning.TextColor3 = C.ACCENT;
+if I.clear then
+I.clear.Text = Sg("Cancel");
+I.clear.BackgroundColor3 = Color3.fromRGB(220, 53, 69);
+end;
+if I.reset then
+I.reset.BackgroundColor3 = C.PANEL;
+I.reset.TextColor3 = C.SUBTEXT;
+end;
+elseif not O then
+I.key.Text = Sg("PC ONLY") .. "  -  " .. x;
+I.key.BackgroundColor3 = C.ROW2;
+I.key.TextColor3 = C.SUBTEXT;
+I.warning.Text = Sg("Keyboard shortcut; use the GUI or mobile button on this device.");
+I.warning.TextColor3 = C.SUBTEXT;
+else
+local x, L = {}, _G.__CokeboysGetSharedKeyUsers and(_G.__CokeboysGetSharedKeyUsers(J, T.name)) or {};
+if #L > 0 then
+for T, e in ipairs(L) do
+L[T] = Sg(e);
+end;
+x[#x + 1] = Sg("Shared with:") .. " " .. table.concat(L, ", ");
+end;
+if Q[J] then
+x[#x + 1] = Sg("May also trigger a Roblox/Blox Fruits control.");
+end;
+I.warning.Text = table.concat(x, k);
+I.warning.TextColor3 = #x > 0 and(Color3.fromRGB(255, 190, 80)) or C.SUBTEXT;
+end;
+I.warning.Visible = I.warning.Text ~= "";
+end;
+end;
+if Z then
+Z.Visible = O;
+end;
+if _G.__CokeboysRefreshMacroAccessControls then
+pcall(_G.__CokeboysRefreshMacroAccessControls);
+end;
+if _G.__CokeboysRefreshSoruAimbotKeybindControl then
+pcall(_G.__CokeboysRefreshSoruAimbotKeybindControl);
+end;
+if _G.__CokeboysRefreshTargetLockControls then
+pcall(_G.__CokeboysRefreshTargetLockControls);
+end;
+end;
+_G.__CokeboysRefreshSharedKeyHint = a;
+_G.__CokeboysUpdateMacroPlayKeybindDisplay = a;
+_G.__CokeboysUpdateMacroTabPlayKeyDisplay = a;
+_G.__CokeboysUpdateMacroTabRecordKeyDisplay = a;
+local function Q()
+for J, J in ipairs(V) do
+M(J, J.default, true);
+end;
+d[14](d[9]);
+a();
+notify("Keybinds Reset", "All keybinds were restored to default.", 3);
+end;
+Z = createTextButton(all, "RESET ALL KEYBINDS", function()
+if not Hg() or g or(GUI:FindFirstChild("KeybindResetConfirm")) then
+return;
+end;
+local V = Instance.new("Frame");
+V.Name = "KeybindResetConfirm";
+V.Size = UDim2.new(1, 0, 1, 0);
+V.BackgroundColor3 = Color3.new(0, 0, 0);
+V.BackgroundTransparency = 0.35;
+V.Active = true;
+V.ZIndex = 200;
+V.Parent = GUI;
+local J = Instance.new("Frame");
+J.Size = UDim2.new(0, 330, 0, 150);
+J.AnchorPoint = Vector2.new(0.5, 0.5);
+J.Position = UDim2.new(0.5, 0, 0.5, 0);
+J.BackgroundColor3 = C.PANEL;
+J.BorderSizePixel = 0;
+J.ZIndex = 201;
+J.Parent = V;
+p(10, J);
+j(1, Color3.fromRGB(220, 53, 69), J);
+D(14, 14, 14, 14, J);
+local g = Eg(J, "Reset every keybind?", 16, Color3.fromRGB(255, 110, 110), C.FONT_BOLD);
+g.Size = UDim2.new(1, 0, 0, 22);
+g.ZIndex = 202;
+g = Eg(J, "This restores every keyboard shortcut to its default key.", 11, C.SUBTEXT, C.FONT);
+g.Size = UDim2.new(1, 0, 0, 38);
+g.Position = UDim2.new(0, 0, 0, 34);
+g.TextWrapped = true;
+g.ZIndex = 202;
+g = Instance.new("TextButton");
+g.Size = UDim2.new(0.5, - 6, 0, 34);
+g.Position = UDim2.new(0, 0, 1, - 34);
+g.BackgroundColor3 = C.ROW2;
+g.BorderSizePixel = 0;
+g.Text = "Cancel";
+g.TextColor3 = C.TEXT;
+g.TextSize = 12;
+g.Font = C.FONT_BOLD;
+g.ZIndex = 202;
+g.Parent = J;
+p(7, g);
+local M = Instance.new("TextButton");
+M.Size = UDim2.new(0.5, - 6, 0, 34);
+M.Position = UDim2.new(0.5, 6, 1, - 34);
+M.BackgroundColor3 = Color3.fromRGB(220, 53, 69);
+M.BorderSizePixel = 0;
+M.Text = "Reset All";
+M.TextColor3 = Color3.new(1, 1, 1);
+M.TextSize = 12;
+M.Font = C.FONT_BOLD;
+M.ZIndex = 202;
+M.Parent = J;
+p(7, M);
+og(g, function()
+V:Destroy();
+end);
+og(M, function()
+V:Destroy();
+Q();
+end);
+end, Color3.fromRGB(190, 60, 60), Color3.fromRGB(225, 80, 80));
+Z.LayoutOrder = - 1000;
+Z.Size = UDim2.new(1, - 28, 0, 34);
+Z.TextColor3 = Color3.new(1, 1, 1);
+Z.Visible = Hg();
+xg(all, "Select a key to change it. Press Backspace to clear, Esc to cancel, or use Clear beside any shortcut.", {textSize = 10,
+minHeight = 18, widthOffset = - 28, xAlignment = Enum.TextXAlignment.Center}).LayoutOrder = - 999;
+local V = all:FindFirstChildOfClass("UIListLayout");
+if V then
+V.HorizontalAlignment = Enum.HorizontalAlignment.Center;
+end;
+all.AutomaticCanvasSize = Enum.AutomaticSize.None;
+all.ScrollingDirection = Enum.ScrollingDirection.Y;
+local function Q()
+if not V then
+return;
+end;
+local J = V.AbsoluteContentSize.Y / math.max(0.05, H.Scale);
+all.CanvasSize = UDim2.new(0, 0, 0, math.ceil(J + 12));
+end;
+if V then
+V:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(Q);
+end;
+H:GetPropertyChangedSignal("Scale"):Connect(function()
+F.reflow();
+task.defer(Q);
+end);
+F.reflow();
+Q();
+task.defer(Q);
+a();
+end)();
+end;
+(function()
+local V = Instance.new("ScreenGui");
+V.ResetOnSpawn = false;
+V.Name = "CokeboysBtn";
+V.DisplayOrder = 999;
+V.ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+V.IgnoreGuiInset = true;
+pcall(function()
+V.ScreenInsets = Enum.ScreenInsets.None;
+V.ClipToDeviceSafeArea = false;
+end);
+V.Parent = GUI.Parent;
+menuBtn = Instance.new("ImageButton");
+local function Q()
+local J = workspace.CurrentCamera.ViewportSize;
+return math.clamp(math.floor(math.min(J.X, J.Y) * 0.095), 40, 90);
+end;
+local J, H, g = Q(), math.floor, d[9].MenuScale;
+local M = H(J * g);
+menuBtn.Size = UDim2.new(0, M, 0, M);
+if f then
+M = workspace.CurrentCamera.ViewportSize;
+menuBtn.Position = UDim2.new(0, M.X - 70, 0, 90);
+else
+menuBtn.Position = UDim2.new(0, 20, 0.33, - 20);
+end;
+if d[9].MenuButtonPos then
+menuBtn.Position = UDim2.new(d[9].MenuButtonPos.XScale, d[9].MenuButtonPos.XOffset, d[9].MenuButtonPos.YScale, d[9].MenuButtonPos.YOffset);
+end;
+menuBtn.BackgroundTransparency = 1;
+menuBtn.Image = "rbxthumb://type=Asset&id=128335611339738&w=150&h=150";
+menuBtn.ScaleType = Enum.ScaleType.Crop;
+menuBtn.ImageTransparency = 0;
+menuBtn.BorderSizePixel = 0;
+menuBtn.Parent = V;
+p(18, menuBtn);
+j(1, C.BORDER, menuBtn);
+menuBtn.Visible = not(d[9].HideMenuButton == true);
+N7(menuBtn, 4);
+local H = getgenv().CokeboysGuiHidden == true;
+function lg()
+if not mobileButtons then
+return false;
+end;
+for g, g in pairs(mobileButtons) do
+if g.frame and g.frame.Visible then
+return true;
+end;
+end;
+return false;
+end;
+function Gg()
+if m then
+m.Enabled = not H and d[9].ShowFPSPing == true;
+end;
+if c then
+c.Visible = not H and d[9].ShowFPSPing == true;
+end;
+if CB_SESSION_INFO.gui then
+CB_SESSION_INFO.gui.Enabled = not H and(d[9].ShowSessionInfo == true or d[9].ShowBountyHonor == true);
+end;
+if CB_SESSION_INFO.panel then
+CB_SESSION_INFO.panel.Visible = not H and d[9].ShowSessionInfo == true;
+end;
+if CB_SESSION_INFO.bountyPanel then
+CB_SESSION_INFO.bountyPanel.Visible = not H and d[9].ShowBountyHonor == true;
+end;
+if S then
+S.Enabled = not H and d[9].StatusOverlayEnabled == true;
+end;
+if u then
+u.Visible = not H and d[9].StatusOverlayEnabled == true;
+end;
+local g, M = getgenv().CokeboysActiveModulesGui, getgenv().CokeboysActiveModulesPanel;
+if g then
+g.Enabled = not H and d[9].ActiveModulesEnabled == true;
+end;
+if M then
+M.Visible = not H and d[9].ActiveModulesEnabled == true;
+end;
+if reachHudGui then
+reachHudGui.Enabled = not H;
+end;
+if r then
+r.Enabled = not H and w == true;
+end;
+end;
+function o(g)
+H = g == true;
+getgenv().CokeboysGuiHidden = H;
+getgenv().CokeboysEspForceHidden = H;
+if H and type(espObjects) == "table" then
+for g, g in pairs(espObjects) do
+if g.Billboard then
+g.Billboard.Enabled = false;
+end;
+end;
+end;
+pcall(function()
+if _G.__CokeboysSetHitboxVisualsHidden then
+_G.__CokeboysSetHitboxVisualsHidden(H);
+end;
+end);
+if d[9].RememberGuiHidden == true then
+d[9].GuiHidden = H;
+d[14](d[9]);
+end;
+if GUI then
+GUI.Enabled = not H and mainFrame and mainFrame.Visible == true;
+end;
+if V then
+V.Enabled = not H;
+end;
+if screenGui then
+screenGui.Enabled = not H;
+end;
+if mobileFovGui then
+mobileFovGui.Enabled = not H;
+end;
+Gg();
+if H then
+if z then
+z();
+end;
+if mainFrame then
+mainFrame.Visible = false;
+end;
+if fovCircle then
+fovCircle.Visible = false;
+end;
+if _hideTargetLine then
+_hideTargetLine();
+end;
+if mobileFovCircle then
+mobileFovCircle.Visible = false;
+end;
+if fovNativeRing then
+fovNativeRing.Visible = false;
+end;
+if statusLabel then
+statusLabel.Visible = false;
+end;
+else
+if statusLabel and d[9].Combo and d[9].Combo.ShowStatus then
+statusLabel.Visible = true;
+end;
+Gg();
+end;
+end;
+function toggleUI()
+if H then
+o(false);
+if notify then
+notify("Cokeboys", "UI visible", 1.5);
+end;
+end;
+if GUI and GUI.Parent ~= y then
+GUI.Parent = y;
+end;
+mainFrame.Visible = not mainFrame.Visible;
+if GUI then
+GUI.Enabled = mainFrame.Visible == true;
+if not mainFrame.Visible then
+if z then
+z();
+end;
+end;
+end;
+if mainFrame.Visible then
+if _G.__CokeboysRefreshGachaStatusUI then
+pcall(_G.__CokeboysRefreshGachaStatusUI);
+end;
+if _G.__CokeboysRefreshFruitStockUI then
+pcall(_G.__CokeboysRefreshFruitStockUI);
+end;
+if _G.__CokeboysRefreshHomePlayersUI then
+pcall(_G.__CokeboysRefreshHomePlayersUI);
+end;
+if _G.__CokeboysApplyInterfaceAppearance then
+pcall(_G.__CokeboysApplyInterfaceAppearance);
+end;
+end;
+end;
+function _G.__CokeboysShowInterface()
+if H then
+o(false);
+end;
+if GUI and GUI.Parent ~= y then
+GUI.Parent = y;
+end;
+if mainFrame then
+mainFrame.Visible = true;
+end;
+if GUI then
+GUI.Enabled = true;
+end;
+if _G.__CokeboysApplyInterfaceAppearance then
+pcall(_G.__CokeboysApplyInterfaceAppearance);
+end;
+end;
+getgenv().CokeboysToggleGuiHide = function()
+if d[9].HideMenuButton == true and H then
+o(false);
+if mainFrame then
+mainFrame.Visible = true;
+end;
+if GUI then
+GUI.Enabled = true;
+end;
+if V then
+V.Enabled = true;
+end;
+if menuBtn then
+menuBtn.Visible = false;
+end;
+if notify then
+notify("Cokeboys", "UI visible", 2);
+end;
+return;
+end;
+local g = H == true;
+o(not H);
+if g and not H then
+if menuBtn then
+menuBtn.Visible = d[9].HideMenuButton ~= true;
+if menuBtn.Visible then
+N7(menuBtn, 4);
+end;
+end;
+end;
+if notify then
+notify("Cokeboys", H and "UI hidden (/hide or /e hide to show)" or "UI visible", 2);
+end;
+end;
+if getgenv().CokeboysGuiHidden then
+task.defer(function()
+o(true);
+end);
+end;
+local H, g, w = false;
+menuBtn.InputBegan:Connect(function(M)
+if M.UserInputType == Enum.UserInputType.MouseButton1 or M.UserInputType == Enum.UserInputType.Touch then
+if H then
+return;
+end;
+H = M;
+g = M.Position;
+w = menuBtn.Position;
+local M, O;
+M = n.InputChanged:Connect(function(F)
+if H and H.UserInputType == Enum.UserInputType.Touch and F == H or H and H.UserInputType == Enum.UserInputType.MouseButton1 and F.UserInputType == Enum.UserInputType.MouseMovement then
+local m = F.Position - g;
+menuBtn.Position = UDim2.new(w.X.Scale, w.X.Offset + m.X, w.Y.Scale, w.Y.Offset + m.Y);
+end;
+end);
+O = n.InputEnded:Connect(function(w)
+if H and(w == H or H.UserInputType == Enum.UserInputType.MouseButton1 and w.UserInputType == Enum.UserInputType.MouseButton1) then
+if H then
+local F = (w.Position - g).Magnitude >= 5;
+if not F then
+toggleUI();
+end;
+H = false;
+N7(menuBtn, 4);
+if F then
+d[9].MenuButtonPos = {XScale = menuBtn.Position.X.Scale, XOffset = menuBtn.Position.X.Offset, YScale = menuBtn.Position.Y.Scale,
+YOffset = menuBtn.Position.Y.Offset};
+d[14](d[9]);
+end;
+else
+H = false;
+end;
+if M then
+M:Disconnect();
+M = nil;
+end;
+if O then
+O:Disconnect();
+O = nil;
+end;
+end;
+end);
+end;
+end);
+do
+local H, g, w = "CokeboysUiDragTouchSink", game:GetService("ContextActionService"), setmetatable({}, {__mode = "k"});
+local function M(O, F)
+if not O or not O.Visible then
+return false;
+end;
+local m, I = O.AbsolutePosition, O.AbsoluteSize;
+return F.X >= m.X and F.X <= m.X + I.X and F.Y >= m.Y and F.Y <= m.Y + I.Y;
+end;
+local function O(F)
+local m = Vector2.new(F.Position.X, F.Position.Y);
+if d[11].dockContainsPoint and(d[11].dockContainsPoint(m)) then
+return true;
+end;
+if GUI and GUI.Enabled and mainFrame and mainFrame.Visible and(M(frame2, m)) then
+return true;
+end;
+if V and V.Enabled and(M(menuBtn, m)) then
+return true;
+end;
+if r and r.Enabled then
+for r, r in ipairs(B()) do
+if r and(M(r.frame, m)) then
+return true;
+end;
+end;
+end;
+return false;
+end;
+pcall(function()
+g:UnbindAction(H);
+end);
+g:BindActionAtPriority(H, function(r, r, V)
+if V.UserInputType ~= Enum.UserInputType.Touch then
+return Enum.ContextActionResult.Pass;
+end;
+if r == Enum.UserInputState.Begin and(O(V)) then
+w[V] = true;
+end;
+if w[V] then
+if r == Enum.UserInputState.End or r == Enum.UserInputState.Cancel then
+w[V] = nil;
+end;
+return Enum.ContextActionResult.Sink;
+end;
+return Enum.ContextActionResult.Pass;
+end, false, Enum.ContextActionPriority.High.Value + 100, Enum.UserInputType.Touch);
+function _G.__CokeboysUiDragSinkCleanup()
+pcall(function()
+g:UnbindAction(H);
+end);
+table.clear(w);
+end;
+end;
+tg(function()
+pcall(function()
+J = Q();
+local r = math.floor(J * d[9].MenuScale);
+menuBtn.Size = UDim2.new(0, r, 0, r);
+N7(menuBtn, 4);
+end);
+end);
+for r, V in ipairs(M7) do
+if r ~= I7 then
+for r, r in ipairs(V:GetDescendants()) do
+if r:IsA("ScrollingFrame") then
+r.ScrollingEnabled = false;
+end;
+end;
+end;
+end;
+if GUI and mainFrame and not mainFrame.Visible then
+GUI.Enabled = false;
+end;
+CB_SESSION_INFO.serverScanReady = true;
+CB_SESSION_INFO.startSessionWorker();
+if d[9].FPSBooster == true then
+task.defer(function()
+if d[9].FPSBooster == true and _G.__CokeboysApplyFPSBooster then
+_G.__CokeboysApplyFPSBooster();
+end;
+end);
+end;
+end)();
+end)();
+getgenv().CokeboysFullUnload = function()
+pcall(function()
+local r = getgenv().__CokeboysStopPVPEventCollector;
+if type(r) == "function" then
+r("PVP unloaded");
+end;
+getgenv().__CokeboysStartPVPEventCollector = nil;
+getgenv().__CokeboysRestartEventCollector = nil;
+getgenv().__CokeboysStopPVPEventCollector = nil;
+end);
+local r = cokeboysLoaderController2 and cokeboysLoaderController2.switchInProgress == true;
+if not r then
+pcall(function()
+local V = getgenv().CokeboysTeleportBootstrap;
+if type(V) == "table" and type(V.Stop) == "function" then
+V:Stop("Disabled by Full Unload");
+end;
+getgenv().CokeboysTeleportBootstrap = nil;
+getgenv().__CokeboysTeleportBootstrapArmedJobId = nil;
+getgenv().__CokeboysPVPLaunchJobId = nil;
+getgenv().__CokeboysPVPRuntimeJobId = nil;
+end);
+end;
+pcall(function()
+if CB_HRP_AIM_RESOLVER and CB_HRP_AIM_RESOLVER.clear then
+CB_HRP_AIM_RESOLVER.clear();
+end;
+end);
+pcall(function()
+d[14](d[9], true);
+end);
+pcall(function()
+local V = getgenv().__CokeboysInventoryHotbar;
+if type(V) == "table" and type(V.cleanup) == "function" then
+V:cleanup();
+end;
+getgenv().__CokeboysInventoryHotbar = nil;
+getgenv().__CokeboysNormalizeHotbarSettings = nil;
+_G.__CokeboysHotbarConfigurationChanged = nil;
+end);
+pcall(function()
+if d[11] and d[11].cancelAbilityHitArm then
+d[11].cancelAbilityHitArm("unload", true);
+end;
+if d[11] and d[11].stopRun then
+if not d[11].stopRun("unload") then
+if _G.__CokeboysReleaseAllMobileSkills then
+pcall(_G.__CokeboysReleaseAllMobileSkills);
+end;
+if _G.__CokeboysSmartMacroReleaseM1 then
+pcall(_G.__CokeboysSmartMacroReleaseM1);
+end;
+d[11].stopRun("unload");
+end;
+end;
+end);
+getgenv().CokeboysScriptLoaded = false;
+getgenv().__CokeboysLaunchInProgress = false;
+getgenv().__CokeboysExperience = nil;
+getgenv().__CokeboysCurrentExperience = nil;
+getgenv().__CokeboysResolvedExperienceLaunch = nil;
+getgenv().CokeboysEspForceHidden = true;
+pcall(function()
+local V = getgenv().__CokeboysFFlagEngine;
+if V and V.cancel then
+V.cancel();
+end;
+end);
+pcall(function()
+if _G.__CokeboysServerHopCleanup then
+_G.__CokeboysServerHopCleanup();
+end;
+_G.__CokeboysServerHopCleanup = nil;
+end);
+pcall(function()
+if _G.__CokeboysKeybindCaptureCleanup then
+_G.__CokeboysKeybindCaptureCleanup();
+end;
+_G.__CokeboysKeybindCaptureCleanup = nil;
+_G.__CokeboysFinishKeybindCapture = nil;
+_G.__CokeboysGetSharedKeyUsers = nil;
+end);
+pcall(function()
+for V, V in ipairs(getgenv().__CokeboysRuntimeTasks or {}) do
+pcall(task.cancel, V);
+end;
+getgenv().__CokeboysRuntimeTasks = {};
+end);
+pcall(function()
+if CB_LAVA_WALK and CB_LAVA_WALK.clear then
+CB_LAVA_WALK.clear();
+end;
+end);
+pcall(function()
+if _G.__CokeboysWaterWalkCleanup then
+_G.__CokeboysWaterWalkCleanup();
+end;
+_G.__CokeboysWaterWalkCleanup = nil;
+end);
+pcall(function()
+if _G.__CokeboysSkillMoveStateCleanup then
+_G.__CokeboysSkillMoveStateCleanup();
+end;
+_G.__CokeboysSkillMoveStateCleanup = nil;
+end);
+pcall(function()
+if _G.__CokeboysAntiStunCleanup then
+_G.__CokeboysAntiStunCleanup();
+end;
+end);
+pcall(function()
+if CB_ANTI_COMBO and CB_ANTI_COMBO.reset then
+CB_ANTI_COMBO.reset(nil);
+end;
+CB_ANTI_COMBO = nil;
+_G.__CokeboysAntiComboCasting = false;
+end);
+pcall(function()
+if _G.__CokeboysAutoObservationCleanup then
+_G.__CokeboysAutoObservationCleanup();
+end;
+end);
+pcall(function()
+for V, V in ipairs(getgenv().__CokeboysRuntimeConnections or {}) do
+pcall(function()
+V:Disconnect();
+end);
+end;
+getgenv().__CokeboysRuntimeConnections = {};
+end);
+pcall(function()
+if _G.__CokeboysSkillCamCleanup then
+_G.__CokeboysSkillCamCleanup();
+end;
+end);
+pcall(function()
+if not r then
+if _G.__CokeboysKeyValidationCleanup then
+_G.__CokeboysKeyValidationCleanup();
+end;
+_G.__CokeboysKeyValidationCleanup = nil;
+_G.__CokeboysCancelLoader = nil;
+_G.__CokeboysMarkRuntimeReady = nil;
+_G.__CokeboysRequestExperienceSwitch = nil;
+end;
+_G.__CokeboysRefreshHeaderKeyStatus = nil;
+end);
+pcall(function()
+if _G.__CokeboysLanguageListenerCleanup then
+_G.__CokeboysLanguageListenerCleanup();
+end;
+_G.__CokeboysLanguageListenerCleanup = nil;
+end);
+pcall(function()
+if _G.__CokeboysStreamerCleanup then
+_G.__CokeboysStreamerCleanup();
+end;
+_G.__CokeboysStreamerCleanup = nil;
+end);
+pcall(function()
+local r = getgenv().__CokeboysNoFog;
+if r and r.cleanup then
+r:cleanup(true);
+end;
+end);
+pcall(function()
+local r = getgenv().__CokeboysFPSBooster;
+if r and r.cleanup then
+r:cleanup(true);
+end;
+end);
+pcall(function()
+if _G.__CokeboysV4EffectsCleanup then
+_G.__CokeboysV4EffectsCleanup();
+end;
+_G.__CokeboysSetV4EffectsHidden = nil;
+_G.__CokeboysV4EffectsCleanup = nil;
+getgenv().__CokeboysV4EffectsManager = nil;
+end);
+pcall(function()
+if _G.__CokeboysControlEffectsCleanup then
+_G.__CokeboysControlEffectsCleanup();
+end;
+_G.__CokeboysSetControlEffectsHidden = nil;
+_G.__CokeboysControlEffectsCleanup = nil;
+getgenv().__CokeboysControlEffectsManager = nil;
+end);
+pcall(function()
+if d[11] and d[11].collapseQuickAccess then
+d[11].collapseQuickAccess();
+end;
+if _G.__CokeboysMobileM1Cleanup then
+_G.__CokeboysMobileM1Cleanup();
+end;
+if _G.__CokeboysSmartMacroReleaseM1 then
+_G.__CokeboysSmartMacroReleaseM1();
+_G.__CokeboysSmartMacroReleaseM1 = nil;
+end;
+if _G.__CokeboysMobileSoruCleanup then
+_G.__CokeboysMobileSoruCleanup();
+end;
+if _G.__CokeboysFruitM1RagdollCleanup then
+_G.__CokeboysFruitM1RagdollCleanup();
+end;
+end);
+pcall(function()
+if CB_SANG_Z and CB_SANG_Z.stop then
+CB_SANG_Z.stop();
+end;
+if _G.__CokeboysSangZCooldownCleanup then
+_G.__CokeboysSangZCooldownCleanup();
+end;
+safeModeState.release();
+safeModeState.cooldown = false;
+safeModeState.retryAt = 0;
+safeModeState.statResetGuard = nil;
+_G.__CokeboysBeginStatResetSafeModeGuard = nil;
+_G.__CokeboysFinishStatResetSafeModeGuard = nil;
+end);
+pcall(function()
+if _G.__CokeboysSoulGuitarMomentumCleanup then
+_G.__CokeboysSoulGuitarMomentumCleanup();
+end;
+_G.__CokeboysSetDashLength = nil;
+end);
+pcall(function()
+if _G.__CokeboysDiamondM1BoostCleanup then
+_G.__CokeboysDiamondM1BoostCleanup();
+end;
+end);
+pcall(function()
+local r = getgenv().__CokeboysSkinChanger;
+if r and r.cleanup then
+r:cleanup(true);
+end;
+end);
+pcall(function()
+for r, V in pairs(espObjects or {}) do
+if V and V.Billboard then
+pcall(function()
+V.Billboard:Destroy();
+end);
+end;
+espObjects[r] = nil;
+end;
+if CB_ESP_UTIL then
+table.clear(CB_ESP_UTIL.infoCache or {});
+table.clear(CB_ESP_UTIL.staticInfoCache or {});
+end;
+end);
+pcall(function()
+local r = getgenv().__CokeboysSkyChanger;
+if r and r.cleanup then
+r:cleanup(true);
+end;
+end);
+pcall(function()
+if _G.__CokeboysNamecallCleanup then
+_G.__CokeboysNamecallCleanup();
+end;
+end);
+pcall(function()
+if _G.__CokeboysUiDragSinkCleanup then
+_G.__CokeboysUiDragSinkCleanup();
+end;
+end);
+pcall(function()
+_G.__CokeboysApplyInterfaceAppearance = nil;
+_G.__CokeboysShowInterface = nil;
+_G.__CokeboysSetCustomBackgroundAsset = nil;
+_G.__CokeboysRemoveCustomBackground = nil;
+_G.__CokeboysRefreshCustomBackgroundUI = nil;
+_G.__CokeboysSetBackgroundVisibilityEnabled = nil;
+_G.__CokeboysRefreshHomePlayersUI = nil;
+_G.__CokeboysRefreshMacroRunButton = nil;
+_G.__CokeboysRefreshMacroAccessControls = nil;
+_G.__CokeboysRefreshMobileMacroQuickAccess = nil;
+_G.__CokeboysBeginMacroSlotKeybindCapture = nil;
+_G.__CokeboysBeginMacroPlayKeybindCapture = nil;
+_G.__CokeboysUpdateMacroPlayKeybindDisplay = nil;
+_G.__CokeboysUpdateMacroTabPlayKeyDisplay = nil;
+_G.__CokeboysUpdateMacroTabRecordKeyDisplay = nil;
+_G.__CokeboysRefreshSmartMacroProfile = nil;
+_G.__CokeboysLoadSmartMacroProfile = nil;
+_G.__CokeboysSmartMacroV3Enabled = nil;
+_G.__CokeboysExecuteMacroSoru = nil;
+getgenv().__CokeboysRunSmartMacro = nil;
+getgenv().__CokeboysRunSmartMacroSlot = nil;
+getgenv().__CokeboysSmartMacroRunning = nil;
+getgenv().__CokeboysSmartMacroRunningSlot = nil;
+end);
+pcall(function()
+if _safeZoneVisibleConn then
+_safeZoneVisibleConn:Disconnect();
+_safeZoneVisibleConn = nil;
+end;
+for r, r in ipairs(_weaponCacheConnections or {}) do
+pcall(function()
+r:Disconnect();
+end);
+end;
+table.clear(_weaponCacheConnections);
+if _G.__CokeboysSpeedBoostCleanup then
+_G.__CokeboysSpeedBoostCleanup();
+end;
+end);
+pcall(function()
+if _disconnectStreamerTextWatch then
+_disconnectStreamerTextWatch();
+end;
+if getgenv().__CokeboysHideChatCommand then
+getgenv().__CokeboysHideChatCommand:Destroy();
+getgenv().__CokeboysHideChatCommand = nil;
+end;
+end);
+pcall(function()
+if d[9].NoBackgroundMusic and _G.__CokeboysApplyBackgroundMusic then
+_G.__CokeboysApplyBackgroundMusic(false);
+end;
+_G.__CokeboysBackgroundMusicManager = nil;
+if d[9].NoCameraShake then
+G.Remotes.ChangeSetting:FireServer("CameraShake", true);
+if _cameraShaker and type(_cameraShaker.Start) == "function" then
+_cameraShaker:Start();
+end;
+getgenv().__CokeboysCameraShakerStopped = false;
+end;
+if CB_FAST_MODE and CB_FAST_MODE.requested then
+CB_FAST_MODE.apply(false);
+end;
+end);
+pcall(function()
+_restoreClientAvatar(i.Character);
+_restoreClientFont();
+local r, V = d[9].WideView, d[9].StretchedResolution;
+d[9].WideView = false;
+d[9].StretchedResolution = false;
+_applyWideView();
+if _G.__CokeboysApplyStretchedResolution then
+_G.__CokeboysApplyStretchedResolution();
+end;
+d[9].WideView = r;
+d[9].StretchedResolution = V;
+getgenv().__CokeboysStretchedResolution = nil;
+_G.__CokeboysApplyStretchedResolution = nil;
+end);
+pcall(function()
+if _G.__CokeboysAntiAFKConnection then
+_G.__CokeboysAntiAFKConnection:Disconnect();
+_G.__CokeboysAntiAFKConnection = nil;
+end;
+end);
+pcall(function()
+if GUI then
+GUI:Destroy();
+GUI = nil;
+end;
+local r = i and(i:FindFirstChildOfClass("PlayerGui"));
+if r then
+for V, V in ipairs(r:GetChildren()) do
+if V:IsA("ScreenGui") and(tostring(V.Name):lower():find("cokeboys")) then
+V:Destroy();
+end;
+end;
+end;
+end);
+pcall(function()
+for r, r in ipairs(game:GetService("CoreGui"):GetChildren()) do
+if r:IsA("ScreenGui") and(tostring(r.Name):lower():find("cokeboys")) then
+r:Destroy();
+end;
+end;
+end);
+getgenv().__CokeboysConfigIO = nil;
+end;
+cokeboysFullUnload = getgenv().CokeboysFullUnload;
+cokeboysLoaderController2.fullUnloadInstalled = true;
+pcall(function()
+_G.__CokeboysTrackRuntimeConnection(i.Chatted:Connect(function(r)
+if U(r) then
+v();
+end;
+end));
+end);
+pcall(function()
+local r = game:GetService("TextChatService");
+if r and r.ChatCommands then
+if getgenv().__CokeboysHideChatCommand then
+pcall(function()
+getgenv().__CokeboysHideChatCommand:Destroy();
+end);
+end;
+local V = Instance.new("TextChatCommand");
+V.Name = "CokeboysHideCmd";
+V.PrimaryAlias = "/hide";
+V.SecondaryAlias = "/cbhide";
+_G.__CokeboysTrackRuntimeConnection(V.Triggered:Connect(function()
+v();
+end));
+V.Parent = r.ChatCommands;
+getgenv().__CokeboysHideChatCommand = V;
+local V = setmetatable({}, {__mode = "k"});
+local function Q(J)
+if not J or not J:IsA("TextChatCommand") or V[J] then
+return;
+end;
+local H, g = tostring(J.PrimaryAlias or ""):lower(), tostring(J.SecondaryAlias or ""):lower();
+if H ~= "/e" and H ~= "/emote" and g ~= "/e" and g ~= "/emote" then
+return;
+end;
+V[J] = true;
+_G.__CokeboysTrackRuntimeConnection(J.Triggered:Connect(function(V, V)
+if l(V) then
+v();
+end;
+end));
+end;
+for V, V in ipairs(r.ChatCommands:GetChildren()) do
+Q(V);
+end;
+_G.__CokeboysTrackRuntimeConnection(r.ChatCommands.ChildAdded:Connect(Q));
+pcall(function()
+_G.__CokeboysTrackRuntimeConnection(r.SendingMessage:Connect(function(r)
+if r and(U(r.Text)) then
+v();
+end;
+end));
+end);
+end;
+end);
+_G.__CokeboysTrackRuntimeConnection(n.InputBegan:Connect(function(r, V)
+if mg() then
+return;
+end;
+if _G.__CokeboysIsSyntheticKey and(_G.__CokeboysIsSyntheticKey(r.KeyCode)) then
+return;
+end;
+if r.UserInputType == Enum.UserInputType.Keyboard and tick() < (_G.__CokeboysCapturedKeySuppressUntil or 0) and(not _G.__CokeboysCapturedKeySuppress or r.KeyCode.Name == _G.__CokeboysCapturedKeySuppress) then
+return;
+end;
+if r.UserInputType == Enum.UserInputType.Keyboard and tick() < (_G.__CokeboysSuppressMacroHotkeyUntil or 0) and(not _G.__CokeboysSuppressMacroHotkeyKey or r.KeyCode.Name == _G.__CokeboysSuppressMacroHotkeyKey) then
+return;
+end;
+if _G.__CokeboysCapturingKeybind then
+return;
+end;
+if r.UserInputType == Enum.UserInputType.Keyboard then
+local Q = r.KeyCode.Name;
+if Q == (d[9].AimbotKey or "G") then
+d[9].SkillAimbot = not d[9].SkillAimbot;
+if b then
+b(d[9].SkillAimbot);
+end;
+if mobileButtons.refresh then
+mobileButtons.refresh("Aimbot");
+end;
+if not d[9].SkillAimbot then
+if CB_HRP_AIM_RESOLVER and CB_HRP_AIM_RESOLVER.clear then
+CB_HRP_AIM_RESOLVER.clear("Buddy");
+end;
+d[13]();
+end;
+d[14](d[9]);
+notify("Aimbot", d[9].SkillAimbot and "ON" or "OFF", 1.5);
+end;
+local r = d[9].TargetLockKey or "L";
+if CB_EXPERIENCE.Allows("combat.target_lock") and r ~= "None" and Q == r then
+if _G.__CokeboysToggleTargetLock then
+local J, J = _G.__CokeboysToggleTargetLock();
+if mobileButtons.refresh then
+mobileButtons.refresh("TargetLock");
+end;
+notify("Target Lock", J or "Target lock updated.", 1.5);
+else
+notify("Target Lock", "Target locking is unavailable.", 2);
+end;
+end;
+if Q == (d[9].FastAttackKey or "H") then
+d[9].FastAttack = not d[9].FastAttack;
+if E then
+E(d[9].FastAttack);
+end;
+if mobileButtons.refresh then
+mobileButtons.refresh("FastAtk");
+end;
+d[14](d[9]);
+notify("Fast Attack", d[9].FastAttack and "ON" or "OFF", 1.5);
+if d[9].FastAttack then
+tryStartFastAttack(function()
+notify("Fast Attack", "Not supported on this executor", 3);
+d[9].FastAttack = false;
+d[14](d[9]);
+if E then
+E(false);
+end;
+if mobileButtons.refresh then
+mobileButtons.refresh("FastAtk");
+end;
+end);
+end;
+end;
+if CB_EXPERIENCE.Allows("movement.ragdoll_boosts") and Q == (d[9].YamaZBoostKey or "B") then
+d[9].YamaZBoost = not d[9].YamaZBoost;
+if setYamaZBoostUI then
+setYamaZBoostUI(d[9].YamaZBoost);
+end;
+if mobileButtons.refresh then
+mobileButtons.refresh("Ragdoll");
+end;
+d[14](d[9]);
+notify("Ragdoll After Skill", d[9].YamaZBoost and "ON" or "OFF", 1.5);
+end;
+if CB_EXPERIENCE.Allows("movement.special_boosts") and Q == (d[9].SangZBoostKey or "J") then
+d[9].SangZBoost = not d[9].SangZBoost;
+if _G.__CokeboysRefreshSangZCooldownWorker then
+_G.__CokeboysRefreshSangZCooldownWorker();
+end;
+if setSangZBoostUI then
+setSangZBoostUI(d[9].SangZBoost);
+end;
+if mobileButtons.refresh then
+mobileButtons.refresh("SangZ");
+end;
+d[14](d[9]);
+notify("Sang Z Boost", d[9].SangZBoost and "ON" or "OFF", 1.5);
+end;
+if Q == (d[9].MenuKey or(d[4] and "LeftControl" or "RightControl")) then
+toggleUI();
+end;
+if Q:match("^[ZXCVF]$") and d[11].tryAbilityStart then
+r = i.Character and(i.Character:FindFirstChildOfClass("Tool"));
+local J = r and CB_WEAPON_EQUIP and CB_WEAPON_EQUIP.toolToWeaponType and(CB_WEAPON_EQUIP.toolToWeaponType(r)) or nil;
+if d[11].tryAbilityStart(Q, J, r, "keyboard") then
+return;
+end;
+end;
+r = d[9].ComboBound or "F6";
+if CB_EXPERIENCE.Allows("automation.smart_macro") and r ~= "None" and Q == r then
+if d[11].run then
+d[11].run("legacy-keybind");
+end;
+return;
+end;
+for J = 1, 5, 1 do
+r = d[9]["MacroSlot" .. J .. "Key"];
+if J ~= d[11].activeSlot and(CB_EXPERIENCE.Allows("automation.smart_macro")) and r and r ~= "None" and Q == r then
+d[11].requestRun(J, "direct-keybind");
+return;
+end;
+end;
+end;
+if V then
+return;
+end;
+end));
+(function()
+_cameraShaker = nil;
+pcall(function()
+_cameraShaker = require(game:GetService("ReplicatedStorage").Util.CameraShaker);
+end);
+getgenv().__CokeboysCameraShakerStopped = false;
+local function r()
+pcall(function()
+G.Remotes.ChangeSetting:FireServer("CameraShake", false);
+end);
+pcall(function()
+local V = G:FindFirstChild("Modules") and(G.Modules:FindFirstChild("Net"));
+if V then
+local Q = V:FindFirstChild("RE/OnAnalyticsActivity");
+if Q then
+Q:FireServer("HUD/Button/Settings/CameraShake");
+end;
+end;
+end);
+end;
+_G.__CokeboysSpawnRuntimeTask(function()
+while task.wait(8) do
+if d[9].NoCameraShake then
+r();
+end;
+end;
+end);
+end)();
+(function()
+local r, V;
+local Q, J, U, H, g, G = {}, {}, {}, 10;
+local function w(B)
+if #Q >= H then
+return;
+end;
+if not B or not B.Parent then
+return;
+end;
+local l, v = B:FindFirstChild("HumanoidRootPart"), B:FindFirstChildOfClass("Humanoid");
+if not l or not v or v.Health <= 0 then
+return;
+end;
+v = l.Position - g;
+if v.X * v.X + v.Y * v.Y + v.Z * v.Z < 10000 then
+Q[#Q + 1] = l;
+end;
+end;
+local function B()
+pcall(function()
+r = debug.getupvalue(getrenv()._G.SendHitsToServer, 1);
+V = game:GetService("ReplicatedStorage").Modules.Net["RE/RegisterAttack"];
+local l = r and V;
+if l then
+A = true;
+end;
+end);
+end;
+B();
+G = function(l, v)
+V:FireServer(0 / 0);
+return coroutine.resume(r, l, v);
+end;
+_G.__CokeboysSpawnRuntimeTask(function()
+while true do
+task.wait(d[9].FastAttack and(math.clamp(tonumber(d[9].FastAttackDelay) or 0.1, 0.02, 10)) or 1);
+if not d[9].FastAttack then
+continue;
+end;
+if not r or not V then
+continue;
+end;
+if wg and tick() <= Bg then
+continue;
+end;
+local r = i.Character;
+if not r then
+continue;
+end;
+local V = r:FindFirstChildOfClass("Tool");
+if not V then
+continue;
+end;
+local l = V.ToolTip or "";
+if l ~= "Melee" and l ~= "Sword" then
+continue;
+end;
+V = r:FindFirstChild("HumanoidRootPart");
+if not V then
+continue;
+end;
+Ig(Q);
+Ig(J);
+g = V.Position;
+for g, g in ipairs(_playerModelCache) do
+w(g);
+if #Q >= H then
+break;
+end;
+end;
+if #Q < H then
+for g, g in ipairs(_enemyModelsCache) do
+w(g);
+if #Q >= H then
+break;
+end;
+end;
+end;
+if #Q < H then
+for g, g in ipairs(_basicMobsCache) do
+w(g);
+if #Q >= H then
+break;
+end;
+end;
+end;
+if #Q == 0 then
+continue;
+end;
+V = Q[1];
+for H = 2, #Q, 1 do
+r = Q[H];
+l = r.Parent;
+if l then
+local Q = U[H];
+if not Q then
+Q = {};
+U[H] = Q;
+end;
+Q[1] = l;
+Q[2] = r;
+J[#J + 1] = Q;
+end;
+end;
+pcall(G, V, J);
+end;
+end);
+function tryStartFastAttack(r)
+if A then
+return;
+end;
+B();
+if not A and r then
+r();
+end;
+end;
+end)();
+(function()
+local r, V = 0, 0.55;
+getgenv().__CokeboysLastConfirmedSoruAt = tonumber(getgenv().__CokeboysLastConfirmedSoruAt) or 0;
+local Q, J, U, H, g, G = 0, 1.25, {}, setmetatable({}, {__mode = "k"}), 0;
+_G.__CokeboysNativeNormalSoruRealAimUntil = 0;
+local function w(B)
+local l = i:FindFirstChild("Data");
+local v = l and(l:FindFirstChild("Race"));
+l = if v and v.Value == "Human" and(v:FindFirstChild("Evolved")) then
+10
+else
+15;
+if d[9].InfiniteSoru == true then
+return 1.57;
+end;
+v = math.clamp(tonumber(B and(B:GetAttribute("FlashstepCooldown"))) or 0, 0, 0.95);
+return math.max(V, l * (1 - v));
+end;
+local B;
+local l = 0;
+local function v(M)
+local O = tick();
+_G.__CokeboysSoruIntentUntil = O + 1.25;
+l += 1;
+B = {Serial = l, StartedAt = O, Character = i.Character, Target = M ~= false and R or nil, AllowFollowup = M ~= false};
+end;
+local B;
+do
+local l, M, O, F, b = "CokeboysInfiniteSoru", game:GetService("ContextActionService"), 0, 0;
+local E = false;
+B = function(m)
+if not CB_EXPERIENCE.Allows("movement.infinite_soru") then
+return true;
+end;
+if not d[9].InfiniteSoru or not m or not m:FindFirstChild("Soru") then
+return true;
+end;
+local I = tick();
+local T = I - O;
+if T < 1.57 then
+return false, 1.57 - T;
+end;
+O = I;
+T = i:FindFirstChild("Data");
+local O = T and(T:FindFirstChild("Race"));
+T = if O and O.Value == "Human" and(O:FindFirstChild("Evolved")) then
+10
+else
+15;
+getgenv().__CokeboysLastInfiniteSoru = I;
+getgenv().__CokeboysInfiniteSoruNormalCooldown = T;
+if not E then
+b, E = m:GetAttribute("FlashstepCooldown"), true;
+end;
+local O = 1 - 1.5 / T;
+m:SetAttribute("FlashstepCooldown", O);
+F += 1;
+local I = F;
+task.delay(1.65, function()
+if I == F then
+if m.Parent and m:GetAttribute("FlashstepCooldown") == O then
+m:SetAttribute("FlashstepCooldown", b);
+end;
+b, E = nil, false;
+end;
+end);
+return true, 1.57;
+end;
+_G.__CokeboysPrepareInfiniteSoru = B;
+pcall(function()
+M:UnbindAction(l);
+end);
+M:BindActionAtPriority(l, function(l, M)
+if M == Enum.UserInputState.Begin and not kg then
+v(true);
+if d[9].NormalSoruAimbot == true and d[9].SoruAimbot == true then
+l = R and(R:FindFirstChild("HumanoidRootPart"));
+local M = l and l.Parent and(l.Parent:FindFirstChildOfClass("Humanoid"));
+if l and M and M.Health > 0 then
+Tg = true;
+if _G.__CokeboysBeginSoruAim then
+_G.__CokeboysBeginSoruAim();
+end;
+task.delay(0.3, function()
+Tg = false;
+end);
+end;
+end;
+if not B(i.Character) then
+return Enum.ContextActionResult.Sink;
+end;
+end;
+return Enum.ContextActionResult.Pass;
+end, false, 3001, Enum.KeyCode.R);
+end;
+local function l()
+for M, M in ipairs(U) do
+pcall(function()
+M:Disconnect();
+end);
+end;
+table.clear(U);
+table.clear(H);
+_G.__CokeboysNativeNormalSoruRealAimUntil = 0;
+end;
+local function M()
+local O = i:FindFirstChildOfClass("PlayerGui");
+local F = O and(O:FindFirstChild("MobileContextButtons", true));
+O = F and(F:FindFirstChild("ContextButtonFrame", true));
+return O and(O:FindFirstChild("BoundActionSoru", true));
+end;
+local function O(F)
+if F and F ~= g then
+return;
+end;
+g += 1;
+Tg = false;
+if type(_G.__CokeboysClearSoruAim) == "function" then
+pcall(_G.__CokeboysClearSoruAim);
+end;
+end;
+_G.__CokeboysClearNormalSoruAim = O;
+local function F()
+if kg then
+return;
+end;
+v(true);
+if d[9].SoruAimbot ~= true or d[9].NormalSoruAimbot ~= true then
+O();
+return;
+end;
+if type(_G.__CokeboysBeginSoruAim) ~= "function" then
+O();
+return;
+end;
+g += 1;
+local b = g;
+if not _G.__CokeboysBeginSoruAim(3) then
+O(b);
+return;
+end;
+Tg = true;
+task.delay(3, function()
+O(b);
+end);
+end;
+local function b(E, E)
+if not E or not E:IsA("GuiButton") or H[E] then
+return;
+end;
+H[E] = true;
+table.insert(U, E.InputBegan:Connect(function(m)
+if m.UserInputType == Enum.UserInputType.Touch then
+_G.__CokeboysLastNativeTouch = m;
+if d[9].InfiniteSoru == true then
+B(i.Character);
+end;
+if(type(_G.__CokeboysModernMobileSkillMode) == "function" and(_G.__CokeboysModernMobileSkillMode(E)) or 0) == 1 then
+F();
+_G.__CokeboysNativeNormalSoruRealAimUntil = d[9].SoruAimbot == true and d[9].NormalSoruAimbot == true and 0 or tick() + 1.5;
+end;
+end;
+end));
+table.insert(U, E.InputEnded:Connect(function(m)
+if m.UserInputType ~= Enum.UserInputType.Touch then
+return;
+end;
+if type(_G.__CokeboysModernMobileSkillMode) ~= "function" or _G.__CokeboysModernMobileSkillMode(E) ~= 1 then
+return;
+end;
+local E, m = g, tonumber(_G.__CokeboysNativeNormalSoruRealAimUntil) or 0;
+task.delay(0.2, function()
+O(E);
+if(tonumber(_G.__CokeboysNativeNormalSoruRealAimUntil) or 0) == m then
+_G.__CokeboysNativeNormalSoruRealAimUntil = 0;
+end;
+end);
+end));
+end;
+local function g(E)
+if not f or not E then
+return;
+end;
+if H[E] then
+b(E, E:FindFirstChild("Button", true));
+return;
+end;
+H[E] = true;
+table.insert(U, E.DescendantAdded:Connect(function(H)
+if H.Name == "Button" and(H:IsA("GuiButton")) then
+b(E, H);
+end;
+end));
+b(E, E:FindFirstChild("Button", true));
+table.insert(U, E:GetAttributeChangedSignal("Selected"):Connect(function()
+if E:GetAttribute("Selected") == true then
+F();
+else
+task.delay(0.2, function()
+if E.Parent and E:GetAttribute("Selected") ~= true then
+O();
+end;
+end);
+end;
+end));
+end;
+local function H()
+if not f then
+return;
+end;
+local F = M();
+if F then
+g(F);
+end;
+end;
+if _G.__CokeboysMobileSoruCleanup then
+pcall(_G.__CokeboysMobileSoruCleanup);
+end;
+_G.__CokeboysMobileSoruCleanup = l;
+if f then
+task.defer(H);
+table.insert(U, i.CharacterAdded:Connect(function()
+task.wait(0.75);
+H();
+end));
+l = i:FindFirstChildOfClass("PlayerGui");
+if l then
+table.insert(U, l.DescendantAdded:Connect(function(U)
+if U.Name == "BoundActionSoru" then
+task.defer(H);
+end;
+end));
+end;
+end;
+local function U(H)
+local g = H and(H:FindFirstChild("Button", true));
+if not g or type(getconnections) ~= "function" or not debug or type(debug.getinfo) ~= "function" or type(debug.getupvalue) ~= "function" then
+return nil;
+end;
+local l, F = pcall(getconnections, g.InputEnded);
+if not l or type(F) ~= "table" then
+return nil;
+end;
+for g, b in ipairs(F) do
+g = b.Function;
+b = type(g) == "function" and(debug.getinfo(g)) or nil;
+if b and(tostring(b.source):find("MobileUIController", 1, true)) then
+for F = 1, tonumber(b.nups) or 0, 1 do
+H, l = pcall(debug.getupvalue, g, F);
+F = H and type(l) == "function" and(debug.getinfo(l)) or nil;
+if F and(tostring(F.source):find(".Soru", 1, true)) then
+return l;
+end;
+end;
+end;
+end;
+return nil;
+end;
+local H;
+local g = 0;
+if f then
+_G.__CokeboysTrackRuntimeConnection(n.InputBegan:Connect(function(l)
+if l.UserInputType == Enum.UserInputType.Touch and _G.__CokeboysAutomatedMobileNativeTouch ~= true then
+H = l;
+g = tick();
+_G.__CokeboysLastNativeTouch = l;
+_G.__CokeboysLastNativeTouchAt = g;
+end;
+end));
+end;
+local function l(F, b)
+local E = d[11].getThreadContext and(d[11].getThreadContext());
+if E and not d[11].contextAlive(E) then
+return false;
+end;
+local m, I;
+local T, k = t.CurrentCamera, tick() + 0.35;
+repeat
+m = M();
+local t = m and(m:FindFirstChild("Button", true));
+if t and(t:IsA("GuiButton")) and t.Visible then
+I = U(m);
+end;
+if type(I) == "function" then
+break;
+end;
+task.wait(0.025);
+until tick() >= k;
+if type(I) ~= "function" or not T then
+return false;
+end;
+local U;
+if not F or F.UserInputType ~= Enum.UserInputType.Touch then
+U = Instance.new("BindableEvent");
+F = {KeyCode = Enum.KeyCode.Unknown, UserInputState = Enum.UserInputState.End, UserInputType = Enum.UserInputType.Touch,
+Position = Vector3.new(T.ViewportSize.X * 0.6, T.ViewportSize.Y * 0.48, 0), Changed = U.Event};
+end;
+O();
+if b == true then
+Tg = true;
+elseif type(_G.__CokeboysBeginSoruAim) ~= "function" or not _G.__CokeboysBeginSoruAim(1.25) then
+return false;
+end;
+v(b ~= true);
+local t = Vector2.new(T.ViewportSize.X * 0.6, T.ViewportSize.Y * 0.48);
+_G.__CokeboysMobileSoruTouchId = (tonumber(_G.__CokeboysMobileSoruTouchId) or 297) % 4095 + 1;
+local M = _G.__CokeboysMobileSoruTouchId;
+kg = true;
+_G.__CokeboysAutomatedMobileNativeTouch = true;
+b = pcall(function()
+local O = task.spawn(I, "BoundActionSoru", Enum.UserInputState.End, F);
+if E then
+table.insert(E.nativeThreads, O);
+end;
+O = tick() + 0.3;
+while m:GetAttribute("Selected") ~= true and tick() < O do
+task.wait();
+end;
+if E and not d[11].contextAlive(E) then
+error("macro stopped");
+end;
+if m:GetAttribute("Selected") ~= true then
+error("native Soru selector did not arm");
+end;
+W:SendTouchEvent(M, Enum.UserInputState.Begin.Value, math.floor(t.X), math.floor(t.Y));
+task.wait(0.05);
+W:SendTouchEvent(M, Enum.UserInputState.End.Value, math.floor(t.X), math.floor(t.Y));
+end);
+_G.__CokeboysAutomatedMobileNativeTouch = false;
+kg = false;
+if U then
+pcall(function()
+U:Destroy();
+end);
+end;
+return b;
+end;
+function _G.__CokeboysExecuteSoru(U, t, M, O)
+local F = d[11].getThreadContext and(d[11].getThreadContext());
+if F and not d[11].contextAlive(F) then
+return false, 0;
+end;
+if U == true and d[9].SoruAimbot ~= true and O ~= true then
+notify("Soru Aim", "Turn on Soru Aimbot to use P or S.AIM.", 1.5);
+return false, 0;
+end;
+local b = tick();
+if f and U == true and t == true then
+local E = b - Q;
+if E < J then
+return false, J - E;
+end;
+end;
+if b - r < V then
+return false, V - (b - r);
+end;
+local E = i.Character;
+if not E then
+return false, 0;
+end;
+local m = E:FindFirstChildOfClass("Humanoid");
+if not m or m.Health <= 0 then
+return false, 0;
+end;
+if E:FindFirstChild("Busy") and E.Busy.Value then
+return false, 0;
+end;
+m = G and(G(E)) or 0;
+if m > 0.03 then
+return false, m;
+end;
+if d[9].InfiniteSoru == true then
+local m, I = B(E);
+if not m then
+return false, tonumber(I) or 0;
+end;
+end;
+if f and U == true then
+if not l(if O == true and d[11].getMobileSkillMode and d[11].getMobileSkillMode() == 0 then
+nil
+else
+M) then
+notify("Soru Aim", "Could not activate mobile Soru.", 1.5);
+return false, 0;
+end;
+r = b;
+if t == true then
+Q = b;
+end;
+return true, t == true and(math.max(J, w(E))) or V;
+end;
+r = b;
+v(true);
+Tg, kg = U == true, true;
+if U == true and _G.__CokeboysBeginSoruAim then
+_G.__CokeboysBeginSoruAim();
+end;
+pcall(function()
+_G.__CokeboysMarkSyntheticKey(Enum.KeyCode.R);
+W:SendKeyEvent(true, Enum.KeyCode.R, false, game);
+task.wait(0.06);
+W:SendKeyEvent(false, Enum.KeyCode.R, false, game);
+end);
+kg = false;
+task.delay(0.3, function()
+if F and not d[11].contextAlive(F) then
+return;
+end;
+Tg = false;
+end);
+return true, t == true and(math.max(J, w(E))) or V;
+end;
+G = function(Q)
+if not Q then
+return 0;
+end;
+local J, U = w(Q), tonumber(getgenv().__CokeboysLastConfirmedSoruAt) or 0;
+if U > 0 then
+return math.max(0, J - (tick() - U));
+end;
+return 0;
+end;
+function _G.__CokeboysGetSoruReachState()
+local Q = i.Character;
+local J = Q and(Q:FindFirstChildOfClass("Humanoid"));
+if not Q or not J or J.Health <= 0 or not Q:FindFirstChild("Soru") then
+return false, 0, false;
+end;
+local J, U = math.max(G(Q), math.max(0, V - (tick() - r))), Q:FindFirstChild("Busy");
+return J <= 0.03 and not(U and U.Value == true), J, true;
+end;
+function _G.__CokeboysExecuteMacroSoru()
+local r = i.Character;
+local V = r and(r:FindFirstChildOfClass("Humanoid"));
+if not V or V.Health <= 0 then
+return false, "character unavailable", 0;
+end;
+if r:FindFirstChild("Busy") and r.Busy.Value then
+return false, "character is busy", 0;
+end;
+V = R and(R:FindFirstChild("HumanoidRootPart"));
+local Q = V and V.Parent and(V.Parent:FindFirstChildOfClass("Humanoid"));
+if not V or not Q or Q.Health <= 0 then
+return false, "no valid target", 0;
+end;
+Q = G(r);
+if Q > 0.03 then
+return false, "cooldown", Q;
+end;
+if type(_G.__CokeboysBeginSoruAim) ~= "function" or not _G.__CokeboysBeginSoruAim(1.25) then
+return false, "no valid target", 0;
+end;
+r = f and tick() - (H and g or(tonumber(_G.__CokeboysLastNativeTouchAt)) or 0) <= 0.4 and(H or _G.__CokeboysLastNativeTouch) or nil;
+Q, V = _G.__CokeboysExecuteSoru(true, false, r, true);
+if Q ~= true then
+return false, "Soru input unavailable", tonumber(V) or 0;
+end;
+return true, "", tonumber(V) or 0;
+end;
+function _G.__CokeboysExecuteAntiComboSoru(r)
+if typeof(r) ~= "Vector3" then
+return false;
+end;
+local V = i.Character;
+local Q = V and(V:FindFirstChildOfClass("Humanoid"));
+if not V or not Q or Q.Health <= 0 then
+return false;
+end;
+local J = V:FindFirstChild("Busy");
+if J and J.Value == true then
+return false;
+end;
+J = V:FindFirstChild("Stun");
+if J and(tonumber(J.Value) or 0) > 0.02 then
+return false;
+end;
+if Q.PlatformStand then
+return false;
+end;
+if d[9].InfiniteSoru == true then
+if not B(V) then
+return false;
+end;
+end;
+_G.__CokeboysSoruEscapePoint = r;
+_G.__CokeboysSoruEscapeUntil = tick() + 0.35;
+Tg = true;
+if f then
+r = l(H, true);
+if not r then
+Tg = false;
+_G.__CokeboysSoruEscapePoint = nil;
+_G.__CokeboysSoruEscapeUntil = 0;
+end;
+return r;
+end;
+kg = true;
+r = pcall(function()
+_G.__CokeboysMarkSyntheticKey(Enum.KeyCode.R);
+W:SendKeyEvent(true, Enum.KeyCode.R, false, game);
+task.wait(0.04);
+W:SendKeyEvent(false, Enum.KeyCode.R, false, game);
+end);
+kg = false;
+task.delay(0.18, function()
+if tick() >= (tonumber(_G.__CokeboysSoruEscapeUntil) or 0) - 0.17 then
+Tg = false;
+_G.__CokeboysSoruEscapePoint = nil;
+_G.__CokeboysSoruEscapeUntil = 0;
+end;
+end);
+return r;
+end;
+_G.__CokeboysTrackRuntimeConnection(n.InputBegan:Connect(function(r, V)
+if V then
+return;
+end;
+if _G.__CokeboysCapturingKeybind or tick() < (_G.__CokeboysCapturedKeySuppressUntil or 0) and(not _G.__CokeboysCapturedKeySuppress or r.KeyCode.Name == _G.__CokeboysCapturedKeySuppress) or _G.__CokeboysIsSyntheticKey and(_G.__CokeboysIsSyntheticKey(r.KeyCode)) then
+return;
+end;
+if mg() then
+return;
+end;
+if r.UserInputType ~= Enum.UserInputType.Keyboard then
+return;
+end;
+if r.KeyCode.Name == (d[9].SoruAimbotKey or "P") then
+_G.__CokeboysExecuteSoru(true);
+end;
+end));
+end)();
+(function()
+local r, V = 0, false;
+function _G.__CokeboysGetSoruOwnershipSnapshot()
+local Q = _soruSkillIntent;
+return {intent = type(Q) == "table", intentStartedAt = type(Q) == "table" and Q.StartedAt or nil,
+followupRunning = V == true, aimHeld = Tg == true, intentUntil = tonumber(_G.__CokeboysSoruIntentUntil)};
+end;
+local function Q(J)
+if not J then
+return;
+end;
+pcall(function()
+_G.__CokeboysTrackRuntimeConnection(J:GetAttributeChangedSignal("LastSoru"):Connect(function()
+local J, n = tonumber(_G.__CokeboysSoruIntentUntil) or 0, _soruSkillIntent;
+getgenv().__CokeboysLastConfirmedSoruAt = tick();
+local U = n;
+if d[11] and d[11].running then
+_G.__CokeboysSoruIntentUntil = 0;
+_soruSkillIntent = nil;
+return;
+end;
+if tick() > J then
+return;
+end;
+_G.__CokeboysSoruIntentUntil = 0;
+_soruSkillIntent = nil;
+if type(U) == "table" and U.AllowFollowup == false then
+return;
+end;
+_G.__CokeboysNativeNormalSoruRealAimUntil = 0;
+if f then
+Tg = false;
+if _G.__CokeboysClearSoruAim then
+_G.__CokeboysClearSoruAim();
+end;
+end;
+if ag then
+task.spawn(ag, U);
+end;
+end));
+end);
+end;
+_G.__CokeboysTrackRuntimeConnection(i.CharacterAdded:Connect(function(J)
+task.wait(0.5);
+Q(J);
+end));
+if i.Character then
+Q(i.Character);
+end;
+local function Q()
+local J = {{Weapon = d[9].SoruSkillWeapon or "Fruit", Key = d[9].SoruSkillKey or "Z", Priority = 1}};
+for n, U in ipairs(d[9].SoruSkillFallbacks or {}) do
+if n <= 2 and type(U) == "table" and U.Enabled == true then
+J[#J + 1] = {Weapon = U.Weapon or "Fruit", Key = U.Key or "Z", Priority = n + 1};
+end;
+end;
+return J;
+end;
+local function J(n, U)
+local H = tick() + math.max(0, tonumber(U) or 0);
+while n and n.Parent and n.Value == true do
+U = H - tick();
+if U <= 0 then
+return false;
+end;
+local H, t, g, G = coroutine.running(), false;
+local function w()
+if t then
+return;
+end;
+t = true;
+if g then
+g:Disconnect();
+end;
+if G then
+G:Disconnect();
+end;
+task.spawn(H);
+end;
+g = n:GetPropertyChangedSignal("Value"):Connect(w);
+G = n.AncestryChanged:Connect(function(H, H)
+if not H then
+w();
+end;
+end);
+task.delay(U, w);
+if n.Value == true then
+coroutine.yield();
+else
+t = true;
+g:Disconnect();
+G:Disconnect();
+end;
+end;
+return not(n and n.Parent and n.Value == true);
+end;
+local function n(U, H)
+if not U or not H then
+return false, false, nil;
+end;
+if d[11] and type(d[11].findSmartCooldown) == "function" then
+local t = d[11].findSmartCooldown(U.Name, H, true);
+if t then
+return true, type(d[11].smartCooldownActive) == "function" and(d[11].smartCooldownActive(t)) or false, t;
+end;
+end;
+local t, g = CB_WEAPON_EQUIP.skillCooldownState(U, H);
+return t, g, nil;
+end;
+local function U(H, t, g)
+local G, w, B = n(H, t);
+if G or not g then
+return G, w, B;
+end;
+g = tick() + 0.04;
+repeat
+task.wait(0.01);
+G, w, B = n(H, t);
+until G or tick() >= g;
+return G, w, B;
+end;
+local function n(H, t, g)
+H = if d[11] and type(d[11].findSmartCooldown) == "function" then
+d[11].findSmartCooldown(t, g, true) or H
+else
+H;
+if H and d[11] and type(d[11].smartCooldownActive) == "function" then
+return d[11].smartCooldownActive(H), H;
+end;
+return false, H;
+end;
+local function H(t, g, G, w, B)
+if f then
+local l = d[11].sendMobileSkill or _G.__CokeboysSendMobileSkill;
+if type(l) ~= "function" then
+return false, "mobile controls unavailable";
+end;
+local v, M = pcall(l, t, true, "world", G);
+if not v or M ~= true then
+return false, v and "mobile sender rejected the skill" or(tostring(M));
+end;
+task.wait(0.045);
+pcall(l, t, false);
+return true, "";
+end;
+if Rg(t, false, w, B, G) == false then
+return false, "skill input was rejected";
+end;
+_G.__CokeboysMarkSyntheticKey(g);
+if not pcall(function()
+W:SendKeyEvent(true, g, false, game);
+end) then
+return false, "desktop input unavailable";
+end;
+task.wait(0.045);
+pcall(function()
+W:SendKeyEvent(false, g, false, game);
+end);
+return true, "";
+end;
+function ag(W)
+if not CB_EXPERIENCE.Allows("combat.soru_skill_macro") then
+return false, "experience-blocked";
+end;
+if not d[9].SoruSkillMacro then
+return;
+end;
+if V then
+return;
+end;
+local t = i.Character;
+local g = t and(t:FindFirstChildOfClass("Tool"));
+if tick() - r < 0.3 then
+return;
+end;
+r, V = tick(), true;
+task.spawn(function()
+pcall(function()
+local r = math.clamp(tonumber(d[9].SoruSkillDelay) or 0.1, 0.05, 5);
+local t, G = (type(W) == "table" and(tonumber(W.StartedAt)) or(tick())) + r, i.Character;
+if type(W) == "table" and W.Character and W.Character ~= G then
+return;
+end;
+r = G and(G:FindFirstChild("Busy"));
+if r and r.Value and not J(r, 0.35) then
+return;
+end;
+G = type(W) == "table" and W.Target or nil;
+G = if not(G and G.Parent) then
+R
+else
+G;
+local W, w = G and(G:FindFirstChild("HumanoidRootPart")), G and(G:FindFirstChildOfClass("Humanoid"));
+if not W or not w or w.Health <= 0 then
+return;
+end;
+w, r, W = nil;
+for B, B in ipairs(Q()) do
+local Q, l = Enum.KeyCode[B.Key], getEquippedWeaponType() == B.Weapon;
+if Q and(l or(equipWeaponType(B.Weapon))) then
+w = i.Character and(i.Character:FindFirstChildOfClass("Tool"));
+local Q, v, M = U(w, B.Key, not l);
+if not(Q and v) then
+r, W = B, M;
+break;
+end;
+end;
+end;
+if not r then
+local Q, U = i.Character and(i.Character:FindFirstChildOfClass("Humanoid")), i:FindFirstChildOfClass("Backpack");
+if g and Q and U and g.Parent == U then
+pcall(function()
+Q:EquipTool(g);
+end);
+end;
+return;
+end;
+local Q, U = r.Key, r.Weapon;
+local B, l, v = Enum.KeyCode[Q], w and(w:FindFirstChild("Holding")), w ~= nil and w ~= g;
+if l and l.Value then
+J(l, 0.6);
+end;
+if l and l.Value and v then
+pcall(function()
+l.Value = false;
+end);
+task.wait(0.05);
+end;
+if l and l.Value then
+return;
+end;
+v = t - tick();
+if v > 0 then
+task.wait(v);
+end;
+if not H(Q, B, G, U, w) then
+if Ug then
+Ug();
+end;
+if f then
+notify("Soru Skill", "Could not find the mobile [" .. Q .. "] control.", 1.5);
+end;
+return;
+end;
+if W then
+t, r = tick() + 0.25, false;
+while tick() < t do
+v = i.Character and(i.Character:FindFirstChildOfClass("Tool"));
+local t, l = v and(v:FindFirstChild("Holding"));
+l, W = n(W, w.Name, Q);
+if l or t and t.Value == true then
+r = true;
+break;
+end;
+task.wait(0.015);
+end;
+if not r then
+task.wait(0.035);
+H(Q, B, G, U, w);
+end;
+end;
+v = i.Character and(i.Character:FindFirstChildOfClass("Tool"));
+local r = v and(v:FindFirstChild("Holding"));
+if r and r.Value then
+J(r, 2.5);
+end;
+if r and r.Value then
+pcall(function()
+r.Value = false;
+end);
+task.wait(0.08);
+end;
+task.wait(0.08);
+w = i.Character;
+local r, Q = w and(w:FindFirstChildOfClass("Humanoid")), i:FindFirstChildOfClass("Backpack");
+if g and r and Q and g.Parent == Q and(not v or v.Parent == w) then
+pcall(function()
+r:EquipTool(g);
+end);
+end;
+end);
+V = false;
+end);
+end;
+end)();
+(function()
+local r, V, Q, J, n, W, U, H, t = {}, setmetatable({}, {__mode = "k"}), setmetatable({}, {__mode = "k"}), setmetatable({}, {__mode = "k"}), setmetatable({}, {__mode = "k"}), setmetatable({}, {__mode = "k"}), getgenv().CokeboysGuiHidden == true;
+function _G.__CokeboysSetHitboxVisualsHidden(g)
+U = g == true;
+for g, g in pairs(r) do
+if g and g.Parent then
+pcall(function()
+g.Visible = not U and d[9].HitboxVisual == true;
+end);
+end;
+end;
+end;
+function K()
+for g, g in pairs(r) do
+pcall(function()
+g:Destroy();
+end);
+end;
+r = {};
+end;
+local function g(G)
+if not G or not G:IsA("Model") or G == i["Character"] then
+return false;
+end;
+if not G:FindFirstChild("Head") or not G:FindFirstChildOfClass("Humanoid") then
+return false;
+end;
+local w = h:GetPlayerFromCharacter(G);
+if w then
+return w ~= i;
+end;
+return G["Parent"] == workspace:FindFirstChild("Enemies");
+end;
+local function G(w)
+local B = h:GetPlayerFromCharacter(w);
+if B then
+return B.Name;
+end;
+return w:GetDebugId(4);
+end;
+local function w(B)
+if V[B] then
+return;
+end;
+V[B] = {Size = B.Size, Transparency = B.Transparency, CanCollide = B.CanCollide, Massless = B.Massless};
+end;
+local function B(l)
+local v = V[l];
+if not v then
+return false;
+end;
+local M = J[l];
+if M then
+for O, O in ipairs(M) do
+pcall(function()
+O:Disconnect();
+end);
+end;
+end;
+J[l] = nil;
+W[l] = true;
+pcall(function()
+l.Size = v.Size;
+l.Transparency = v.Transparency;
+l.CanCollide = v.CanCollide;
+l.Massless = v.Massless;
+end);
+W[l] = nil;
+V[l] = nil;
+return true;
+end;
+H = function(l, v)
+if v and not CB_EXPERIENCE.Allows("combat.hitbox_expansion") then
+return;
+end;
+if v and not g(l) then
+return;
+end;
+if not v and(not l or not l:IsA("Model") or l == i.Character) then
+return;
+end;
+local g = l:FindFirstChild("Head");
+if not g or not g:IsA("BasePart") then
+return;
+end;
+local M = G(l);
+if v then
+local v = d[9].HitboxSize or 10;
+w(g);
+W[g] = true;
+pcall(function()
+g.Size = Vector3.new(v, v, v);
+g.Transparency = 1;
+g.CanCollide = false;
+g.Massless = true;
+end);
+W[g] = nil;
+t(l, g);
+if d[9].HitboxVisual then
+local w = r[M];
+if not w or not w.Parent then
+w = Instance.new("SelectionBox");
+w.Color3 = Color3.new(1, 1, 1);
+w.SurfaceColor3 = Color3.fromRGB(13, 105, 172);
+w.LineThickness = 0.05;
+w.SurfaceTransparency = 1;
+w.Parent = workspace;
+r[M] = w;
+end;
+w.Adornee = g;
+w.Visible = not U;
+else
+local U = r[M];
+if U then
+pcall(function()
+U:Destroy();
+end);
+end;
+r[M] = nil;
+end;
+else
+B(g);
+local U = r[M];
+if U then
+pcall(function()
+U:Destroy();
+end);
+end;
+r[M] = nil;
+end;
+end;
+t = function(U, t)
+if not t or J[t] then
+return;
+end;
+local function g()
+if W[t] or d[9].HitboxExpander ~= true then
+return;
+end;
+local w = tonumber(d[9].HitboxSize) or 10;
+if Vector3.new(w, w, w) == t.Size and t.Transparency == 1 and t.CanCollide == false and t.Massless == true then
+return;
+end;
+W[t] = true;
+task.defer(function()
+if t.Parent == U and d[9].HitboxExpander == true then
+pcall(H, U, true);
+end;
+W[t] = nil;
+end);
+end;
+local W = {t:GetPropertyChangedSignal("Size"):Connect(g), t:GetPropertyChangedSignal("Transparency"):Connect(g),
+t:GetPropertyChangedSignal("CanCollide"):Connect(g), t:GetPropertyChangedSignal("Massless"):Connect(g)};
+J[t] = W;
+for J, J in ipairs(W) do
+_G.__CokeboysTrackRuntimeConnection(J);
+end;
+end;
+local function J(W)
+if not CB_EXPERIENCE["Allows"]("combat.hitbox_expansion") then
+return false;
+end;
+if d[9]["HitboxExpander"] ~= true then
+return false;
+end;
+local U = h:GetPlayerFromCharacter(W);
+if U then
+return U ~= i and not B7(U);
+end;
+return d[9]["HitboxNPCs"] == true and W["Parent"] == workspace:FindFirstChild("Enemies");
+end;
+local function N(W)
+if not W or not W:IsA("Model") or W == i.Character or n[W] then
+return;
+end;
+local U = W.ChildAdded:Connect(function(t)
+if t.Name ~= "Head" or not t:IsA("BasePart") then
+return;
+end;
+task.defer(function()
+if t.Parent == W and(J(W)) then
+pcall(H, W, true);
+end;
+end);
+end);
+n[W] = U;
+_G.__CokeboysTrackRuntimeConnection(U);
+end;
+local function J(W)
+if not W or not W:IsA("Model") then
+return;
+end;
+local U = G(W);
+pcall(H, W, false);
+local t = n[W];
+if t then
+pcall(function()
+t:Disconnect();
+end);
+end;
+n[W] = nil;
+local n = r[U];
+if n then
+pcall(function()
+n:Destroy();
+end);
+end;
+r[U] = nil;
+end;
+function P()
+if not CB_EXPERIENCE.Allows("combat.hitbox_expansion") then
+if q then
+q();
+end;
+return false, "experience-blocked";
+end;
+for r, r in ipairs(h:GetPlayers()) do
+if r ~= i and r.Character then
+N(r.Character);
+pcall(H, r.Character, not B7(r));
+end;
+end;
+local r = workspace:FindFirstChild("Enemies");
+if r then
+for n, n in ipairs(r:GetChildren()) do
+N(n);
+pcall(H, n, d[9].HitboxNPCs == true);
+end;
+end;
+end;
+function q()
+for r, r in ipairs(h:GetPlayers()) do
+if r ~= i and r.Character then
+pcall(H, r.Character, false);
+end;
+end;
+local r = workspace:FindFirstChild("Enemies");
+if r then
+for n, n in ipairs(r:GetChildren()) do
+pcall(H, n, false);
+end;
+end;
+for r in pairs(V) do
+if r and r.Parent then
+B(r);
+end;
+end;
+K();
+end;
+local function r(V)
+if Q[V] then
+return;
+end;
+Q[V] = true;
+if V.Character then
+N(V.Character);
+end;
+_G.__CokeboysTrackRuntimeConnection(V.CharacterAdded:Connect(function(n)
+N(n);
+task.wait(0.3);
+if d[9].HitboxExpander then
+pcall(H, n, not B7(V));
+end;
+end));
+_G.__CokeboysTrackRuntimeConnection(V.CharacterRemoving:Connect(function(V)
+J(V);
+end));
+end;
+if CB_EXPERIENCE.Allows("combat.hitbox_expansion") then
+_G.__CokeboysTrackRuntimeConnection(h.PlayerAdded:Connect(r));
+_G.__CokeboysTrackRuntimeConnection(h.PlayerRemoving:Connect(function(V)
+if V.Character then
+J(V.Character);
+end;
+Q[V] = nil;
+end));
+task.spawn(function()
+for V, V in ipairs(h:GetPlayers()) do
+if V ~= i then
+r(V);
+end;
+end;
+end);
+_G.__CokeboysTrackRuntimeConnection(i:GetPropertyChangedSignal("Team"):Connect(function()
+d[13]();
+if d[9].HitboxExpander then
+P();
+end;
+end));
+local r = workspace:FindFirstChild("Enemies");
+if r then
+_G.__CokeboysTrackRuntimeConnection(r.ChildAdded:Connect(function(V)
+N(V);
+task.wait(0.2);
+if d[9].HitboxExpander and d[9].HitboxNPCs == true then
+pcall(H, V, true);
+end;
+end));
+_G.__CokeboysTrackRuntimeConnection(r.ChildRemoved:Connect(function(r)
+J(r);
+end));
+end;
+_G.__CokeboysSpawnRuntimeTask(function()
+while true do
+task.wait(f and 12 or 8);
+if d[9].HitboxExpander then
+P();
+end;
+end;
+end);
+end;
+end)();
+if type(_G.__CokeboysMarkRuntimeReady) ~= "function" or _G.__CokeboysMarkRuntimeReady() ~= true then
+error("Cokeboys loader controller could not commit runtime readiness");
+end;
+task.defer(function()
+if getgenv().CokeboysScriptLoaded == true then
+local r = nil -- DevAurora: event collector disabled (authenticates with a key against the Cokeboys Event API)
+if type(r) == "function" then
+r(cokeboysLoaderController2.authenticatedKey);
+end;
+end;
+end);
+if f then
+notify("Cokeboys Script", "Loaded! Tap the Pikachu button to open the menu.", 4);
+elseif d[9].MenuKey == "None" then
+notify("Cokeboys Script", "Loaded! Use the menu button or /e hide to open the menu.", 4);
+else
+notify("Cokeboys Script", "Loaded! Press " .. (_G.__CokeboysDisplayKeyName and(_G.__CokeboysDisplayKeyName(d[9].MenuKey or(d[4] and "LeftControl" or "RightControl"))) or(tostring(d[9].MenuKey or "RightControl"))) .. " to open the menu.", 4);
+end;
+end
+-- ============================================================================
+-- DevAurora Code — direct launch (no key UI, no server, no revalidation)
+-- ============================================================================
+task.defer(function()
+fn22()
+local devauroraOk, devauroraErr = pcall(DevAuroraPayload)
+if not devauroraOk then
+warn("Cokeboys initialization failed: " .. tostring(devauroraErr))
+genv.__CokeboysResolvedExperienceLaunch = nil
+local devauroraUnload = genv.CokeboysFullUnload
+if cokeboysLoaderController2.fullUnloadInstalled == true and type(devauroraUnload) == "function" then
+pcall(devauroraUnload)
+else
+genv.CokeboysScriptLoaded = false
+end
+end
+end)
